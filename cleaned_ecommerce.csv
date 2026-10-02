@@ -1,0 +1,2010 @@
+order_id,customer_name,email,product,category,price,quantity,order_date,shipping_status,country
+ORD1000,Unknown,test@gmail.com,Tablet,Unknown,1136.18,2,2024-11-06,Shipped,United States
+ORD1001,Maria Lopez,example@outlook.com,Phone,Electronics,168.35,4,2023-01-02,Delivered,United States
+ORD1002,Timmy Pual,test@gmail.com,Phone,Unknown,209.13,3,2023-10-26,Delivered,United States
+ORD1003,Carlos Ruiz,user@yahoo.com,Keyboard,Unknown,1373.69,1,2023-12-02,Canceled,Mexico
+ORD1004,Amy Tims,example@outlook.com,Monitor,Electronics,468.47,5,2023-11-17,Shipped,United States
+ORD1005,Timmy Bob,example@outlook.com,Tablet,Electronics,551.14,5,2024-04-16,Canceled,United States
+ORD1006,John Doe,noemail@gmail.com,Keyboard,Electronics,288.1,4,2023-05-05,Pending,United States
+ORD1007,John Doe,noemail@gmail.com,Laptop,Electronics,463.31,3,2025-07-29,Canceled,United States
+ORD1008,Tim Gates,test@gmail.com,Monitor,Electronics,364.82,3,2025-01-15,Pending,United States
+ORD1009,John Doe,noemail@gmail.com,Tablet,Unknown,764.425,4,2023-09-02,delivered,Mexico
+ORD1010,Unknown,example@outlook.com,Laptop,Electronics,825.78,2,2024-10-06,Pending,Mexico
+ORD1011,Unknown,noemail@gmail.com,Phone,Electronics,424.1,2,2023-09-21,Canceled,United States
+ORD1012,Jenny Thomas,test@gmail.com,Keyboard,Electronics,696.68,1,2026-01-14,Delivered,United States
+ORD1013,Amber Garcia,test@gmail.com,Tablet,Electronics,316.82,2,2023-08-25,Pending,United States
+ORD1014,Joanna Anderson,test@gmail.com,Tablet,Unknown,828.61,1,2024-02-25,Shipped,United States
+ORD1015,Unknown,noemail@gmail.com,Phone,Electronics,1247.67,5,2023-08-13,Delivered,Mexico
+ORD1016,Joyce Thomas,example@outlook.com,Monitor,Electronics,606.66,1,2023-06-10,Delivered,United States
+ORD1017,Jennifer Cares,user@yahoo.com,Phone,Electronics,764.425,3,2024-02-17,Pending,United States
+ORD1018,Benny Anderson,test@gmail.com,Monitor,Electronics,1084.68,3,2024-04-10,delivered,United States
+ORD1019,Unknown,example@outlook.com,Phone,Electronics,877.0,2,2024-03-16,Delivered,United States
+ORD1020,Nick Valles,noemail@gmail.com,Laptop,Unknown,579.17,1,2024-08-25,Canceled,United States
+ORD1021,Unknown,noemail@gmail.com,Monitor,Electronics,700.1,4,2023-08-16,Pending,United States
+ORD1022,Unknown,example@outlook.com,Monitor,Unknown,1423.6,2,2023-11-03,Shipped,Mexico
+ORD1023,Karen Valdonado,example@outlook.com,Keyboard,Unknown,1407.24,4,2025-07-12,delivered,Mexico
+ORD1024,Yvonne Chavez,example@outlook.com,Monitor,Unknown,919.1,5,2025-11-09,Delivered,Mexico
+ORD1025,Jessica Candy,example@outlook.com,Laptop,Electronics,688.05,4,2024-05-08,Shipped,United States
+ORD1026,Yolanda Garcia,user@yahoo.com,Monitor,Electronics,1366.95,3,2024-02-22,Shipped,United States
+ORD1027,Roxanne Montoya,noemail@gmail.com,Phone,Unknown,933.69,1,2025-03-25,Delivered,United States
+ORD1028,Rose Gracias,test@gmail.com,Tablet,Unknown,764.425,3,2023-11-20,delivered,United States
+ORD1029,Paul Smith,test@gmail.com,Tablet,Unknown,264.62,4,2025-08-10,Delivered,unknown
+ORD1030,Amy Thomson,test@gmail.com,Phone,Electronics,377.18,5,2024-04-04,Delivered,Mexico
+ORD1031,Joanna Roxie,user@yahoo.com,Tablet,Electronics,1478.51,5,2025-04-30,Canceled,United States
+ORD1032,Timmy Anderson,noemail@gmail.com,Laptop,Electronics,992.84,4,2025-11-07,Pending,United States
+ORD1033,Joanna Brooks,example@outlook.com,Tablet,Electronics,65.31,4,2025-06-12,Delivered,unknown
+ORD1034,Joy Path,test@gmail.com,Phone,Electronics,1407.15,3,2024-05-17,Canceled,Mexico
+ORD1035,Unknown,example@outlook.com,Monitor,Electronics,233.78,3,2026-01-30,Delivered,United States
+ORD1036,Unknown,example@outlook.com,Monitor,Electronics,997.6,4,2026-01-03,delivered,unknown
+ORD1037,Jane Smith,example@outlook.com,Monitor,Electronics,54.89,5,,Shipped,United States
+ORD1038,Maria Lopez,user@yahoo.com,Laptop,Electronics,669.29,4,2025-08-15,Pending,United States
+ORD1039,John Doe,test@gmail.com,Phone,Electronics,354.2,2,2025-11-28,Canceled,Mexico
+ORD1040,Elsa Gomez,example@outlook.com,Monitor,Electronics,425.6,1,2024-09-01,delivered,unknown
+ORD1041,Dot Anders,test@gmail.com,Laptop,Electronics,762.16,5,2024-03-17,delivered,United States
+ORD1042,Gus Gus,test@gmail.com,Monitor,Unknown,299.8,3,2023-01-21,Delivered,United States
+ORD1043,Unknown,user@yahoo.com,Monitor,Unknown,1320.57,5,2023-12-21,Pending,Mexico
+ORD1044,John Doe,test@gmail.com,Monitor,Electronics,1117.07,1,2023-06-17,delivered,United States
+ORD1045,Chip Mayfield,test@gmail.com,Tablet,Electronics,706.37,5,2024-10-13,Shipped,United States
+ORD1046,John Doe,test@gmail.com,Phone,Unknown,154.68,5,2024-12-21,Delivered,United States
+ORD1047,Flounder May,noemail@gmail.com,Tablet,Electronics,615.2,3,2023-06-04,delivered,United States
+ORD1048,Unknown,example@outlook.com,Keyboard,Unknown,333.3,1,2024-07-17,Canceled,United States
+ORD1049,Elsa Smith,example@outlook.com,Monitor,Electronics,1003.69,2,2023-05-30,Delivered,United States
+ORD1050,Olaf Norman,example@outlook.com,Monitor,Electronics,788.0,2,2025-05-17,Canceled,United States
+ORD1051,Tim Beller,user@yahoo.com,Tablet,Unknown,747.12,1,2025-02-10,delivered,unknown
+ORD1052,Unknown,example@outlook.com,Tablet,Electronics,840.07,5,,delivered,United States
+ORD1053,Unknown,test@gmail.com,Phone,Unknown,687.08,4,2023-06-25,Pending,United States
+ORD1054,Timon Jones,example@outlook.com,Keyboard,Unknown,757.27,4,2024-09-27,Shipped,unknown
+ORD1055,Jennifer Karch,test@gmail.com,Tablet,Electronics,673.06,3,,Delivered,United States
+ORD1056,Unknown,user@yahoo.com,Keyboard,Electronics,901.98,4,2024-01-31,delivered,United States
+,Unknown,noemail@gmail.com,Tablet,Electronics,764.425,3,2025-12-17,delivered,United States
+ORD1058,Unknown,user@yahoo.com,Laptop,Electronics,1388.93,4,2025-05-03,Delivered,Mexico
+ORD1059,Unknown,example@outlook.com,Tablet,Electronics,1187.49,1,2023-11-23,Shipped,Mexico
+ORD1060,Isabela Lopez,user@yahoo.com,Monitor,Unknown,666.38,5,2025-10-16,Canceled,Mexico
+ORD1061,Ramone Jones,noemail@gmail.com,Keyboard,Unknown,1376.6,5,2023-02-07,Delivered,unknown
+ORD1062,Jone Toms,example@outlook.com,Tablet,Electronics,441.79,4,2024-07-30,Pending,unknown
+ORD1063,Maria Ben,noemail@gmail.com,Monitor,Electronics,1127.01,4,2025-12-19,Shipped,United States
+ORD1064,Paul Forth,example@outlook.com,Laptop,Electronics,1477.74,3,2024-05-11,delivered,unknown
+ORD1065,Chen Chan,noemail@gmail.com,Laptop,Unknown,728.51,3,2025-06-04,Canceled,United States
+ORD1066,Penny Anderson,user@yahoo.com,Tablet,Unknown,285.94,2,2024-02-02,Pending,United States
+ORD1067,Paul Phil,example@outlook.com,Monitor,Electronics,764.425,3,2024-05-05,Delivered,unknown
+ORD1068,Amy Doran,user@yahoo.com,Phone,Electronics,764.425,2,2026-01-30,Shipped,United States
+ORD1069,Unknown,user@yahoo.com,Monitor,Electronics,1470.75,2,2024-10-07,Canceled,United States
+ORD1070,Maria Streets,user@yahoo.com,Laptop,Electronics,600.15,2,2025-11-16,Pending,United States
+ORD1071,Jane Smith,user@yahoo.com,Tablet,Electronics,1052.95,4,2024-11-28,Delivered,United States
+ORD1072,Unknown,test@gmail.com,Keyboard,Electronics,1128.73,2,2023-01-17,delivered,unknown
+ORD1073,Unknown,user@yahoo.com,Keyboard,Electronics,467.57,2,2025-11-12,Canceled,United States
+ORD1074,Maria Bens,noemail@gmail.com,Laptop,Electronics,1420.71,4,2024-09-22,Canceled,United States
+ORD1075,Unknown,user@yahoo.com,Phone,Electronics,772.59,5,2025-04-29,delivered,unknown
+ORD1076,Jane Street,user@yahoo.com,Keyboard,Unknown,1393.04,5,2026-02-04,Delivered,United States
+ORD1077,Carlos Anderson,example@outlook.com,Tablet,Electronics,55.82,4,2023-11-09,Pending,United States
+ORD1078,Maria Garcias,user@yahoo.com,Keyboard,Electronics,1398.93,2,2025-12-08,Pending,Mexico
+ORD1079,Unknown,test@gmail.com,Laptop,Electronics,1127.27,1,2023-11-23,Shipped,Mexico
+ORD1080,Jane Dot,test@gmail.com,Phone,Electronics,689.73,1,2025-11-17,Shipped,United States
+ORD1081,Amy Patterson,user@yahoo.com,Phone,Electronics,1034.25,1,2023-02-25,Shipped,United States
+ORD1082,Unknown,noemail@gmail.com,Tablet,Electronics,1438.5,2,2025-09-13,delivered,unknown
+,Joanna Smiths,noemail@gmail.com,Phone,Electronics,161.98,3,2025-12-18,Shipped,United States
+ORD1084,Ramone Ruiz,noemail@gmail.com,Monitor,Unknown,317.2,4,2025-06-22,delivered,Mexico
+ORD1085,Jack Lopez,user@yahoo.com,Tablet,Electronics,656.84,3,2025-09-03,Pending,unknown
+ORD1086,Penny Patty,user@yahoo.com,Keyboard,Electronics,193.83,3,2023-12-22,Shipped,United States
+ORD1087,Anderson Smith,user@yahoo.com,Phone,Electronics,914.92,5,2025-01-06,Pending,Mexico
+ORD1088,Unknown,user@yahoo.com,Laptop,Unknown,278.82,5,2024-06-16,Canceled,unknown
+ORD1089,Sam Jones,user@yahoo.com,Laptop,Electronics,1202.34,3,,Delivered,United States
+,Andy Ford,user@yahoo.com,Laptop,Electronics,1439.62,3,2023-09-21,Shipped,United States
+ORD1091,Unknown,user@yahoo.com,Keyboard,Electronics,565.86,1,2025-03-21,delivered,United States
+ORD1092,Unknown,example@outlook.com,Keyboard,Electronics,413.78,3,2024-02-05,delivered,United States
+ORD1093,Benny Bates,example@outlook.com,Phone,Unknown,120.44,3,2024-03-16,Pending,United States
+ORD1094,Bruno Unes,user@yahoo.com,Tablet,Unknown,471.98,1,2023-01-08,delivered,Mexico
+ORD1095,Unknown,user@yahoo.com,Keyboard,Electronics,453.71,2,2023-10-15,Pending,United States
+ORD1096,Candy Samuals,example@outlook.com,Keyboard,Electronics,797.31,3,2026-02-07,delivered,United States
+ORD1097,Donna Anderson,user@yahoo.com,Phone,Electronics,672.64,2,2024-07-17,delivered,Mexico
+ORD1098,Carlos Thomas,noemail@gmail.com,Phone,Electronics,764.425,1,2023-09-14,delivered,United States
+ORD1099,Carlos Lopez,noemail@gmail.com,Tablet,Electronics,899.1,2,2024-09-17,Shipped,United States
+ORD1100,Jenny Smith,noemail@gmail.com,Laptop,Electronics,1118.85,2,2026-02-19,Canceled,United States
+ORD1101,John Doe,test@gmail.com,Laptop,Unknown,202.0,5,2023-06-09,Shipped,Mexico
+ORD1102,John Doe,test@gmail.com,Monitor,Electronics,1373.99,5,2023-07-03,Shipped,Mexico
+ORD1103,Jenny Anderson,test@gmail.com,Monitor,Electronics,764.425,4,2025-04-02,Shipped,United States
+ORD1104,Tisha Pauls,test@gmail.com,Monitor,Electronics,812.98,1,2023-10-01,Delivered,Mexico
+ORD1105,Edward Cole,noemail@gmail.com,Monitor,Electronics,1142.56,4,2024-11-11,Pending,Mexico
+ORD1106,Unknown,noemail@gmail.com,Laptop,Electronics,1410.69,4,2025-07-18,delivered,United States
+ORD1107,Amanda Patterson,example@outlook.com,Monitor,Electronics,90.25,4,2024-10-29,delivered,United States
+ORD1108,Phillis Garcia,user@yahoo.com,Monitor,Electronics,417.16,2,2024-04-09,Delivered,unknown
+ORD1109,Amanda Unders,test@gmail.com,Laptop,Electronics,561.17,2,2024-01-07,Canceled,United States
+ORD1110,Richard Garcia,test@gmail.com,Keyboard,Electronics,1269.1,2,2024-10-14,Canceled,unknown
+ORD1111,David Smith,example@outlook.com,Laptop,Electronics,924.46,2,2024-10-02,Canceled,United States
+ORD1112,Paul Lives,noemail@gmail.com,Phone,Electronics,661.9,4,2023-01-11,Shipped,Mexico
+ORD1113,John Doe,example@outlook.com,Phone,Electronics,406.71,5,2025-06-22,Shipped,United States
+ORD1114,John Doe,test@gmail.com,Monitor,Electronics,876.26,5,2026-01-14,Shipped,United States
+ORD1115,Joyce Gutierrez,example@outlook.com,Monitor,Unknown,441.09,3,2025-12-29,Shipped,unknown
+ORD1116,Ammy Dots,user@yahoo.com,Tablet,Electronics,756.93,3,2023-03-29,Canceled,United States
+ORD1117,Bonny Anderson,user@yahoo.com,Monitor,Electronics,104.07,2,,Delivered,United States
+ORD1118,Ruben Caves,noemail@gmail.com,Monitor,Electronics,1209.71,1,2025-08-21,Canceled,United States
+ORD1119,Joanna Cavez,test@gmail.com,Monitor,Unknown,794.76,5,,delivered,United States
+ORD1120,Maria Dotes,test@gmail.com,Laptop,Electronics,136.3,3,2025-09-10,Shipped,unknown
+ORD1121,Carlos Smith,noemail@gmail.com,Keyboard,Electronics,806.26,5,2023-03-24,Delivered,Mexico
+ORD1122,Joyce Anderson,noemail@gmail.com,Laptop,Electronics,601.58,5,2023-12-08,Shipped,United States
+ORD1123,Unknown,noemail@gmail.com,Laptop,Electronics,376.2,5,2023-04-22,delivered,United States
+ORD1124,Ruben Martinez,user@yahoo.com,Monitor,Electronics,479.91,2,2025-08-27,Canceled,unknown
+ORD1125,Jone Franks,user@yahoo.com,Keyboard,Electronics,1029.02,2,2024-08-19,Pending,Mexico
+ORD1126,Joyce Patterson,user@yahoo.com,Laptop,Electronics,262.24,4,2025-11-20,Canceled,unknown
+ORD1127,Unknown,example@outlook.com,Laptop,Electronics,745.73,4,2023-03-02,Shipped,United States
+ORD1128,Maria Pet,user@yahoo.com,Tablet,Electronics,1327.36,3,2024-06-08,Pending,United States
+ORD1129,Jimmy Pats,noemail@gmail.com,Phone,Electronics,493.42,1,2023-06-27,delivered,United States
+ORD1130,Peter Chips,test@gmail.com,Phone,Electronics,225.17,3,2025-09-28,Canceled,United States
+ORD1131,Unknown,noemail@gmail.com,Phone,Electronics,732.62,2,2024-10-30,Shipped,Mexico
+ORD1132,Isabela Kains,user@yahoo.com,Tablet,Electronics,233.23,2,2023-06-27,Delivered,United States
+ORD1133,Unknown,noemail@gmail.com,Keyboard,Electronics,1402.74,4,2023-01-28,delivered,unknown
+ORD1134,Ramone Lopez,test@gmail.com,Tablet,Electronics,111.7,5,2026-01-01,Shipped,Mexico
+ORD1135,Unknown,user@yahoo.com,Laptop,Electronics,1293.7,3,2025-11-19,Delivered,United States
+ORD1136,Eric Smiths,test@gmail.com,Tablet,Electronics,1034.0,2,2023-01-08,Shipped,United States
+ORD1137,Franny Hopes,user@yahoo.com,Monitor,Electronics,1212.3,1,2024-02-10,Shipped,unknown
+ORD1138,Unknown,test@gmail.com,Monitor,Electronics,382.51,4,2026-02-28,Shipped,unknown
+ORD1139,Unknown,example@outlook.com,Monitor,Electronics,1161.68,2,2023-08-10,Pending,United States
+ORD1140,David Anderson,test@gmail.com,Keyboard,Unknown,726.01,1,2023-10-14,Delivered,unknown
+ORD1141,Frank Martinez,example@outlook.com,Laptop,Electronics,249.5,4,2024-08-28,Shipped,United States
+ORD1142,Fred Justice,noemail@gmail.com,Laptop,Electronics,776.28,1,2025-06-19,delivered,United States
+ORD1143,Paul Patterson,noemail@gmail.com,Tablet,Electronics,430.79,4,2023-03-02,Pending,Mexico
+ORD1144,Amber Jones,noemail@gmail.com,Phone,Electronics,517.8,2,2024-07-07,Pending,United States
+ORD1145,Unknown,noemail@gmail.com,Keyboard,Electronics,759.39,1,2023-11-25,delivered,United States
+ORD1146,Frank Anders,noemail@gmail.com,Laptop,Unknown,618.82,5,2025-07-07,delivered,Mexico
+,Rose Martinez,example@outlook.com,Phone,Electronics,884.65,1,2025-07-17,Delivered,United States
+ORD1148,Steph Grands,test@gmail.com,Laptop,Electronics,409.54,4,,delivered,Mexico
+ORD1149,Jennifer Pauls,noemail@gmail.com,Phone,Unknown,754.73,4,2023-01-29,delivered,unknown
+ORD1150,Unknown,example@outlook.com,Laptop,Electronics,1242.52,2,2025-09-25,Delivered,United States
+ORD1151,David Williams,test@gmail.com,Keyboard,Electronics,513.7,2,2023-07-25,Canceled,United States
+ORD1152,Jane Hunters,example@outlook.com,Keyboard,Electronics,463.86,5,2025-12-06,delivered,Mexico
+ORD1153,John Doe,example@outlook.com,Tablet,Electronics,1270.14,1,2024-11-22,Shipped,United States
+ORD1154,Paul Jones,test@gmail.com,Laptop,Electronics,1380.99,1,2025-08-17,delivered,United States
+ORD1155,Unknown,example@outlook.com,Monitor,Electronics,489.93,2,2024-05-29,delivered,unknown
+ORD1156,Hope Lopez,user@yahoo.com,Keyboard,Electronics,453.32,2,2025-10-14,Pending,United States
+ORD1157,Joanna Garcia,test@gmail.com,Monitor,Electronics,1112.01,1,2023-03-10,Canceled,United States
+ORD1158,David Andersons,test@gmail.com,Tablet,Unknown,204.8,2,2024-10-08,Canceled,United States
+ORD1159,Unknown,example@outlook.com,Monitor,Unknown,764.425,4,2023-05-22,Pending,Mexico
+ORD1160,Frank Valles,noemail@gmail.com,Monitor,Unknown,764.425,4,2023-02-26,Delivered,United States
+ORD1161,Brandon Hope,noemail@gmail.com,Keyboard,Electronics,1488.02,2,2023-01-09,delivered,United States
+ORD1162,Unknown,user@yahoo.com,Phone,Electronics,262.56,5,2024-09-29,Delivered,United States
+ORD1163,Unknown,test@gmail.com,Tablet,Electronics,338.34,1,2025-10-20,Pending,United States
+ORD1164,Ben Williams,noemail@gmail.com,Tablet,Electronics,880.56,3,2025-01-20,Pending,United States
+ORD1165,Jenny Thomas,noemail@gmail.com,Phone,Electronics,1498.55,5,2025-01-03,Delivered,unknown
+ORD1166,Sivia Salazar,noemail@gmail.com,Phone,Electronics,989.33,4,2025-05-03,Canceled,United States
+ORD1167,Sam Soto,user@yahoo.com,Monitor,Electronics,249.3,3,2024-07-01,Shipped,unknown
+ORD1168,Unknown,noemail@gmail.com,Phone,Electronics,172.43,2,2025-11-02,Shipped,Mexico
+,Unknown,user@yahoo.com,Keyboard,Electronics,1189.33,4,2025-01-28,Shipped,Mexico
+ORD1170,Unknown,noemail@gmail.com,Keyboard,Electronics,810.33,2,2025-11-16,Delivered,United States
+ORD1171,James Munoz,noemail@gmail.com,Tablet,Electronics,1440.8,1,2023-09-01,delivered,Mexico
+ORD1172,Noah Bens,test@gmail.com,Keyboard,Electronics,1419.7,4,2023-04-13,Delivered,United States
+ORD1173,Remy Monoz,example@outlook.com,Phone,Electronics,764.425,5,2025-02-23,Delivered,United States
+ORD1174,Unknown,test@gmail.com,Tablet,Unknown,86.35,5,2023-09-21,Pending,United States
+ORD1175,Chip Anderson,example@outlook.com,Laptop,Unknown,868.06,5,2024-03-30,Pending,United States
+ORD1176,Joe Martinez,example@outlook.com,Phone,Electronics,565.29,3,2023-08-31,Shipped,Mexico
+ORD1177,Ramone Baros,test@gmail.com,Keyboard,Electronics,279.48,3,2023-08-23,Shipped,Mexico
+ORD1178,Unknown,example@outlook.com,Phone,Unknown,1056.68,2,2024-05-21,delivered,unknown
+ORD1179,Noah Smith,test@gmail.com,Laptop,Electronics,716.2,2,2025-10-28,delivered,unknown
+ORD1180,John Guzman,example@outlook.com,Phone,Electronics,1476.01,5,2025-03-31,Shipped,unknown
+ORD1181,Melanie Munoz,noemail@gmail.com,Keyboard,Electronics,576.58,5,2025-10-25,delivered,unknown
+ORD1182,Monica Hernandez,test@gmail.com,Phone,Electronics,1029.81,1,2026-02-22,Pending,unknown
+ORD1183,Jenny Fisco,user@yahoo.com,Tablet,Electronics,955.11,5,2024-09-20,Canceled,unknown
+ORD1184,Marie Martinez,test@gmail.com,Tablet,Electronics,1063.6,1,2025-07-26,Canceled,United States
+ORD1185,Frank Anderson,noemail@gmail.com,Monitor,Electronics,1073.57,4,2023-03-14,Pending,United States
+ORD1186,Unknown,noemail@gmail.com,Keyboard,Electronics,1386.44,4,2023-05-12,Shipped,United States
+ORD1187,Dot Ruiz,example@outlook.com,Phone,Unknown,1107.86,4,2023-03-07,Canceled,Mexico
+ORD1188,Elsa Lop,test@gmail.com,Keyboard,Electronics,1381.69,4,2023-02-11,Canceled,United States
+ORD1189,Joy Smith,noemail@gmail.com,Tablet,Electronics,511.29,3,2025-03-26,Pending,United States
+ORD1190,Sebastian Anders,user@yahoo.com,Phone,Electronics,786.28,2,2023-05-13,Pending,unknown
+ORD1191,John Doe,test@gmail.com,Phone,Unknown,924.1,2,2023-04-06,Pending,United States
+ORD1192,Dots Smith,noemail@gmail.com,Phone,Unknown,838.58,1,,Delivered,unknown
+ORD1193,Unknown,user@yahoo.com,Laptop,Electronics,433.37,3,2025-04-18,delivered,United States
+ORD1194,Unknown,user@yahoo.com,Monitor,Electronics,1191.1,4,2025-09-28,Delivered,United States
+ORD1195,Gus Anders,test@gmail.com,Keyboard,Electronics,589.73,4,2025-08-29,Delivered,United States
+ORD1196,Colette Chanes,user@yahoo.com,Keyboard,Unknown,1288.57,5,2024-04-15,delivered,United States
+ORD1197,Jannette Smith,example@outlook.com,Tablet,Electronics,1221.48,1,2025-08-30,Pending,unknown
+ORD1198,Hope Ruiz,test@gmail.com,Laptop,Electronics,1313.03,5,2025-12-02,Delivered,United States
+ORD1199,Amy Doe,test@gmail.com,Laptop,Electronics,361.68,5,2023-02-15,Shipped,Mexico
+ORD1200,Colette Joy,user@yahoo.com,Tablet,Electronics,92.74,4,2025-08-07,Delivered,United States
+ORD1201,Gus Martinez,test@gmail.com,Tablet,Unknown,837.8,5,2025-06-27,Canceled,unknown
+,Amy Patterson,test@gmail.com,Keyboard,Electronics,1041.9,2,2025-11-16,Pending,unknown
+ORD1203,Unknown,test@gmail.com,Monitor,Electronics,598.47,4,2023-12-11,delivered,unknown
+ORD1204,Unknown,noemail@gmail.com,Tablet,Electronics,1313.11,2,2023-07-19,Pending,United States
+ORD1205,Maria Lopez,noemail@gmail.com,Monitor,Electronics,794.95,4,2025-02-22,Shipped,Mexico
+ORD1206,Unknown,user@yahoo.com,Laptop,Electronics,589.0,5,,Canceled,United States
+ORD1207,Unknown,example@outlook.com,Laptop,Electronics,87.84,1,2025-06-23,Delivered,unknown
+ORD1208,John Doe,noemail@gmail.com,Monitor,Electronics,764.425,4,2024-08-06,delivered,Mexico
+ORD1209,Unknown,user@yahoo.com,Keyboard,Electronics,1224.09,3,2023-09-15,Canceled,United States
+ORD1210,Unknown,example@outlook.com,Tablet,Unknown,764.425,5,2023-11-19,delivered,United States
+ORD1211,Jane Smith,test@gmail.com,Keyboard,Electronics,784.67,2,2024-06-12,delivered,unknown
+ORD1212,Jane Smith,test@gmail.com,Keyboard,Electronics,921.67,1,2025-07-11,Canceled,United States
+ORD1213,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,1179.68,5,2024-08-09,delivered,unknown
+ORD1214,Jane Smith,test@gmail.com,Monitor,Electronics,1018.71,3,2024-04-05,Pending,United States
+ORD1215,Maria Lopez,test@gmail.com,Monitor,Electronics,345.84,4,2025-03-19,Canceled,United States
+ORD1216,Unknown,user@yahoo.com,Laptop,Electronics,1339.83,1,2023-05-19,Delivered,United States
+ORD1217,John Doe,test@gmail.com,Monitor,Electronics,559.63,5,2023-08-30,delivered,unknown
+ORD1218,Maria Lopez,example@outlook.com,Laptop,Unknown,504.61,1,2023-01-19,Delivered,United States
+ORD1219,Jane Smith,test@gmail.com,Phone,Electronics,1116.67,2,2024-02-19,Canceled,Mexico
+ORD1220,John Doe,noemail@gmail.com,Phone,Unknown,963.61,3,2025-04-17,Pending,Mexico
+ORD1221,Jane Smith,test@gmail.com,Laptop,Electronics,1317.05,1,2025-03-26,Canceled,Mexico
+ORD1222,Unknown,noemail@gmail.com,Monitor,Unknown,201.72,3,2026-01-27,Shipped,United States
+ORD1223,Jane Smith,example@outlook.com,Phone,Electronics,601.68,4,2024-01-16,Canceled,United States
+ORD1224,Maria Lopez,noemail@gmail.com,Phone,Electronics,456.77,1,2023-03-24,Shipped,United States
+ORD1225,Maria Lopez,example@outlook.com,Keyboard,Electronics,454.65,3,2024-05-11,Delivered,Mexico
+ORD1226,Jane Smith,test@gmail.com,Keyboard,Unknown,988.29,2,2023-07-04,Shipped,unknown
+ORD1227,Jane Smith,example@outlook.com,Keyboard,Electronics,937.49,2,2025-07-25,Delivered,United States
+ORD1228,Unknown,example@outlook.com,Phone,Electronics,921.62,3,2023-12-24,Pending,United States
+ORD1229,John Doe,user@yahoo.com,Tablet,Electronics,565.89,3,2025-07-18,Pending,Mexico
+ORD1230,John Doe,user@yahoo.com,Tablet,Electronics,760.57,1,2024-08-10,delivered,Mexico
+ORD1231,Carlos Ruiz,test@gmail.com,Laptop,Unknown,966.33,2,2025-03-29,Pending,United States
+ORD1232,Carlos Ruiz,test@gmail.com,Keyboard,Unknown,743.77,5,2023-06-24,Pending,unknown
+ORD1233,Unknown,noemail@gmail.com,Phone,Electronics,737.71,3,2025-05-11,Canceled,United States
+ORD1234,Unknown,example@outlook.com,Phone,Electronics,121.15,4,2023-04-22,Shipped,United States
+ORD1235,John Doe,user@yahoo.com,Keyboard,Unknown,1333.69,2,2024-01-11,delivered,United States
+ORD1236,Carlos Ruiz,user@yahoo.com,Tablet,Unknown,987.78,1,2025-05-22,delivered,unknown
+ORD1237,Maria Lopez,example@outlook.com,Laptop,Electronics,769.53,2,2025-07-01,Delivered,United States
+ORD1238,John Doe,test@gmail.com,Keyboard,Electronics,652.18,5,2024-11-16,Shipped,United States
+ORD1239,Unknown,test@gmail.com,Keyboard,Electronics,539.09,5,2023-02-02,Shipped,United States
+ORD1240,Jane Smith,user@yahoo.com,Monitor,Electronics,317.43,2,2024-06-11,Pending,United States
+,Unknown,user@yahoo.com,Phone,Electronics,1483.03,3,2024-12-08,Shipped,unknown
+ORD1242,Jane Smith,example@outlook.com,Monitor,Electronics,847.84,5,2023-12-16,Shipped,unknown
+ORD1243,Maria Lopez,example@outlook.com,Monitor,Unknown,1217.87,4,2024-08-19,Shipped,Mexico
+ORD1244,Maria Lopez,example@outlook.com,Keyboard,Electronics,370.52,3,2025-09-02,Delivered,United States
+ORD1245,Maria Lopez,test@gmail.com,Monitor,Unknown,581.1,5,2023-06-08,delivered,Mexico
+ORD1246,John Doe,example@outlook.com,Monitor,Electronics,194.37,1,2023-12-17,delivered,United States
+ORD1247,Unknown,user@yahoo.com,Phone,Electronics,121.1,5,2025-05-15,Pending,United States
+ORD1248,Maria Lopez,test@gmail.com,Laptop,Electronics,1151.11,2,2025-01-29,Shipped,unknown
+ORD1249,Jane Smith,test@gmail.com,Phone,Electronics,1448.73,2,2025-03-20,Canceled,unknown
+ORD1250,Jane Smith,example@outlook.com,Phone,Electronics,488.75,3,2023-09-21,Canceled,United States
+ORD1251,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,58.18,4,2025-10-01,Shipped,United States
+ORD1252,Unknown,noemail@gmail.com,Laptop,Unknown,897.05,4,2023-01-12,Delivered,United States
+ORD1253,Jane Smith,user@yahoo.com,Tablet,Electronics,133.32,5,2024-03-13,Pending,United States
+ORD1254,Unknown,user@yahoo.com,Keyboard,Electronics,634.39,3,2024-02-19,Pending,United States
+ORD1255,Jane Smith,test@gmail.com,Laptop,Electronics,1445.92,1,2025-10-06,delivered,United States
+ORD1256,Jane Smith,test@gmail.com,Monitor,Electronics,1275.4,1,2025-04-13,Canceled,Mexico
+ORD1257,John Doe,test@gmail.com,Phone,Unknown,124.61,4,2025-09-29,Delivered,United States
+ORD1258,Jane Smith,user@yahoo.com,Keyboard,Electronics,1488.05,5,2024-08-10,Shipped,unknown
+ORD1259,Tim Doe,test@gmail.com,Keyboard,Electronics,307.32,4,2023-03-05,Pending,Mexico
+ORD1260,John Doe,example@outlook.com,Tablet,Unknown,783.2,3,2025-04-20,Shipped,United States
+ORD1261,John Doe,example@outlook.com,Phone,Electronics,523.87,1,2023-10-02,delivered,United States
+ORD1262,Unknown,test@gmail.com,Phone,Electronics,1057.75,2,2025-06-09,Canceled,United States
+ORD1263,Guss Anderson,example@outlook.com,Monitor,Electronics,1024.79,3,2025-11-03,Pending,United States
+ORD1264,Maria Lopez,test@gmail.com,Monitor,Electronics,1312.38,4,2024-02-19,Delivered,Mexico
+ORD1265,Mattie Lopez,example@outlook.com,Laptop,Electronics,1259.08,5,2023-12-22,Shipped,United States
+ORD1266,Unknown,noemail@gmail.com,Keyboard,Electronics,607.51,5,2023-04-18,delivered,unknown
+ORD1267,Paul Gus,test@gmail.com,Laptop,Electronics,604.24,2,,delivered,United States
+ORD1268,Carlos Ruiz,example@outlook.com,Phone,Electronics,862.74,3,2024-08-28,Pending,United States
+ORD1269,John Doe,noemail@gmail.com,Monitor,Electronics,1323.43,2,2025-06-09,delivered,United States
+ORD1270,Carlos Ruiz,example@outlook.com,Phone,Electronics,461.7,4,2025-09-04,delivered,unknown
+ORD1271,Maria Lopez,example@outlook.com,Monitor,Electronics,435.58,3,2023-09-22,Canceled,unknown
+ORD1272,John Doe,noemail@gmail.com,Keyboard,Electronics,1051.08,4,2025-09-04,Delivered,Mexico
+ORD1273,Anderson Smith,user@yahoo.com,Laptop,Electronics,764.425,1,2025-08-02,Shipped,Mexico
+ORD1274,John Doe,test@gmail.com,Laptop,Electronics,835.67,5,2024-05-29,Canceled,unknown
+ORD1275,John Doe,user@yahoo.com,Phone,Electronics,653.79,1,2023-07-22,Pending,United States
+ORD1276,John Doe,example@outlook.com,Phone,Electronics,763.59,5,2023-12-11,Pending,United States
+ORD1277,Maria Lopez,user@yahoo.com,Laptop,Unknown,245.01,1,2024-08-10,delivered,United States
+ORD1278,Unknown,user@yahoo.com,Laptop,Electronics,1052.74,2,2025-09-27,Delivered,United States
+ORD1279,John Doe,user@yahoo.com,Tablet,Electronics,630.89,2,2025-02-02,delivered,unknown
+ORD1280,Maria Lopez,user@yahoo.com,Monitor,Electronics,375.34,3,2023-10-30,delivered,unknown
+ORD1281,Unknown,user@yahoo.com,Laptop,Electronics,943.63,2,2025-08-13,Pending,Mexico
+,Carlos Ruiz,test@gmail.com,Monitor,Electronics,369.03,2,2024-05-23,Pending,United States
+ORD1283,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,904.44,3,2023-10-27,Delivered,unknown
+ORD1284,Unknown,noemail@gmail.com,Monitor,Electronics,443.0,4,2024-05-26,Delivered,United States
+ORD1285,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,1317.31,5,2026-02-04,Canceled,Mexico
+ORD1286,Unknown,test@gmail.com,Laptop,Electronics,762.26,4,2024-11-09,Canceled,United States
+ORD1287,Maria Lopez,user@yahoo.com,Monitor,Unknown,720.96,2,2023-05-21,Delivered,United States
+ORD1288,Maria Lopez,test@gmail.com,Monitor,Electronics,1102.63,5,2025-10-17,Canceled,unknown
+ORD1289,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,255.42,1,2023-07-04,Canceled,Mexico
+ORD1290,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,759.42,2,2025-07-23,Delivered,United States
+ORD1291,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,826.57,1,2024-01-13,delivered,unknown
+ORD1292,Unknown,user@yahoo.com,Tablet,Unknown,764.425,5,2024-04-23,Canceled,United States
+ORD1293,Unknown,noemail@gmail.com,Keyboard,Unknown,356.12,3,2025-03-20,Canceled,Mexico
+ORD1294,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,754.33,3,2024-04-27,Canceled,United States
+ORD1295,Maria Lopez,user@yahoo.com,Phone,Unknown,555.71,1,2025-02-14,delivered,United States
+ORD1296,Maria Lopez,noemail@gmail.com,Tablet,Electronics,163.49,3,2026-02-19,delivered,unknown
+ORD1297,John Doe,noemail@gmail.com,Phone,Electronics,750.22,1,2025-04-02,Delivered,Mexico
+ORD1298,Maria Lopez,user@yahoo.com,Phone,Electronics,1450.87,3,2025-04-23,Canceled,United States
+ORD1299,John Doe,test@gmail.com,Tablet,Electronics,1398.77,3,2023-06-24,Pending,United States
+ORD1300,John Doe,noemail@gmail.com,Tablet,Electronics,230.11,5,2023-04-13,Pending,United States
+ORD1301,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,868.66,3,2023-11-11,Canceled,United States
+ORD1302,Jane Smith,user@yahoo.com,Monitor,Electronics,97.68,2,2024-04-16,Pending,United States
+ORD1303,Unknown,noemail@gmail.com,Keyboard,Electronics,660.16,1,2025-05-28,Delivered,United States
+ORD1304,Jane Smith,example@outlook.com,Tablet,Electronics,462.08,1,2025-01-10,delivered,United States
+ORD1305,John Doe,noemail@gmail.com,Keyboard,Electronics,502.28,3,2025-10-29,Shipped,Mexico
+ORD1306,Carlos Ruiz,test@gmail.com,Laptop,Unknown,1304.26,3,2025-09-14,delivered,unknown
+ORD1307,Unknown,example@outlook.com,Tablet,Unknown,1134.23,4,2023-12-02,Delivered,United States
+ORD1308,John Doe,noemail@gmail.com,Phone,Electronics,1012.08,3,2025-10-03,Canceled,unknown
+ORD1309,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,1320.79,5,2025-06-16,Canceled,United States
+ORD1310,Unknown,example@outlook.com,Laptop,Electronics,60.11,5,2023-07-06,Delivered,United States
+ORD1311,John Doe,example@outlook.com,Keyboard,Electronics,414.63,2,2024-04-07,Delivered,unknown
+ORD1312,Unknown,user@yahoo.com,Monitor,Electronics,498.3,2,2025-10-06,Canceled,United States
+ORD1313,David Smith,noemail@gmail.com,Phone,Electronics,524.54,1,2024-07-01,Pending,United States
+ORD1314,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,408.17,4,2025-10-18,Shipped,United States
+ORD1315,Jane Smith,noemail@gmail.com,Tablet,Electronics,110.13,2,2025-06-20,Pending,unknown
+ORD1316,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,198.06,5,2025-11-30,delivered,United States
+ORD1317,Jane Smith,noemail@gmail.com,Monitor,Unknown,1464.21,1,2024-02-20,Pending,United States
+ORD1318,Unknown,test@gmail.com,Phone,Electronics,821.27,1,2023-11-17,Shipped,United States
+ORD1319,John Doe,noemail@gmail.com,Tablet,Electronics,127.29,5,2026-01-14,Pending,Mexico
+ORD1320,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,346.66,2,2026-01-08,Canceled,United States
+ORD1321,Jane Smith,example@outlook.com,Monitor,Electronics,333.99,4,2025-12-30,delivered,United States
+ORD1322,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,846.79,3,2023-03-07,Delivered,United States
+ORD1323,John Doe,test@gmail.com,Tablet,Electronics,764.425,1,2024-04-17,Delivered,United States
+ORD1324,Carlos Ruiz,example@outlook.com,Tablet,Electronics,1226.5,3,2023-11-21,delivered,United States
+ORD1325,John Doe,user@yahoo.com,Monitor,Electronics,89.3,1,2026-02-09,Shipped,Mexico
+ORD1326,Maria Lopez,noemail@gmail.com,Phone,Electronics,186.29,5,2024-01-10,Delivered,unknown
+ORD1327,Maria Lopez,noemail@gmail.com,Laptop,Electronics,1377.69,2,2025-01-09,delivered,United States
+ORD1328,John Doe,example@outlook.com,Tablet,Unknown,193.79,1,2024-03-03,Pending,United States
+ORD1329,Jane Smith,example@outlook.com,Monitor,Electronics,764.425,4,2025-12-07,Shipped,United States
+ORD1330,Jane Smith,test@gmail.com,Laptop,Electronics,552.57,4,2025-12-22,Pending,United States
+ORD1331,Jane Smith,noemail@gmail.com,Tablet,Electronics,526.66,2,2025-05-28,Shipped,Mexico
+ORD1332,Maria Lopez,noemail@gmail.com,Monitor,Electronics,1205.18,2,2024-07-24,Pending,Mexico
+ORD1333,Jane Smith,user@yahoo.com,Phone,Electronics,285.85,4,2024-08-24,delivered,unknown
+ORD1334,Maria Lopez,test@gmail.com,Phone,Electronics,148.99,3,2026-01-05,Canceled,Mexico
+ORD1335,Jane Smith,example@outlook.com,Phone,Electronics,1024.45,4,2025-10-07,Canceled,United States
+ORD1336,Maria Lopez,example@outlook.com,Keyboard,Unknown,1225.3,2,2024-07-01,Canceled,unknown
+ORD1337,John Doe,noemail@gmail.com,Phone,Electronics,556.46,1,,delivered,United States
+ORD1338,Frank Ruiz,noemail@gmail.com,Laptop,Electronics,849.03,5,2024-11-22,delivered,unknown
+ORD1339,John Doe,user@yahoo.com,Monitor,Electronics,250.44,5,2025-01-12,Shipped,United States
+ORD1340,John Doe,test@gmail.com,Laptop,Electronics,1230.76,4,2024-07-29,Canceled,United States
+ORD1341,Unknown,noemail@gmail.com,Keyboard,Unknown,77.09,5,2025-05-25,Shipped,United States
+ORD1342,Unknown,example@outlook.com,Keyboard,Unknown,440.62,4,2024-08-06,Delivered,United States
+ORD1343,John Doe,noemail@gmail.com,Tablet,Electronics,284.54,5,2024-04-05,Delivered,United States
+ORD1344,Unknown,test@gmail.com,Keyboard,Electronics,1390.52,2,2024-03-18,Pending,unknown
+ORD1345,Jane Smith,user@yahoo.com,Tablet,Unknown,232.2,2,2025-06-06,Pending,United States
+,Carlos Ruiz,noemail@gmail.com,Tablet,Unknown,845.5,2,2023-03-27,Pending,United States
+ORD1347,John Doe,noemail@gmail.com,Tablet,Electronics,257.9,1,2024-02-17,Delivered,United States
+ORD1348,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1006.88,1,2024-12-01,Shipped,United States
+ORD1349,Maria Lopez,test@gmail.com,Keyboard,Electronics,129.94,1,2024-06-13,Canceled,United States
+ORD1350,John Doe,test@gmail.com,Laptop,Electronics,585.76,5,2023-09-17,Delivered,unknown
+ORD1351,Carlos Baca,user@yahoo.com,Phone,Unknown,286.13,5,2024-06-03,Pending,unknown
+ORD1352,Renee Ruiz,example@outlook.com,Keyboard,Electronics,1472.43,1,2024-08-09,Pending,United States
+ORD1353,Unknown,user@yahoo.com,Keyboard,Electronics,134.18,2,2024-09-24,Pending,Mexico
+ORD1354,Maria Lopez,test@gmail.com,Keyboard,Electronics,234.09,3,2024-02-18,delivered,unknown
+ORD1355,Unknown,noemail@gmail.com,Monitor,Electronics,935.18,1,2025-04-08,Pending,Mexico
+ORD1356,Unknown,test@gmail.com,Laptop,Unknown,1467.0,2,2025-06-17,Pending,United States
+ORD1357,Jane Marie,noemail@gmail.com,Keyboard,Electronics,908.12,3,2024-07-20,delivered,Mexico
+ORD1358,Unknown,example@outlook.com,Laptop,Unknown,235.62,3,2024-03-30,Delivered,unknown
+ORD1359,Jane Romos,noemail@gmail.com,Tablet,Electronics,661.61,2,2023-01-12,delivered,United States
+ORD1360,Carlos Pamda,user@yahoo.com,Tablet,Electronics,570.09,5,2025-12-28,Pending,Mexico
+ORD1361,John Doe,example@outlook.com,Monitor,Electronics,799.17,5,2025-05-03,delivered,unknown
+ORD1362,Jane Sue,test@gmail.com,Keyboard,Electronics,1282.58,3,2023-10-07,Delivered,United States
+ORD1363,John Doe,test@gmail.com,Tablet,Electronics,163.82,5,2025-12-30,Pending,unknown
+ORD1364,Noah Dane,example@outlook.com,Phone,Electronics,119.97,1,2025-11-21,Canceled,unknown
+ORD1365,Jane Smith,noemail@gmail.com,Monitor,Electronics,988.31,5,2023-06-26,Shipped,United States
+ORD1366,Maria Lopez,noemail@gmail.com,Tablet,Electronics,125.66,4,2024-06-07,Pending,United States
+ORD1367,Maria Lopez,noemail@gmail.com,Monitor,Unknown,802.99,3,2023-10-22,delivered,United States
+ORD1368,Jane Smith,user@yahoo.com,Keyboard,Unknown,1203.92,3,2025-12-29,Delivered,United States
+ORD1369,John Doe,user@yahoo.com,Monitor,Electronics,600.79,1,2025-08-20,Pending,United States
+ORD1370,Maria Lopez,example@outlook.com,Laptop,Electronics,437.02,1,2023-02-25,Canceled,unknown
+ORD1371,Unknown,noemail@gmail.com,Monitor,Electronics,804.7,1,2026-01-03,delivered,United States
+ORD1372,Unknown,test@gmail.com,Laptop,Electronics,417.03,2,2024-07-22,Delivered,United States
+ORD1373,Jane Smith,test@gmail.com,Monitor,Electronics,714.0,1,2023-02-14,Shipped,United States
+ORD1374,Unknown,test@gmail.com,Laptop,Electronics,115.83,5,2025-07-19,Shipped,United States
+ORD1375,Unknown,test@gmail.com,Tablet,Electronics,1436.98,4,2024-08-19,Pending,United States
+ORD1376,John Doe,noemail@gmail.com,Monitor,Electronics,1313.16,2,2023-06-29,Delivered,United States
+ORD1377,Jane Smith,noemail@gmail.com,Laptop,Electronics,491.0,1,2024-04-10,Shipped,Mexico
+ORD1378,Carlos Ruiz,user@yahoo.com,Phone,Electronics,628.15,2,,Canceled,unknown
+ORD1379,Carlos Ruiz,noemail@gmail.com,Tablet,Unknown,1054.25,3,2025-02-13,Pending,United States
+ORD1380,Jane Smith,test@gmail.com,Monitor,Unknown,1161.01,5,2023-02-03,Delivered,United States
+ORD1381,Unknown,user@yahoo.com,Tablet,Electronics,580.11,3,2026-02-08,delivered,Mexico
+ORD1382,Joy Smith,noemail@gmail.com,Monitor,Electronics,620.21,1,2024-06-14,Delivered,United States
+,Colette Ruiz,example@outlook.com,Monitor,Unknown,876.81,4,2024-07-24,Delivered,Mexico
+ORD1384,Jennifer Ruiz,test@gmail.com,Laptop,Electronics,426.77,1,2024-06-14,Canceled,unknown
+ORD1385,Jane Gates,example@outlook.com,Phone,Electronics,406.4,4,2025-04-26,Canceled,United States
+ORD1386,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,764.425,2,2023-02-21,Pending,Mexico
+ORD1387,John Doe,noemail@gmail.com,Phone,Electronics,956.96,4,2025-02-14,Pending,Mexico
+ORD1388,Amy Ruiz,noemail@gmail.com,Phone,Electronics,1124.18,4,2025-09-03,Pending,United States
+ORD1389,Sammy Thomas,test@gmail.com,Phone,Electronics,899.91,5,2025-06-02,delivered,Mexico
+ORD1390,John Doe,test@gmail.com,Phone,Unknown,407.25,4,2023-03-27,Delivered,Mexico
+ORD1391,Carlos Ruiz,test@gmail.com,Laptop,Unknown,437.26,2,2026-01-24,Shipped,Mexico
+ORD1392,Maria Lopez,example@outlook.com,Phone,Electronics,1300.2,4,2024-02-06,Pending,unknown
+ORD1393,Unknown,noemail@gmail.com,Monitor,Unknown,283.0,3,2024-04-18,Shipped,United States
+ORD1394,Candy Candy,test@gmail.com,Phone,Electronics,605.6,4,2023-07-18,Canceled,Mexico
+ORD1395,Carlos Band,user@yahoo.com,Laptop,Electronics,369.23,2,2023-12-08,Delivered,Mexico
+ORD1396,Unknown,example@outlook.com,Tablet,Electronics,764.425,5,,Pending,United States
+ORD1397,Unknown,test@gmail.com,Phone,Electronics,716.98,4,2024-01-17,Shipped,United States
+ORD1398,Carlos Ruiz,test@gmail.com,Tablet,Electronics,159.56,5,2025-03-26,Canceled,United States
+ORD1399,Unknown,test@gmail.com,Keyboard,Electronics,1218.15,1,2024-09-01,Canceled,Mexico
+ORD1400,Jane Smith,user@yahoo.com,Tablet,Electronics,447.58,3,2024-05-31,Delivered,United States
+ORD1401,Jane Smith,example@outlook.com,Tablet,Unknown,269.04,5,2026-02-24,Shipped,unknown
+ORD1402,Unknown,noemail@gmail.com,Monitor,Unknown,678.51,3,2024-06-30,Canceled,United States
+ORD1403,Carlos Ruiz,test@gmail.com,Phone,Electronics,903.33,3,2025-06-16,Shipped,United States
+ORD1404,Ira Simson,noemail@gmail.com,Monitor,Electronics,306.75,2,2024-05-24,delivered,Mexico
+ORD1405,Carlos Ruiz,test@gmail.com,Monitor,Electronics,143.03,2,2023-05-20,Canceled,unknown
+ORD1406,John Doe,test@gmail.com,Tablet,Electronics,409.93,1,2024-02-27,Pending,United States
+ORD1407,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,203.39,4,2024-11-28,Shipped,unknown
+ORD1408,Candy Paula,noemail@gmail.com,Tablet,Electronics,472.66,3,2023-09-01,delivered,United States
+ORD1409,Carlos Soto,user@yahoo.com,Tablet,Electronics,394.64,5,2026-01-02,Canceled,United States
+ORD1410,Unknown,example@outlook.com,Tablet,Electronics,1447.19,4,2023-02-25,Pending,unknown
+ORD1411,Unknown,test@gmail.com,Laptop,Electronics,899.54,2,2024-08-19,Shipped,United States
+ORD1412,Unknown,test@gmail.com,Laptop,Electronics,797.36,4,2025-01-01,Delivered,United States
+ORD1413,John Doe,example@outlook.com,Tablet,Electronics,734.16,3,2024-04-17,Shipped,unknown
+ORD1414,Cane Guzman,example@outlook.com,Monitor,Electronics,618.22,4,2023-11-12,Delivered,unknown
+ORD1415,Unknown,user@yahoo.com,Tablet,Electronics,1045.04,2,2023-09-05,delivered,unknown
+ORD1416,Unknown,user@yahoo.com,Phone,Electronics,147.43,1,2025-06-17,Delivered,Mexico
+ORD1417,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1290.53,4,2025-06-20,delivered,Mexico
+ORD1418,Maria Lopez,noemail@gmail.com,Laptop,Electronics,601.62,5,2024-08-02,Canceled,United States
+ORD1419,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,764.425,3,2024-01-12,Shipped,United States
+ORD1420,Maria Lopez,user@yahoo.com,Laptop,Electronics,986.26,5,2023-07-13,delivered,United States
+ORD1421,Unknown,noemail@gmail.com,Laptop,Electronics,849.03,2,2023-05-09,Pending,United States
+ORD1422,Unknown,user@yahoo.com,Monitor,Electronics,764.425,2,2023-04-05,Delivered,unknown
+ORD1423,Thomas Garcia,example@outlook.com,Keyboard,Electronics,1096.1,3,2026-01-21,Canceled,United States
+ORD1424,Mandy Jones,example@outlook.com,Monitor,Electronics,779.67,3,2024-10-12,Pending,United States
+ORD1425,John Doe,noemail@gmail.com,Keyboard,Unknown,905.7,5,2025-12-25,Shipped,United States
+ORD1426,Unknown,example@outlook.com,Monitor,Electronics,764.425,1,2025-08-09,Shipped,Mexico
+ORD1427,Jack Smith,noemail@gmail.com,Laptop,Electronics,684.82,3,2023-12-17,delivered,United States
+ORD1428,Jane Smith,user@yahoo.com,Keyboard,Unknown,608.15,4,2023-12-23,Canceled,United States
+ORD1429,Unknown,user@yahoo.com,Keyboard,Unknown,1461.83,5,2024-03-06,delivered,unknown
+ORD1430,Unknown,example@outlook.com,Monitor,Unknown,1292.87,3,2025-09-19,delivered,Mexico
+ORD1431,Mario Smith,test@gmail.com,Keyboard,Electronics,369.49,1,2025-03-07,Delivered,United States
+ORD1432,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,691.83,1,2024-07-11,Shipped,Mexico
+ORD1433,Unknown,test@gmail.com,Tablet,Electronics,1064.7,2,2023-07-18,Pending,United States
+ORD1434,Timmy Anders,test@gmail.com,Monitor,Electronics,1041.64,2,,delivered,United States
+ORD1435,Carlos Ruiz,test@gmail.com,Phone,Unknown,1346.04,4,2025-11-16,Delivered,unknown
+ORD1436,Unknown,user@yahoo.com,Laptop,Electronics,881.05,4,2026-02-06,Canceled,United States
+ORD1437,Maria Lopez,test@gmail.com,Monitor,Electronics,69.68,4,2026-01-22,Pending,United States
+ORD1438,Elsa Hopes,test@gmail.com,Monitor,Electronics,409.77,5,2023-06-02,Delivered,Mexico
+ORD1439,Jane Smith,user@yahoo.com,Laptop,Electronics,891.02,4,2025-04-24,Shipped,unknown
+ORD1440,Maria Lopez,noemail@gmail.com,Laptop,Electronics,234.16,3,2025-11-13,Pending,United States
+ORD1441,Unknown,example@outlook.com,Monitor,Unknown,875.04,3,2026-02-16,Pending,unknown
+ORD1442,Happy Joy,test@gmail.com,Monitor,Electronics,1079.03,5,2023-06-02,Shipped,United States
+ORD1443,Carlos Ruiz,test@gmail.com,Laptop,Electronics,428.18,2,2025-12-31,Canceled,Mexico
+ORD1444,Maria Lopez,user@yahoo.com,Laptop,Unknown,711.94,4,2025-12-13,Shipped,unknown
+ORD1445,Dot Main,example@outlook.com,Keyboard,Electronics,1224.53,4,2024-07-27,Canceled,United States
+ORD1446,John Doe,test@gmail.com,Monitor,Unknown,324.37,1,2025-10-17,Pending,unknown
+ORD1447,Jane Smith,user@yahoo.com,Phone,Electronics,764.425,3,2025-07-23,Pending,Mexico
+ORD1448,Jane Smith,user@yahoo.com,Tablet,Electronics,1494.04,5,2024-08-20,Shipped,United States
+ORD1449,Melissa Jones,example@outlook.com,Tablet,Unknown,1302.67,3,2023-01-18,Pending,unknown
+ORD1450,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,424.42,2,2024-06-11,delivered,United States
+ORD1451,John Doe,test@gmail.com,Tablet,Electronics,1161.24,1,2025-01-12,Delivered,unknown
+ORD1452,Melissa  Joy,user@yahoo.com,Tablet,Electronics,764.425,2,2023-03-31,Shipped,unknown
+ORD1453,Jane Smith,user@yahoo.com,Tablet,Electronics,618.62,4,2023-03-11,delivered,Mexico
+ORD1454,Jane Smith,user@yahoo.com,Laptop,Electronics,1129.23,4,2024-07-25,Delivered,United States
+ORD1455,Unknown,noemail@gmail.com,Keyboard,Unknown,208.23,5,2025-09-11,Delivered,United States
+ORD1456,Unknown,test@gmail.com,Monitor,Electronics,909.56,2,2023-09-18,delivered,United States
+ORD1457,John Baca,noemail@gmail.com,Tablet,Electronics,745.31,1,,Canceled,unknown
+ORD1458,John Tims ,example@outlook.com,Keyboard,Electronics,368.86,3,2024-08-03,Canceled,United States
+ORD1459,Carlos Ruiz,example@outlook.com,Tablet,Electronics,793.65,1,2024-08-21,delivered,unknown
+ORD1460,John Doe,noemail@gmail.com,Monitor,Electronics,1062.17,5,2025-01-18,Delivered,United States
+ORD1461,Maria Lopez,noemail@gmail.com,Laptop,Unknown,493.02,2,2025-07-19,Canceled,United States
+ORD1462,Unknown,example@outlook.com,Phone,Unknown,269.9,4,2023-01-10,delivered,United States
+ORD1463,Joanna White,example@outlook.com,Laptop,Unknown,578.59,1,2025-02-10,Canceled,United States
+ORD1464,Maria Thomas,user@yahoo.com,Keyboard,Electronics,1446.07,2,2023-01-20,delivered,unknown
+ORD1465,Gabe Lopez,user@yahoo.com,Keyboard,Electronics,782.68,2,2024-10-02,Pending,United States
+ORD1466,Unknown,user@yahoo.com,Monitor,Unknown,871.45,1,2024-09-12,Delivered,Mexico
+ORD1467,Maria Lopez,user@yahoo.com,Monitor,Electronics,189.92,4,2026-02-15,Delivered,unknown
+ORD1468,Maria Lopez,example@outlook.com,Keyboard,Electronics,595.28,1,2024-09-27,Delivered,United States
+ORD1469,Gabe Roberts,user@yahoo.com,Laptop,Electronics,1219.79,5,2025-10-14,Pending,United States
+,Jane Smith,user@yahoo.com,Tablet,Electronics,370.8,5,2024-11-23,delivered,United States
+ORD1471,Jane Smith,user@yahoo.com,Phone,Unknown,547.37,4,2023-03-07,delivered,unknown
+ORD1472,Joanna Franks,noemail@gmail.com,Phone,Electronics,974.47,4,2026-01-20,Canceled,United States
+ORD1473,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,1284.57,3,2025-03-30,delivered,unknown
+ORD1474,Unknown,test@gmail.com,Phone,Electronics,764.425,4,2024-07-13,delivered,United States
+,Maria Lopez,user@yahoo.com,Laptop,Electronics,244.4,4,2023-12-31,delivered,unknown
+ORD1476,Joe Baca,noemail@gmail.com,Laptop,Electronics,764.425,2,2023-02-05,delivered,Mexico
+ORD1477,Unknown,example@outlook.com,Keyboard,Unknown,1380.0,3,2023-02-09,delivered,United States
+ORD1478,David White,example@outlook.com,Tablet,Electronics,1136.12,5,2023-11-02,Pending,unknown
+ORD1479,Frank Caines,example@outlook.com,Laptop,Electronics,764.425,1,2025-12-27,Pending,Mexico
+ORD1480,Joey Davis,user@yahoo.com,Keyboard,Electronics,1148.52,4,2023-05-26,delivered,Mexico
+ORD1481,Unknown,example@outlook.com,Keyboard,Unknown,1245.08,4,2025-01-12,Pending,United States
+ORD1482,Maria Lopez,noemail@gmail.com,Monitor,Electronics,657.18,1,2023-12-16,Pending,United States
+ORD1483,Jane Smith,noemail@gmail.com,Monitor,Electronics,1222.96,1,2026-01-29,Canceled,United States
+ORD1484,Unknown,noemail@gmail.com,Monitor,Electronics,1001.62,4,2023-03-20,Canceled,Mexico
+ORD1485,Jennie White,example@outlook.com,Phone,Electronics,199.6,5,2025-03-16,delivered,unknown
+ORD1486,Frank Zimmerson,user@yahoo.com,Laptop,Unknown,644.69,3,2024-04-29,Shipped,United States
+ORD1487,John Doe,example@outlook.com,Monitor,Unknown,798.23,4,2024-08-29,Delivered,United States
+ORD1488,Jennie Franks,test@gmail.com,Laptop,Electronics,445.48,3,2024-03-12,Pending,unknown
+ORD1489,Carlos Ruiz,example@outlook.com,Tablet,Unknown,177.2,2,2024-04-17,Pending,unknown
+ORD1490,Unknown,test@gmail.com,Laptop,Electronics,807.48,5,2024-08-11,Pending,United States
+,John Doe,example@outlook.com,Tablet,Electronics,730.04,1,2024-01-20,Shipped,United States
+ORD1492,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,505.21,5,2025-07-09,Canceled,United States
+ORD1493,John Doe,user@yahoo.com,Monitor,Electronics,764.425,1,2025-07-28,Shipped,Mexico
+ORD1494,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,1242.2,1,2026-01-19,Delivered,United States
+ORD1495,Unknown,test@gmail.com,Monitor,Electronics,710.94,2,2025-01-22,Pending,United States
+ORD1496,Paula Street,user@yahoo.com,Tablet,Unknown,1041.83,1,2023-01-26,delivered,unknown
+ORD1497,Carlos Ruiz,example@outlook.com,Monitor,Electronics,664.46,3,2024-10-03,Pending,United States
+ORD1498,Jane Smith,noemail@gmail.com,Laptop,Electronics,965.32,2,2023-08-10,Shipped,Mexico
+ORD1499,John Doe,example@outlook.com,Monitor,Electronics,692.87,2,2025-11-08,Pending,unknown
+ORD1500,Jane Smith,noemail@gmail.com,Laptop,Electronics,238.69,5,2025-12-08,Canceled,Mexico
+ORD1501,Unknown,test@gmail.com,Laptop,Electronics,591.48,4,2025-06-23,delivered,Mexico
+ORD1502,Paula Anderson,noemail@gmail.com,Laptop,Electronics,764.425,2,2023-10-24,Pending,United States
+ORD1503,Unknown,user@yahoo.com,Keyboard,Electronics,1223.43,1,2023-09-06,Pending,United States
+ORD1504,John Doe,noemail@gmail.com,Monitor,Unknown,551.77,2,2025-02-27,Canceled,United States
+ORD1505,Jane Smith,example@outlook.com,Monitor,Unknown,666.11,4,2023-11-14,Pending,unknown
+ORD1506,Unknown,example@outlook.com,Tablet,Unknown,207.71,2,2025-12-17,Canceled,Mexico
+ORD1507,Carlos Ruiz,noemail@gmail.com,Laptop,Unknown,1292.23,1,2024-07-17,Shipped,Mexico
+ORD1508,John Doe,noemail@gmail.com,Laptop,Unknown,855.44,4,2025-07-07,Shipped,United States
+ORD1509,Unknown,user@yahoo.com,Laptop,Electronics,942.36,1,2023-12-14,Canceled,United States
+ORD1510,Maria Lopez,example@outlook.com,Tablet,Electronics,321.05,5,2023-02-22,Delivered,United States
+ORD1511,John Doe,test@gmail.com,Tablet,Electronics,378.59,2,,delivered,United States
+ORD1512,John Doe,user@yahoo.com,Keyboard,Electronics,1264.17,2,2024-05-20,Pending,United States
+ORD1513,Unknown,noemail@gmail.com,Phone,Electronics,952.34,3,2025-10-28,Pending,United States
+ORD1514,Maria Lopez,example@outlook.com,Tablet,Electronics,332.35,5,2023-10-09,Canceled,United States
+ORD1515,Carlos Ruiz,test@gmail.com,Monitor,Electronics,1164.4,2,2025-01-09,Delivered,United States
+ORD1516,Maria Lopez,noemail@gmail.com,Laptop,Unknown,1130.74,3,2024-10-08,delivered,United States
+ORD1517,John Doe,user@yahoo.com,Phone,Electronics,603.98,5,2024-10-13,delivered,United States
+ORD1518,Unknown,test@gmail.com,Keyboard,Electronics,764.425,1,2025-10-10,delivered,United States
+ORD1519,Maria Lopez,noemail@gmail.com,Monitor,Electronics,639.21,2,2025-09-20,Delivered,United States
+ORD1520,Unknown,user@yahoo.com,Keyboard,Electronics,1006.66,4,2023-01-11,Canceled,United States
+ORD1521,John Doe,test@gmail.com,Phone,Electronics,542.27,1,2024-08-06,delivered,United States
+ORD1522,Jane Smith,example@outlook.com,Tablet,Electronics,488.91,4,2024-01-18,delivered,United States
+ORD1523,Jane Smith,noemail@gmail.com,Monitor,Unknown,1346.8,4,2025-12-09,Delivered,Mexico
+ORD1524,Jane Smith,test@gmail.com,Laptop,Unknown,255.19,1,2024-05-24,Pending,United States
+ORD1525,Carlos Ruiz,user@yahoo.com,Phone,Electronics,984.95,2,2025-02-28,Canceled,United States
+ORD1526,John Doe,user@yahoo.com,Laptop,Electronics,595.9,5,2023-11-29,delivered,United States
+ORD1527,Carlos Ruiz,user@yahoo.com,Phone,Electronics,955.25,2,2025-12-17,Canceled,United States
+ORD1528,Jane Smith,user@yahoo.com,Tablet,Electronics,1240.49,1,2025-01-16,Delivered,United States
+,Maria Lopez,noemail@gmail.com,Laptop,Electronics,287.59,5,2024-07-14,Pending,United States
+ORD1530,Franks Smiths,noemail@gmail.com,Tablet,Electronics,148.15,2,2025-04-23,Pending,Mexico
+ORD1531,Carlos Ruiz,user@yahoo.com,Tablet,Unknown,1485.86,5,2023-10-03,Pending,unknown
+ORD1532,John Doe,noemail@gmail.com,Tablet,Electronics,574.96,4,2025-03-21,delivered,unknown
+ORD1533,Jane Smith,user@yahoo.com,Phone,Electronics,367.46,2,2024-02-20,delivered,United States
+ORD1534,Unknown,test@gmail.com,Tablet,Electronics,996.79,2,2025-09-05,Delivered,United States
+ORD1535,Jane Smith,noemail@gmail.com,Monitor,Electronics,344.62,5,2024-11-13,Shipped,Mexico
+ORD1536,Fran Martin,noemail@gmail.com,Tablet,Unknown,408.07,4,2023-01-04,Delivered,Mexico
+ORD1537,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,1245.97,2,2024-02-11,Canceled,United States
+ORD1538,Jimmy Pals,example@outlook.com,Keyboard,Electronics,419.99,4,2024-08-17,Shipped,Mexico
+ORD1539,Carlos Ruiz,test@gmail.com,Laptop,Electronics,760.79,4,2024-10-12,Pending,unknown
+ORD1540,Unknown,test@gmail.com,Tablet,Unknown,1041.6,5,2026-02-23,delivered,unknown
+ORD1541,Jane Smith,example@outlook.com,Tablet,Electronics,954.1,2,2026-01-06,delivered,unknown
+ORD1542,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,1312.67,1,2023-03-13,Pending,United States
+ORD1543,Unknown,noemail@gmail.com,Keyboard,Electronics,426.92,1,2024-10-08,Delivered,United States
+ORD1544,Maria Lopez,noemail@gmail.com,Phone,Electronics,1043.79,4,2023-07-15,Pending,United States
+ORD1545,Carlos Ruiz,example@outlook.com,Phone,Electronics,139.64,2,2024-02-26,Shipped,United States
+ORD1546,Unknown,noemail@gmail.com,Phone,Electronics,247.78,2,2023-04-26,Shipped,United States
+ORD1547,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1312.72,1,2024-02-08,Delivered,United States
+ORD1548,Jane Smith,test@gmail.com,Keyboard,Electronics,1484.82,3,2023-11-14,Canceled,United States
+ORD1549,John Doe,example@outlook.com,Keyboard,Electronics,288.41,3,2023-12-15,Shipped,Mexico
+ORD1550,Carlos Ruiz,example@outlook.com,Phone,Unknown,1472.76,3,2026-01-22,Canceled,United States
+ORD1551,John Doe,test@gmail.com,Tablet,Electronics,1137.86,4,2025-02-05,Delivered,United States
+ORD1552,John Doe,example@outlook.com,Phone,Electronics,906.03,5,2025-06-07,Delivered,United States
+ORD1553,Unknown,user@yahoo.com,Keyboard,Electronics,124.1,1,2024-11-12,Canceled,Mexico
+ORD1554,Jane Adams,example@outlook.com,Laptop,Unknown,897.54,4,2025-11-01,delivered,Mexico
+,John Doe,user@yahoo.com,Laptop,Electronics,101.52,3,2023-07-29,Canceled,United States
+ORD1556,Maria Lopez,example@outlook.com,Phone,Electronics,792.35,3,2025-07-30,Canceled,United States
+ORD1557,Maria Lopez,example@outlook.com,Phone,Unknown,486.59,4,2023-04-08,Canceled,unknown
+ORD1558,Jane Smith,example@outlook.com,Keyboard,Electronics,912.16,1,2024-08-06,Canceled,United States
+ORD1559,Carlos Ruiz,user@yahoo.com,Phone,Unknown,1280.39,1,2025-01-20,Canceled,Mexico
+ORD1560,Maria Lopez,user@yahoo.com,Phone,Electronics,546.16,5,2024-06-14,Canceled,unknown
+ORD1561,John Doe,noemail@gmail.com,Keyboard,Electronics,1486.81,3,2023-07-12,Pending,United States
+ORD1562,John Doe,example@outlook.com,Monitor,Electronics,1142.61,5,2023-09-07,delivered,unknown
+ORD1563,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,1496.18,1,2023-07-10,Shipped,United States
+ORD1564,Maria Lopez,test@gmail.com,Tablet,Electronics,505.66,4,2024-05-22,Shipped,United States
+ORD1565,Jane Smith,noemail@gmail.com,Laptop,Electronics,453.58,3,2023-09-09,Shipped,unknown
+ORD1566,Benny Jones,noemail@gmail.com,Tablet,Electronics,212.26,2,2024-12-13,Shipped,United States
+ORD1567,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,697.82,5,2026-02-18,delivered,United States
+ORD1568,Carlos Ruiz,example@outlook.com,Monitor,Electronics,413.88,2,2025-11-19,Delivered,United States
+ORD1569,Jane Smith,example@outlook.com,Laptop,Electronics,987.83,2,2026-01-12,Shipped,Mexico
+ORD1570,Jane Smith,user@yahoo.com,Monitor,Unknown,714.75,2,2024-08-23,Canceled,United States
+ORD1571,Carlos Ruiz,test@gmail.com,Phone,Electronics,557.45,4,2025-05-27,delivered,unknown
+ORD1572,Jane Smith,example@outlook.com,Keyboard,Electronics,142.08,1,2026-01-15,Canceled,unknown
+ORD1573,John Doe,example@outlook.com,Keyboard,Unknown,107.28,3,2025-03-07,delivered,United States
+ORD1574,Carlos Ruiz,example@outlook.com,Laptop,Electronics,724.0,4,2024-09-17,delivered,Mexico
+ORD1575,Jane Smith,example@outlook.com,Tablet,Electronics,1477.25,5,2026-01-16,Canceled,Mexico
+ORD1576,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,1487.42,5,2023-11-01,Delivered,United States
+ORD1577,Maria Lopez,user@yahoo.com,Laptop,Electronics,1455.34,2,2026-01-05,Shipped,United States
+ORD1578,Jane Smith,user@yahoo.com,Monitor,Electronics,352.03,2,2025-02-18,Shipped,Mexico
+ORD1579,Carlos Ruiz,test@gmail.com,Laptop,Electronics,274.08,2,,delivered,United States
+ORD1580,Carlos Ruiz,example@outlook.com,Tablet,Unknown,928.6,1,2026-01-14,Delivered,United States
+ORD1581,Jane Smith,user@yahoo.com,Monitor,Unknown,1209.65,5,2023-07-17,Delivered,unknown
+ORD1582,John Doe,example@outlook.com,Monitor,Electronics,547.98,5,2025-09-22,Pending,United States
+ORD1583,Unknown,noemail@gmail.com,Tablet,Electronics,1083.51,2,2023-08-19,Shipped,Mexico
+ORD1584,Carlos Ruiz,example@outlook.com,Keyboard,Unknown,594.04,5,2025-05-23,Pending,unknown
+ORD1585,Maria Lopez,noemail@gmail.com,Phone,Electronics,488.24,3,2025-07-07,Delivered,United States
+ORD1586,Maria Lopez,noemail@gmail.com,Phone,Electronics,564.83,4,2024-11-02,Shipped,unknown
+ORD1587,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,629.98,1,2025-01-26,Pending,Mexico
+ORD1588,Unknown,example@outlook.com,Laptop,Electronics,139.12,5,2024-07-04,Canceled,United States
+ORD1589,Maria Lopez,example@outlook.com,Tablet,Unknown,973.6,3,2023-10-15,Delivered,unknown
+ORD1590,Unknown,example@outlook.com,Tablet,Unknown,129.31,1,,Pending,Mexico
+ORD1591,Jane Smith,example@outlook.com,Laptop,Electronics,952.91,2,2025-07-09,Shipped,unknown
+ORD1592,Unknown,example@outlook.com,Monitor,Unknown,1046.33,4,2024-09-20,Delivered,Mexico
+ORD1593,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,851.55,3,2024-07-29,Pending,United States
+ORD1594,Jane Smith,user@yahoo.com,Keyboard,Unknown,409.3,1,2024-06-10,delivered,Mexico
+ORD1595,Carlos Ruiz,example@outlook.com,Tablet,Electronics,102.55,5,2024-09-29,Pending,United States
+ORD1596,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,764.425,4,2024-04-10,Canceled,United States
+ORD1597,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,857.94,5,2024-07-03,Canceled,United States
+ORD1598,Carlos Ruiz,example@outlook.com,Laptop,Electronics,973.78,3,2026-02-25,Pending,unknown
+ORD1599,Maria Lopez,test@gmail.com,Tablet,Electronics,399.74,5,2023-07-31,Pending,unknown
+ORD1600,Jane Smith,test@gmail.com,Tablet,Electronics,70.47,2,2023-07-10,Canceled,United States
+ORD1601,Unknown,user@yahoo.com,Phone,Electronics,1428.72,3,2024-04-05,Pending,United States
+ORD1602,Maria Lopez,example@outlook.com,Monitor,Unknown,602.03,2,2025-08-06,delivered,United States
+ORD1603,Maria Lopez,noemail@gmail.com,Monitor,Unknown,754.82,5,2023-12-07,Delivered,unknown
+ORD1604,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,889.3,5,2024-02-21,Canceled,United States
+ORD1605,Jane Smith,noemail@gmail.com,Tablet,Electronics,504.48,5,2024-02-14,Delivered,United States
+ORD1606,Jane Smith,user@yahoo.com,Laptop,Electronics,951.86,1,2023-07-18,Shipped,Mexico
+ORD1607,Jane Smith,test@gmail.com,Tablet,Electronics,788.11,2,2025-07-14,Pending,United States
+ORD1608,Unknown,user@yahoo.com,Laptop,Electronics,1051.67,5,2025-06-02,Delivered,United States
+ORD1609,Unknown,noemail@gmail.com,Monitor,Electronics,90.68,1,2023-05-29,Delivered,United States
+ORD1610,John Doe,user@yahoo.com,Tablet,Electronics,440.46,3,2023-10-09,Shipped,United States
+ORD1611,Maria Lopez,example@outlook.com,Monitor,Unknown,381.26,2,2025-05-23,Shipped,United States
+ORD1612,Jane Smith,noemail@gmail.com,Phone,Electronics,128.31,1,,delivered,United States
+ORD1613,Carlos Ruiz,example@outlook.com,Tablet,Electronics,70.19,1,2026-02-18,delivered,United States
+ORD1614,Unknown,user@yahoo.com,Monitor,Electronics,351.04,4,2023-02-21,Pending,United States
+ORD1615,Carlos Ruiz,test@gmail.com,Phone,Unknown,1411.34,1,2025-06-10,delivered,United States
+ORD1616,John Doe,example@outlook.com,Phone,Electronics,423.8,4,2023-07-01,Pending,United States
+ORD1617,Maria Lopez,user@yahoo.com,Keyboard,Electronics,927.48,2,2024-10-08,Pending,United States
+ORD1618,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,570.31,2,2023-01-20,Pending,unknown
+ORD1619,Maria Lopez,example@outlook.com,Keyboard,Unknown,1222.54,3,2023-03-13,delivered,United States
+ORD1620,Jane Smith,user@yahoo.com,Tablet,Unknown,1430.21,4,2024-01-28,Pending,unknown
+ORD1621,Maria Lopez,example@outlook.com,Tablet,Unknown,435.69,3,2023-11-18,Canceled,Mexico
+ORD1622,Maria Lopez,noemail@gmail.com,Phone,Electronics,1228.39,2,2023-06-18,Delivered,United States
+,Maria Lopez,example@outlook.com,Tablet,Electronics,223.44,1,2023-12-17,Pending,Mexico
+ORD1624,Jane Smith,noemail@gmail.com,Phone,Electronics,1356.28,5,2023-08-12,delivered,unknown
+ORD1625,Jane Smith,test@gmail.com,Laptop,Electronics,530.96,4,2023-11-26,Pending,Mexico
+ORD1626,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1488.33,3,2024-11-02,delivered,United States
+ORD1627,Jane Smith,noemail@gmail.com,Keyboard,Electronics,70.56,2,2025-06-14,Shipped,United States
+ORD1628,John Doe,noemail@gmail.com,Keyboard,Electronics,1311.33,1,2025-03-15,Shipped,unknown
+,Jane Smith,user@yahoo.com,Laptop,Electronics,263.8,5,2023-08-29,delivered,United States
+ORD1630,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,1135.52,5,2025-07-31,Canceled,United States
+ORD1631,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,719.63,5,2025-06-30,Pending,United States
+ORD1632,Jane Smith,user@yahoo.com,Tablet,Electronics,834.58,3,2025-05-17,Pending,United States
+ORD1633,Unknown,user@yahoo.com,Tablet,Electronics,80.53,3,2023-08-25,Canceled,unknown
+,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,328.09,2,2024-06-18,Delivered,United States
+ORD1635,Jane Smith,noemail@gmail.com,Tablet,Electronics,1075.76,2,2025-10-10,delivered,Mexico
+ORD1636,John Doe,noemail@gmail.com,Monitor,Unknown,714.74,3,2023-04-02,Canceled,United States
+ORD1637,Maria Lopez,noemail@gmail.com,Phone,Electronics,1270.71,5,2025-11-23,delivered,United States
+ORD1638,Unknown,noemail@gmail.com,Monitor,Electronics,655.02,1,2023-02-13,Canceled,United States
+ORD1639,Maria Lopez,test@gmail.com,Monitor,Electronics,1094.5,5,,Delivered,Mexico
+ORD1640,John Doe,test@gmail.com,Phone,Unknown,1296.98,5,2023-08-01,Shipped,unknown
+ORD1641,Jane Smith,user@yahoo.com,Phone,Electronics,75.66,4,2025-05-04,Shipped,United States
+ORD1642,Maria Lopez,noemail@gmail.com,Tablet,Electronics,162.18,4,2025-01-25,delivered,United States
+ORD1643,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1181.04,3,2026-01-12,Shipped,United States
+ORD1644,Maria Lopez,test@gmail.com,Tablet,Electronics,68.2,5,2024-06-15,Shipped,United States
+ORD1645,Maria Lopez,example@outlook.com,Laptop,Electronics,741.31,5,2025-08-06,Shipped,United States
+ORD1646,Jane Smith,example@outlook.com,Laptop,Electronics,1238.1,3,2025-10-29,Shipped,United States
+ORD1647,Carlos Ruiz,example@outlook.com,Phone,Electronics,731.19,4,2023-07-07,Shipped,United States
+ORD1648,Unknown,test@gmail.com,Phone,Electronics,1226.86,5,2023-06-14,Pending,United States
+ORD1649,Maria Lopez,user@yahoo.com,Tablet,Electronics,372.54,4,2024-02-25,delivered,United States
+ORD1650,Unknown,user@yahoo.com,Laptop,Electronics,879.56,1,2025-09-14,Pending,Mexico
+ORD1651,Unknown,example@outlook.com,Phone,Electronics,1241.28,1,2024-07-15,delivered,Mexico
+ORD1652,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,1282.03,4,2025-02-22,Shipped,United States
+ORD1653,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,291.47,3,2025-07-16,delivered,United States
+ORD1654,John Doe,example@outlook.com,Laptop,Unknown,764.425,5,2023-07-24,Canceled,unknown
+ORD1655,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1234.38,2,2026-02-26,Pending,Mexico
+ORD1656,Maria Lopez,noemail@gmail.com,Laptop,Unknown,764.425,2,2023-09-07,Shipped,United States
+ORD1657,John Doe,user@yahoo.com,Laptop,Electronics,842.81,2,2024-01-05,Canceled,unknown
+ORD1658,Unknown,noemail@gmail.com,Monitor,Electronics,523.69,1,2023-04-14,Canceled,unknown
+ORD1659,Maria Lopez,example@outlook.com,Keyboard,Electronics,1165.34,4,2024-03-05,Pending,United States
+ORD1660,John Doe,user@yahoo.com,Monitor,Electronics,164.49,1,2025-08-22,Delivered,unknown
+ORD1661,Jane Smith,test@gmail.com,Keyboard,Electronics,1370.09,1,2024-12-13,delivered,United States
+ORD1662,John Doe,example@outlook.com,Phone,Electronics,175.06,1,2025-01-23,Canceled,United States
+ORD1663,Jane Smith,test@gmail.com,Tablet,Electronics,93.07,3,2025-10-26,Canceled,unknown
+ORD1664,Maria Lopez,example@outlook.com,Tablet,Electronics,692.26,3,2023-03-05,Canceled,United States
+ORD1665,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,692.79,5,2023-02-09,Delivered,United States
+ORD1666,John Doe,example@outlook.com,Tablet,Electronics,134.03,2,2023-03-16,delivered,United States
+ORD1667,John Doe,test@gmail.com,Keyboard,Electronics,1093.46,4,2025-07-24,delivered,United States
+,Jane Smith,test@gmail.com,Laptop,Electronics,53.26,3,2024-01-25,delivered,Mexico
+ORD1669,Maria Lopez,user@yahoo.com,Tablet,Electronics,769.78,5,2025-12-14,Shipped,Mexico
+ORD1670,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,858.94,4,2024-05-11,Delivered,United States
+ORD1671,Carlos Ruiz,example@outlook.com,Laptop,Electronics,1426.86,4,2025-07-02,Shipped,unknown
+,John Doe,noemail@gmail.com,Tablet,Electronics,738.45,4,2025-10-07,Pending,United States
+ORD1673,Unknown,user@yahoo.com,Keyboard,Electronics,698.98,5,2024-11-05,Delivered,United States
+ORD1674,John Doe,example@outlook.com,Phone,Electronics,598.81,1,2025-12-15,Canceled,United States
+ORD1675,Carlos Ruiz,test@gmail.com,Phone,Unknown,581.82,4,2023-02-07,Canceled,United States
+ORD1676,Maria Lopez,user@yahoo.com,Laptop,Unknown,962.39,3,2024-11-06,Shipped,United States
+,Maria Lopez,test@gmail.com,Phone,Electronics,1082.26,2,2025-11-24,Delivered,unknown
+ORD1678,Unknown,noemail@gmail.com,Keyboard,Electronics,1158.78,4,2024-02-17,Pending,United States
+ORD1679,John Doe,test@gmail.com,Phone,Electronics,394.18,4,2025-04-08,Shipped,United States
+ORD1680,Unknown,example@outlook.com,Keyboard,Unknown,425.21,1,2024-08-22,Delivered,unknown
+ORD1681,Unknown,example@outlook.com,Phone,Electronics,687.71,5,2025-09-13,Shipped,United States
+ORD1682,Jane Smith,noemail@gmail.com,Keyboard,Unknown,1410.95,3,2023-12-25,Pending,Mexico
+ORD1683,John Doe,user@yahoo.com,Monitor,Unknown,1070.74,3,2024-03-07,Shipped,United States
+ORD1684,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,143.27,4,2023-12-23,Shipped,unknown
+ORD1685,John Doe,noemail@gmail.com,Phone,Unknown,1476.11,2,2023-02-12,Delivered,United States
+ORD1686,John Doe,test@gmail.com,Tablet,Unknown,783.87,5,2023-02-26,Shipped,Mexico
+ORD1687,Maria Lopez,user@yahoo.com,Phone,Electronics,401.8,2,2023-06-13,Pending,United States
+ORD1688,Maria Lopez,example@outlook.com,Tablet,Electronics,327.48,1,2023-12-08,Canceled,unknown
+ORD1689,Jane Smith,noemail@gmail.com,Tablet,Electronics,1230.74,2,2025-10-29,Pending,United States
+,Maria Lopez,example@outlook.com,Laptop,Electronics,1475.66,4,2023-01-16,Canceled,United States
+ORD1691,Jane Smith,example@outlook.com,Keyboard,Electronics,535.3,3,2024-11-24,Pending,Mexico
+ORD1692,Carlos Ruiz,example@outlook.com,Monitor,Electronics,729.6,1,2023-05-20,Shipped,unknown
+ORD1693,Unknown,example@outlook.com,Keyboard,Unknown,135.79,2,2023-11-10,Canceled,unknown
+ORD1694,Jane Smith,example@outlook.com,Phone,Electronics,1354.34,1,2023-05-06,delivered,Mexico
+ORD1695,Carlos Ruiz,user@yahoo.com,Phone,Unknown,1281.39,5,2023-11-22,Delivered,United States
+,Maria Lopez,example@outlook.com,Keyboard,Unknown,1440.3,2,2025-03-11,Canceled,United States
+ORD1697,Maria Lopez,example@outlook.com,Tablet,Electronics,764.425,1,2025-03-04,delivered,United States
+ORD1698,Maria Lopez,test@gmail.com,Laptop,Electronics,302.56,2,2025-11-24,Delivered,United States
+ORD1699,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,1183.21,5,2025-05-21,Canceled,United States
+ORD1700,Unknown,example@outlook.com,Keyboard,Electronics,1097.51,4,2023-11-27,Delivered,United States
+ORD1701,Jane Smith,example@outlook.com,Tablet,Unknown,635.85,2,2025-07-26,Shipped,unknown
+ORD1702,John Doe,user@yahoo.com,Phone,Unknown,1166.05,2,2025-10-13,Canceled,United States
+ORD1703,Unknown,example@outlook.com,Keyboard,Electronics,171.15,3,,Delivered,unknown
+ORD1704,John Doe,test@gmail.com,Monitor,Electronics,578.83,4,2024-01-20,Delivered,United States
+ORD1705,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,764.425,4,2023-07-12,Delivered,United States
+ORD1706,Carlos Ruiz,example@outlook.com,Monitor,Electronics,1275.18,4,2025-07-17,Pending,United States
+ORD1707,Jane Smith,user@yahoo.com,Keyboard,Unknown,942.54,3,2025-05-29,Shipped,unknown
+ORD1708,Unknown,noemail@gmail.com,Tablet,Electronics,547.73,2,2023-02-11,Canceled,United States
+ORD1709,Maria Lopez,test@gmail.com,Monitor,Electronics,1029.38,4,2023-05-10,Shipped,Mexico
+ORD1710,Carlos Ruiz,user@yahoo.com,Keyboard,Unknown,705.87,3,2025-08-04,Pending,Mexico
+ORD1711,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,998.52,4,2024-11-22,Delivered,United States
+ORD1712,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,558.04,3,2023-01-11,Delivered,Mexico
+ORD1713,Unknown,noemail@gmail.com,Tablet,Electronics,961.25,3,2024-03-27,Pending,unknown
+ORD1714,Maria Lopez,example@outlook.com,Keyboard,Electronics,184.63,5,2023-03-04,Delivered,United States
+ORD1715,John Doe,example@outlook.com,Monitor,Unknown,362.34,5,2023-08-19,Pending,United States
+ORD1716,Unknown,user@yahoo.com,Tablet,Electronics,138.44,4,2024-11-07,Canceled,Mexico
+ORD1717,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,218.08,4,2025-05-21,Canceled,unknown
+ORD1718,John Doe,test@gmail.com,Laptop,Electronics,587.61,2,2026-01-10,Delivered,unknown
+ORD1719,John Doe,user@yahoo.com,Phone,Electronics,1254.95,2,2025-08-08,Canceled,Mexico
+ORD1720,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,429.64,1,2026-01-13,delivered,Mexico
+ORD1721,Jane Smith,noemail@gmail.com,Phone,Electronics,1102.49,1,2024-05-16,delivered,United States
+ORD1722,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,1267.57,4,2024-03-29,Canceled,Mexico
+ORD1723,Jane Smith,example@outlook.com,Phone,Electronics,247.35,5,2024-02-08,Shipped,United States
+ORD1724,Carlos Ruiz,test@gmail.com,Phone,Electronics,974.44,3,2025-07-17,Pending,Mexico
+ORD1725,John Doe,user@yahoo.com,Phone,Unknown,1290.2,3,2023-11-26,Pending,United States
+ORD1726,Jane Smith,noemail@gmail.com,Tablet,Electronics,450.2,3,2023-12-10,delivered,United States
+ORD1727,Maria Lopez,example@outlook.com,Tablet,Unknown,962.8,1,2023-02-14,Pending,United States
+ORD1728,Carlos Ruiz,example@outlook.com,Phone,Electronics,764.425,2,2024-11-23,delivered,United States
+ORD1729,John Doe,noemail@gmail.com,Monitor,Electronics,132.07,4,2023-07-01,Pending,United States
+ORD1730,Unknown,noemail@gmail.com,Laptop,Electronics,73.36,2,2023-09-19,Delivered,Mexico
+ORD1731,Jane Smith,noemail@gmail.com,Phone,Electronics,853.1,1,2025-01-08,Delivered,United States
+ORD1732,John Doe,user@yahoo.com,Laptop,Unknown,469.15,3,2023-04-16,Canceled,Mexico
+ORD1733,Unknown,test@gmail.com,Laptop,Electronics,333.4,4,2025-11-27,Pending,unknown
+ORD1734,Unknown,noemail@gmail.com,Keyboard,Electronics,1314.55,1,2024-07-12,Shipped,Mexico
+ORD1735,Jane Smith,example@outlook.com,Monitor,Electronics,199.34,2,2023-09-03,Canceled,United States
+ORD1736,John Doe,test@gmail.com,Phone,Electronics,492.87,4,2025-01-30,Shipped,United States
+ORD1737,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,819.39,4,2023-06-27,Canceled,unknown
+ORD1738,Jane Smith,example@outlook.com,Phone,Electronics,783.99,3,2023-02-27,delivered,Mexico
+ORD1739,Carlos Ruiz,example@outlook.com,Laptop,Electronics,54.0,1,2024-03-11,Canceled,United States
+ORD1740,Maria Lopez,test@gmail.com,Tablet,Electronics,209.61,4,2025-07-11,Canceled,United States
+ORD1741,Jane Smith,example@outlook.com,Phone,Electronics,764.425,1,2024-07-30,Canceled,United States
+ORD1742,Carlos Ruiz,example@outlook.com,Monitor,Electronics,1242.75,2,2023-08-13,Pending,United States
+ORD1743,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,808.41,3,2024-03-24,Canceled,Mexico
+ORD1744,Carlos Ruiz,user@yahoo.com,Keyboard,Unknown,806.21,3,,Delivered,United States
+ORD1745,John Doe,example@outlook.com,Phone,Electronics,331.13,3,2023-02-11,Shipped,United States
+ORD1746,Maria Lopez,user@yahoo.com,Tablet,Electronics,1315.14,4,2023-05-03,Delivered,United States
+ORD1747,Jane Smith,noemail@gmail.com,Monitor,Unknown,1177.98,2,2025-11-12,Shipped,United States
+ORD1748,John Doe,user@yahoo.com,Keyboard,Electronics,94.35,4,2023-08-15,Shipped,Mexico
+ORD1749,Jane Smith,noemail@gmail.com,Keyboard,Electronics,769.51,4,2025-03-21,delivered,United States
+ORD1750,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,753.98,1,2023-03-01,Shipped,unknown
+ORD1751,Maria Lopez,test@gmail.com,Tablet,Electronics,668.14,4,2023-01-16,Delivered,United States
+ORD1752,Carlos Ruiz,user@yahoo.com,Keyboard,Unknown,295.56,1,2024-07-24,Canceled,United States
+ORD1753,Maria Lopez,test@gmail.com,Monitor,Electronics,762.27,2,2026-02-16,Delivered,United States
+ORD1754,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,764.425,2,2025-10-16,Shipped,United States
+ORD1755,Carlos Ruiz,example@outlook.com,Tablet,Electronics,1303.87,2,2023-09-04,Canceled,United States
+ORD1756,Jane Smith,example@outlook.com,Phone,Electronics,1485.1,4,2024-11-20,Delivered,United States
+ORD1757,Unknown,noemail@gmail.com,Monitor,Unknown,1248.18,4,2024-06-28,delivered,United States
+ORD1758,Jane Smith,noemail@gmail.com,Phone,Electronics,287.47,3,2024-12-02,delivered,Mexico
+ORD1759,John Doe,test@gmail.com,Keyboard,Electronics,324.05,2,2024-06-13,Canceled,Mexico
+ORD1760,Unknown,user@yahoo.com,Tablet,Unknown,981.45,5,2024-11-09,Shipped,Mexico
+ORD1761,Jane Smith,noemail@gmail.com,Phone,Electronics,654.02,3,2024-06-28,Canceled,United States
+ORD1762,Unknown,noemail@gmail.com,Tablet,Electronics,391.17,1,2024-02-19,Pending,United States
+ORD1763,Maria Lopez,user@yahoo.com,Phone,Electronics,781.01,1,2023-05-28,Pending,unknown
+ORD1764,Unknown,noemail@gmail.com,Keyboard,Electronics,911.78,4,,delivered,Mexico
+ORD1765,Jane Smith,test@gmail.com,Keyboard,Electronics,301.95,3,2023-03-07,Canceled,United States
+ORD1766,Maria Lopez,noemail@gmail.com,Tablet,Electronics,294.89,3,2023-08-31,Pending,Mexico
+ORD1767,John Doe,test@gmail.com,Phone,Unknown,651.72,5,2024-11-18,Pending,United States
+ORD1768,John Doe,user@yahoo.com,Monitor,Electronics,1258.31,1,2023-01-20,Shipped,United States
+ORD1769,Maria Lopez,example@outlook.com,Keyboard,Electronics,460.86,1,2025-08-08,Canceled,United States
+ORD1770,Jane Smith,example@outlook.com,Phone,Electronics,75.21,2,2025-01-09,delivered,Mexico
+ORD1771,John Doe,user@yahoo.com,Phone,Electronics,1069.78,2,2024-08-29,delivered,unknown
+ORD1772,Jane Smith,example@outlook.com,Laptop,Electronics,756.48,3,2024-02-15,delivered,United States
+ORD1773,Carlos Ruiz,example@outlook.com,Phone,Electronics,1135.7,5,2024-12-19,delivered,Mexico
+ORD1774,Unknown,noemail@gmail.com,Laptop,Electronics,1317.07,5,2023-05-24,Delivered,Mexico
+ORD1775,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,349.09,3,2024-08-01,Canceled,United States
+ORD1776,Maria Lopez,noemail@gmail.com,Tablet,Electronics,1364.59,3,2025-06-24,Shipped,United States
+ORD1777,John Doe,user@yahoo.com,Monitor,Electronics,1077.71,5,2023-07-02,Shipped,United States
+ORD1778,Unknown,example@outlook.com,Tablet,Electronics,764.425,2,2025-03-28,Shipped,United States
+ORD1779,Carlos Ruiz,example@outlook.com,Phone,Unknown,387.59,5,2023-08-20,Shipped,Mexico
+ORD1780,Jane Smith,test@gmail.com,Phone,Electronics,715.39,1,2024-08-16,Pending,unknown
+ORD1781,Jane Smith,noemail@gmail.com,Phone,Electronics,519.72,5,2024-04-08,Canceled,United States
+ORD1782,Carlos Ruiz,test@gmail.com,Laptop,Electronics,562.28,5,2025-10-27,Delivered,Mexico
+ORD1783,John Doe,user@yahoo.com,Tablet,Electronics,948.01,4,2024-12-03,delivered,Mexico
+ORD1784,Carlos Ruiz,test@gmail.com,Monitor,Unknown,1491.47,1,2024-01-08,delivered,Mexico
+ORD1785,Carlos Ruiz,test@gmail.com,Tablet,Electronics,94.68,3,2023-09-02,Delivered,Mexico
+ORD1786,John Doe,test@gmail.com,Tablet,Electronics,798.31,5,2023-10-30,Shipped,unknown
+ORD1787,Jane Smith,example@outlook.com,Keyboard,Electronics,1386.63,1,2025-12-27,Shipped,United States
+ORD1788,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,989.34,2,2025-11-30,delivered,United States
+ORD1789,Unknown,test@gmail.com,Laptop,Unknown,1277.89,4,2025-05-23,Shipped,unknown
+ORD1790,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1074.3,2,2023-11-28,Shipped,Mexico
+ORD1791,Maria Lopez,user@yahoo.com,Keyboard,Electronics,757.68,5,2023-08-03,delivered,United States
+ORD1792,Unknown,noemail@gmail.com,Monitor,Unknown,1139.71,3,2023-03-24,delivered,United States
+ORD1793,Unknown,noemail@gmail.com,Laptop,Electronics,1032.01,4,2024-11-17,Shipped,Mexico
+ORD1794,Maria Lopez,example@outlook.com,Keyboard,Electronics,946.65,5,2023-05-10,Delivered,United States
+ORD1795,Unknown,test@gmail.com,Phone,Unknown,1190.11,2,2024-05-03,Canceled,United States
+ORD1796,Jane Smith,test@gmail.com,Keyboard,Unknown,764.425,2,2023-05-09,Pending,United States
+ORD1797,John Doe,example@outlook.com,Tablet,Electronics,607.65,3,2024-04-02,delivered,United States
+ORD1798,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,184.92,4,2023-09-26,Canceled,United States
+ORD1799,Maria Lopez,example@outlook.com,Keyboard,Electronics,595.96,2,2023-08-27,Canceled,unknown
+ORD1800,Maria Lopez,example@outlook.com,Keyboard,Electronics,1258.65,3,2024-06-29,Shipped,Mexico
+ORD1801,Maria Lopez,test@gmail.com,Tablet,Unknown,805.34,5,2023-01-23,Delivered,United States
+ORD1802,Unknown,test@gmail.com,Tablet,Electronics,1085.31,5,2025-06-24,Pending,United States
+ORD1803,John Doe,user@yahoo.com,Keyboard,Electronics,944.4,2,2024-03-19,delivered,Mexico
+ORD1804,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,912.51,3,2025-08-11,Canceled,unknown
+ORD1805,Maria Lopez,user@yahoo.com,Monitor,Electronics,195.97,2,2024-10-08,delivered,unknown
+ORD1806,Unknown,user@yahoo.com,Tablet,Electronics,1061.63,1,2023-10-18,Shipped,United States
+ORD1807,Jane Smith,example@outlook.com,Keyboard,Electronics,118.39,4,2024-02-11,Canceled,United States
+ORD1808,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,845.48,3,2024-03-27,Canceled,United States
+ORD1809,John Doe,noemail@gmail.com,Monitor,Electronics,700.07,2,2023-01-15,Delivered,unknown
+ORD1810,John Doe,test@gmail.com,Tablet,Unknown,533.3,4,2025-05-24,delivered,United States
+ORD1811,Carlos Ruiz,test@gmail.com,Monitor,Electronics,280.26,2,2025-03-11,Canceled,Mexico
+ORD1812,John Doe,noemail@gmail.com,Laptop,Unknown,470.02,5,2023-05-11,Pending,unknown
+ORD1813,Jane Smith,user@yahoo.com,Laptop,Unknown,1483.69,2,2023-12-06,delivered,United States
+ORD1814,Unknown,user@yahoo.com,Tablet,Unknown,735.11,1,2023-02-18,Delivered,United States
+ORD1815,Unknown,noemail@gmail.com,Keyboard,Electronics,1459.58,4,2025-08-20,Delivered,unknown
+ORD1816,Unknown,test@gmail.com,Monitor,Electronics,764.425,2,2023-05-06,Shipped,United States
+ORD1817,John Doe,user@yahoo.com,Keyboard,Electronics,1387.74,1,2025-08-19,Canceled,United States
+ORD1818,Jane Smith,test@gmail.com,Phone,Electronics,732.78,2,2026-02-15,Canceled,United States
+ORD1819,John Doe,noemail@gmail.com,Phone,Unknown,148.48,5,2024-02-19,Shipped,Mexico
+ORD1820,Maria Lopez,user@yahoo.com,Phone,Electronics,1112.43,2,2023-09-05,Shipped,unknown
+ORD1821,Maria Lopez,noemail@gmail.com,Monitor,Electronics,249.61,5,2023-08-15,Shipped,unknown
+ORD1822,Jane Smith,example@outlook.com,Monitor,Electronics,181.03,2,2025-09-09,delivered,United States
+ORD1823,Jane Smith,user@yahoo.com,Monitor,Electronics,1472.02,4,,Shipped,unknown
+ORD1824,Unknown,user@yahoo.com,Monitor,Electronics,1107.13,5,2023-03-05,delivered,United States
+ORD1825,Jane Smith,test@gmail.com,Tablet,Electronics,867.95,1,2026-02-25,delivered,unknown
+ORD1826,Unknown,example@outlook.com,Tablet,Electronics,764.425,2,2025-08-08,Shipped,unknown
+ORD1827,Unknown,test@gmail.com,Tablet,Unknown,121.94,5,2025-07-31,Shipped,United States
+ORD1828,Carlos Ruiz,example@outlook.com,Tablet,Unknown,277.95,2,2024-08-23,Canceled,Mexico
+ORD1829,Carlos Ruiz,test@gmail.com,Monitor,Unknown,1205.09,3,,Pending,United States
+ORD1830,Unknown,user@yahoo.com,Monitor,Electronics,852.58,1,2024-06-15,Canceled,United States
+ORD1831,Maria Lopez,user@yahoo.com,Monitor,Electronics,764.425,2,2025-01-12,Shipped,unknown
+ORD1832,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,644.22,4,2024-05-05,Shipped,unknown
+ORD1833,John Doe,user@yahoo.com,Phone,Electronics,1051.81,4,2023-03-31,Shipped,unknown
+ORD1834,Maria Lopez,user@yahoo.com,Keyboard,Electronics,437.41,4,2026-02-11,Delivered,United States
+ORD1835,Unknown,noemail@gmail.com,Monitor,Electronics,742.01,3,2024-06-23,delivered,United States
+ORD1836,Carlos Ruiz,example@outlook.com,Monitor,Electronics,360.85,2,2025-03-07,Shipped,Mexico
+ORD1837,Maria Lopez,test@gmail.com,Tablet,Electronics,418.82,4,2023-02-17,Canceled,United States
+ORD1838,Carlos Ruiz,test@gmail.com,Tablet,Electronics,488.55,3,2024-12-11,Canceled,Mexico
+ORD1839,Unknown,noemail@gmail.com,Tablet,Unknown,764.425,4,2025-01-03,delivered,United States
+ORD1840,Carlos Ruiz,test@gmail.com,Monitor,Electronics,1447.85,2,2025-07-26,Pending,United States
+ORD1841,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1156.47,4,2025-12-05,Canceled,United States
+ORD1842,Unknown,noemail@gmail.com,Laptop,Unknown,537.23,3,2025-02-09,Shipped,United States
+ORD1843,Jane Smith,user@yahoo.com,Laptop,Electronics,859.41,2,2023-09-21,Delivered,United States
+ORD1844,Jane Smith,test@gmail.com,Laptop,Electronics,121.16,1,2023-06-03,Shipped,unknown
+ORD1845,Unknown,test@gmail.com,Tablet,Electronics,1014.1,5,2023-09-03,Canceled,United States
+ORD1846,John Doe,user@yahoo.com,Phone,Electronics,862.2,4,2025-08-17,Pending,United States
+ORD1847,Unknown,user@yahoo.com,Monitor,Electronics,669.45,5,2023-11-21,Shipped,United States
+ORD1848,Maria Lopez,user@yahoo.com,Tablet,Unknown,201.88,2,2024-02-21,Canceled,United States
+ORD1849,Jane Smith,noemail@gmail.com,Laptop,Electronics,1189.89,4,2024-09-16,Pending,United States
+ORD1850,Jane Smith,user@yahoo.com,Tablet,Electronics,1456.63,5,2023-10-25,Pending,United States
+ORD1851,Unknown,example@outlook.com,Laptop,Electronics,290.22,1,2024-08-10,Shipped,United States
+ORD1852,Unknown,example@outlook.com,Phone,Unknown,1315.47,1,,Pending,unknown
+ORD1853,Carlos Ruiz,test@gmail.com,Phone,Electronics,419.72,2,2025-01-23,Canceled,United States
+ORD1854,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,1083.45,5,2025-02-17,Shipped,Mexico
+ORD1855,Jane Smith,example@outlook.com,Laptop,Electronics,889.23,4,2024-05-03,Delivered,United States
+ORD1856,Unknown,noemail@gmail.com,Phone,Unknown,918.29,4,2026-02-15,delivered,unknown
+ORD1857,Jane Smith,noemail@gmail.com,Phone,Electronics,273.99,4,2025-02-18,Pending,United States
+ORD1858,Unknown,test@gmail.com,Laptop,Electronics,967.91,5,2024-09-18,delivered,United States
+ORD1859,Maria Lopez,example@outlook.com,Keyboard,Unknown,106.37,4,,Shipped,unknown
+ORD1860,Jane Smith,user@yahoo.com,Keyboard,Electronics,179.69,5,2024-11-13,Delivered,United States
+ORD1861,John Doe,user@yahoo.com,Keyboard,Electronics,521.26,2,2026-01-09,Canceled,United States
+ORD1862,Maria Lopez,user@yahoo.com,Tablet,Unknown,96.99,1,2023-07-07,delivered,United States
+ORD1863,Carlos Ruiz,example@outlook.com,Tablet,Unknown,89.57,1,2024-12-29,delivered,United States
+ORD1864,Maria Lopez,user@yahoo.com,Phone,Unknown,556.05,3,2024-04-17,Pending,United States
+ORD1865,Unknown,user@yahoo.com,Tablet,Unknown,1187.66,4,2025-12-15,delivered,United States
+ORD1866,Jane Smith,noemail@gmail.com,Laptop,Electronics,764.425,2,2023-07-31,Delivered,Mexico
+ORD1867,Unknown,test@gmail.com,Phone,Electronics,1208.8,5,2024-06-19,Delivered,United States
+ORD1868,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,222.94,5,2023-09-10,delivered,United States
+ORD1869,John Doe,noemail@gmail.com,Phone,Electronics,444.79,3,2023-03-29,delivered,United States
+ORD1870,Jane Smith,example@outlook.com,Laptop,Electronics,747.32,1,2024-04-23,Shipped,Mexico
+ORD1871,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,789.82,3,2023-08-11,Shipped,United States
+ORD1872,Maria Lopez,example@outlook.com,Laptop,Unknown,875.85,4,2025-10-09,delivered,Mexico
+ORD1873,Maria Lopez,user@yahoo.com,Tablet,Electronics,772.7,2,2023-07-10,Shipped,unknown
+,Carlos Ruiz,user@yahoo.com,Monitor,Unknown,122.76,5,2024-12-03,delivered,United States
+ORD1875,Unknown,user@yahoo.com,Keyboard,Unknown,764.425,4,2025-10-08,Pending,United States
+,Unknown,noemail@gmail.com,Keyboard,Electronics,764.425,5,2023-02-05,Delivered,United States
+ORD1877,Carlos Ruiz,test@gmail.com,Monitor,Unknown,1306.45,2,,delivered,United States
+ORD1878,Carlos Ruiz,example@outlook.com,Tablet,Electronics,646.95,5,2025-05-05,Shipped,United States
+ORD1879,John Doe,test@gmail.com,Monitor,Electronics,1083.34,3,2025-12-08,Pending,unknown
+ORD1880,John Doe,noemail@gmail.com,Keyboard,Electronics,975.6,4,2023-11-07,Pending,unknown
+ORD1881,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,669.63,5,2023-12-06,Canceled,Mexico
+ORD1882,John Doe,user@yahoo.com,Phone,Electronics,330.95,3,2023-07-29,Shipped,United States
+ORD1883,Jane Smith,example@outlook.com,Keyboard,Electronics,670.95,5,2024-10-25,Canceled,unknown
+ORD1884,John Doe,user@yahoo.com,Keyboard,Electronics,692.2,4,2025-05-22,Shipped,United States
+ORD1885,Maria Lopez,noemail@gmail.com,Laptop,Electronics,208.29,4,2024-03-24,Shipped,United States
+ORD1886,Maria Lopez,user@yahoo.com,Phone,Electronics,532.05,3,2024-11-08,Canceled,United States
+ORD1887,John Doe,test@gmail.com,Monitor,Electronics,1492.83,3,2024-03-09,Delivered,unknown
+ORD1888,John Doe,user@yahoo.com,Tablet,Electronics,878.07,4,2024-11-08,Shipped,unknown
+ORD1889,Unknown,example@outlook.com,Laptop,Unknown,1373.36,3,2024-04-24,Shipped,United States
+ORD1890,Jane Smith,example@outlook.com,Monitor,Electronics,959.56,2,,Canceled,United States
+ORD1891,John Doe,user@yahoo.com,Monitor,Electronics,1301.32,1,2025-12-16,Shipped,unknown
+ORD1892,Maria Lopez,user@yahoo.com,Monitor,Electronics,1151.74,2,2023-04-17,Canceled,United States
+ORD1893,Jane Smith,test@gmail.com,Laptop,Electronics,351.95,1,2024-05-13,Pending,United States
+ORD1894,Unknown,example@outlook.com,Monitor,Electronics,956.87,3,2023-06-09,Shipped,unknown
+ORD1895,Maria Lopez,test@gmail.com,Laptop,Unknown,538.55,3,2024-04-22,Shipped,unknown
+ORD1896,John Doe,test@gmail.com,Monitor,Electronics,569.73,3,2023-12-25,Shipped,Mexico
+ORD1897,Carlos Ruiz,test@gmail.com,Tablet,Electronics,105.49,4,2025-01-03,Shipped,United States
+ORD1898,Maria Lopez,example@outlook.com,Keyboard,Electronics,1380.97,4,2025-11-01,Canceled,United States
+ORD1899,Maria Lopez,noemail@gmail.com,Laptop,Unknown,954.4,1,2023-04-10,Pending,Mexico
+ORD1900,Carlos Ruiz,example@outlook.com,Phone,Electronics,1405.26,5,2023-04-18,Delivered,unknown
+ORD1901,Jane Smith,test@gmail.com,Keyboard,Electronics,482.86,5,2023-11-23,Delivered,United States
+ORD1902,Jane Smith,user@yahoo.com,Phone,Unknown,278.66,2,2024-11-15,delivered,Mexico
+ORD1903,Jane Smith,user@yahoo.com,Laptop,Electronics,786.64,3,2025-06-18,Shipped,United States
+ORD1904,Maria Lopez,user@yahoo.com,Tablet,Electronics,283.63,5,2025-08-08,Delivered,United States
+ORD1905,Unknown,noemail@gmail.com,Keyboard,Unknown,1211.54,1,2025-10-29,Shipped,United States
+ORD1906,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,668.89,5,2024-07-04,Shipped,Mexico
+ORD1907,Unknown,user@yahoo.com,Tablet,Electronics,1233.66,4,2023-12-10,Canceled,United States
+ORD1908,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,181.11,5,2025-11-17,Canceled,unknown
+ORD1909,Carlos Ruiz,test@gmail.com,Tablet,Electronics,385.28,1,,Shipped,Mexico
+ORD1910,Unknown,example@outlook.com,Keyboard,Electronics,1354.6,2,2023-12-06,Pending,Mexico
+ORD1911,Unknown,example@outlook.com,Keyboard,Electronics,1497.1,1,2025-08-09,Delivered,United States
+ORD1912,John Doe,noemail@gmail.com,Phone,Electronics,1181.12,1,2023-02-26,Shipped,United States
+ORD1913,Unknown,test@gmail.com,Tablet,Electronics,1498.8,2,2023-12-12,Canceled,United States
+ORD1914,John Doe,user@yahoo.com,Keyboard,Electronics,740.77,3,2023-08-05,delivered,United States
+ORD1915,Jane Smith,test@gmail.com,Phone,Electronics,1391.72,1,2024-10-20,delivered,United States
+ORD1916,Unknown,example@outlook.com,Keyboard,Unknown,806.6,4,2024-04-01,Shipped,United States
+ORD1917,Unknown,user@yahoo.com,Phone,Electronics,247.68,1,2023-12-17,Pending,Mexico
+ORD1918,Maria Lopez,noemail@gmail.com,Phone,Electronics,1050.23,2,2024-07-27,delivered,unknown
+ORD1919,John Doe,noemail@gmail.com,Tablet,Electronics,1434.51,5,2024-11-10,Delivered,Mexico
+ORD1920,Unknown,noemail@gmail.com,Phone,Unknown,1275.94,4,2026-01-28,delivered,United States
+ORD1921,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1286.09,5,2024-07-18,Shipped,United States
+ORD1922,Jane Smith,noemail@gmail.com,Tablet,Electronics,571.08,1,2024-07-03,delivered,unknown
+ORD1923,Jane Smith,noemail@gmail.com,Tablet,Unknown,1243.2,1,2024-01-15,Canceled,Mexico
+ORD1924,Carlos Ruiz,test@gmail.com,Monitor,Electronics,712.51,2,2023-02-20,Delivered,United States
+ORD1925,Unknown,example@outlook.com,Tablet,Electronics,1104.85,1,2023-04-14,Canceled,Mexico
+ORD1926,Carlos Ruiz,user@yahoo.com,Phone,Electronics,1477.23,4,2025-12-10,Delivered,United States
+ORD1927,Unknown,user@yahoo.com,Monitor,Electronics,1269.22,3,2024-08-20,Delivered,United States
+ORD1928,Carlos Ruiz,noemail@gmail.com,Tablet,Unknown,779.51,3,2024-12-06,Delivered,Mexico
+ORD1929,Jane Smith,test@gmail.com,Phone,Electronics,338.65,3,2023-06-18,Canceled,unknown
+ORD1930,Unknown,user@yahoo.com,Laptop,Electronics,555.77,4,2025-05-12,Pending,unknown
+ORD1931,Jane Smith,user@yahoo.com,Phone,Electronics,636.06,1,2024-06-14,delivered,Mexico
+ORD1932,Unknown,user@yahoo.com,Monitor,Electronics,180.22,5,2024-12-01,delivered,United States
+ORD1933,Jane Smith,user@yahoo.com,Monitor,Electronics,764.425,4,2023-02-20,Delivered,United States
+ORD1934,Unknown,noemail@gmail.com,Monitor,Unknown,266.24,1,2025-06-18,Delivered,unknown
+ORD1935,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,764.425,2,2025-08-28,Canceled,United States
+ORD1936,John Doe,user@yahoo.com,Phone,Unknown,962.57,1,,Pending,Mexico
+ORD1937,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,202.05,4,2024-01-08,Shipped,United States
+ORD1938,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,538.78,5,2024-10-26,Shipped,United States
+,Carlos Ruiz,noemail@gmail.com,Tablet,Unknown,329.79,5,2025-09-30,Delivered,United States
+ORD1940,Jane Smith,example@outlook.com,Monitor,Electronics,829.08,4,2024-10-22,delivered,United States
+ORD1941,Unknown,noemail@gmail.com,Laptop,Electronics,1217.99,5,2025-04-26,Canceled,unknown
+ORD1942,Maria Lopez,example@outlook.com,Tablet,Electronics,109.48,2,2025-08-24,delivered,unknown
+ORD1943,Jane Smith,noemail@gmail.com,Phone,Unknown,1003.13,4,2025-12-02,Shipped,unknown
+ORD1944,John Doe,noemail@gmail.com,Monitor,Unknown,342.26,3,2023-09-11,Canceled,United States
+ORD1945,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,1188.23,4,2024-01-27,Pending,unknown
+ORD1946,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,632.02,3,2023-02-25,Shipped,United States
+ORD1947,Maria Lopez,noemail@gmail.com,Phone,Electronics,1468.87,1,2024-10-28,Canceled,United States
+ORD1948,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,1137.11,4,2026-02-25,Shipped,unknown
+ORD1949,Maria Lopez,noemail@gmail.com,Tablet,Electronics,707.77,1,2024-10-23,delivered,Mexico
+ORD1950,Unknown,test@gmail.com,Monitor,Unknown,1128.3,5,2024-02-14,Shipped,United States
+ORD1951,Unknown,example@outlook.com,Phone,Electronics,711.93,1,2023-04-18,Canceled,Mexico
+ORD1952,John Doe,user@yahoo.com,Keyboard,Electronics,1344.63,4,2024-01-22,Pending,unknown
+ORD1953,Jane Smith,noemail@gmail.com,Tablet,Unknown,1452.99,5,2025-09-06,Canceled,United States
+ORD1954,Maria Lopez,noemail@gmail.com,Laptop,Electronics,559.31,5,2023-11-10,Canceled,United States
+ORD1955,Unknown,example@outlook.com,Phone,Electronics,605.5,2,,delivered,United States
+ORD1956,Unknown,test@gmail.com,Keyboard,Electronics,750.36,1,2023-08-09,Pending,unknown
+ORD1957,Jane Smith,noemail@gmail.com,Laptop,Electronics,1334.82,3,2024-10-04,Delivered,United States
+ORD1958,John Doe,test@gmail.com,Keyboard,Unknown,480.76,2,2024-06-19,delivered,United States
+ORD1959,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1181.33,2,2023-11-27,delivered,United States
+ORD1960,Unknown,example@outlook.com,Monitor,Electronics,1213.2,5,2025-06-25,Delivered,Mexico
+ORD1961,Maria Lopez,test@gmail.com,Tablet,Electronics,238.95,2,,Shipped,United States
+ORD1962,John Doe,example@outlook.com,Phone,Unknown,465.37,1,2023-05-05,Canceled,unknown
+ORD1963,Maria Lopez,noemail@gmail.com,Phone,Electronics,607.85,4,2023-10-23,Pending,United States
+ORD1964,John Doe,noemail@gmail.com,Laptop,Electronics,764.425,1,2025-08-22,Delivered,United States
+ORD1965,John Doe,example@outlook.com,Monitor,Electronics,764.425,3,2023-10-17,Pending,United States
+ORD1966,Maria Lopez,noemail@gmail.com,Monitor,Electronics,1091.05,4,2023-07-09,Shipped,Mexico
+ORD1967,Carlos Ruiz,test@gmail.com,Laptop,Electronics,128.49,5,2024-12-17,delivered,United States
+ORD1968,Maria Lopez,example@outlook.com,Tablet,Unknown,428.48,1,2024-10-22,Shipped,unknown
+ORD1969,Carlos Ruiz,user@yahoo.com,Phone,Electronics,696.36,4,2024-06-16,Shipped,United States
+ORD1970,Maria Lopez,noemail@gmail.com,Phone,Unknown,1206.09,2,2024-12-20,Delivered,Mexico
+ORD1971,John Doe,test@gmail.com,Laptop,Unknown,102.38,1,2025-11-13,Canceled,unknown
+ORD1972,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,719.01,3,2023-05-07,Canceled,United States
+ORD1973,Unknown,user@yahoo.com,Tablet,Electronics,1465.63,3,2023-05-04,Shipped,United States
+ORD1974,Maria Lopez,example@outlook.com,Tablet,Unknown,95.83,1,2023-11-25,Delivered,United States
+ORD1975,Unknown,user@yahoo.com,Monitor,Unknown,218.95,5,2024-05-02,Canceled,United States
+ORD1976,Carlos Ruiz,example@outlook.com,Laptop,Electronics,690.88,5,2024-05-05,Pending,United States
+ORD1977,Maria Lopez,user@yahoo.com,Laptop,Electronics,943.02,4,2025-11-17,Delivered,United States
+ORD1978,Jane Smith,test@gmail.com,Monitor,Electronics,1205.21,5,2024-06-02,Canceled,United States
+ORD1979,Jane Smith,example@outlook.com,Phone,Electronics,925.25,1,2023-07-16,Delivered,United States
+ORD1980,Jane Smith,noemail@gmail.com,Keyboard,Unknown,191.09,2,2024-10-27,Canceled,Mexico
+ORD1981,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1022.98,1,2025-06-24,Canceled,United States
+ORD1982,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,106.29,2,2025-03-27,Pending,United States
+ORD1983,Unknown,user@yahoo.com,Keyboard,Electronics,764.425,4,2024-04-10,Shipped,United States
+ORD1984,Unknown,user@yahoo.com,Laptop,Electronics,219.03,5,2025-05-23,Canceled,United States
+ORD1985,Maria Lopez,user@yahoo.com,Monitor,Electronics,145.88,5,2023-12-17,Canceled,Mexico
+ORD1986,John Doe,test@gmail.com,Phone,Electronics,974.17,4,2025-05-03,Pending,unknown
+ORD1987,Maria Lopez,example@outlook.com,Phone,Unknown,692.48,5,2025-12-12,Canceled,United States
+ORD1988,John Doe,example@outlook.com,Phone,Unknown,887.1,2,2025-05-05,Delivered,United States
+ORD1989,Jane Smith,noemail@gmail.com,Tablet,Electronics,355.89,5,2024-05-04,Pending,United States
+ORD1990,Unknown,test@gmail.com,Phone,Electronics,1169.28,4,2024-04-23,Shipped,United States
+ORD1991,Carlos Ruiz,test@gmail.com,Tablet,Unknown,278.55,3,2023-06-18,Delivered,United States
+ORD1992,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1080.28,2,2024-03-14,Shipped,United States
+ORD1993,Carlos Ruiz,example@outlook.com,Phone,Unknown,1472.56,5,2024-03-11,Pending,United States
+ORD1994,Carlos Ruiz,example@outlook.com,Phone,Electronics,1404.33,3,,Shipped,United States
+ORD1995,Jane Smith,example@outlook.com,Phone,Unknown,345.48,5,2023-05-23,Pending,unknown
+ORD1996,Jane Smith,user@yahoo.com,Phone,Electronics,1460.02,2,2023-11-01,Shipped,United States
+ORD1997,Unknown,user@yahoo.com,Keyboard,Unknown,266.76,5,2024-06-24,delivered,United States
+,Unknown,example@outlook.com,Tablet,Electronics,1370.09,4,2025-03-09,Shipped,United States
+ORD1999,Jane Smith,user@yahoo.com,Monitor,Electronics,944.42,2,2025-10-13,Delivered,United States
+ORD2000,Maria Lopez,test@gmail.com,Tablet,Electronics,121.15,1,2023-12-26,Delivered,United States
+ORD2001,Jane Smith,test@gmail.com,Laptop,Electronics,65.12,3,2024-03-29,Shipped,United States
+ORD2002,Maria Lopez,example@outlook.com,Phone,Electronics,433.88,5,2024-11-03,Pending,United States
+ORD2003,Maria Lopez,example@outlook.com,Tablet,Unknown,273.6,4,2025-02-08,delivered,United States
+ORD2004,Unknown,test@gmail.com,Monitor,Electronics,162.76,2,2023-10-14,Canceled,United States
+ORD2005,Jane Smith,test@gmail.com,Keyboard,Electronics,280.41,1,2023-04-25,delivered,United States
+ORD2006,Maria Lopez,test@gmail.com,Laptop,Electronics,174.11,5,2023-04-20,delivered,Mexico
+ORD2007,Jane Smith,test@gmail.com,Phone,Electronics,850.21,3,2023-11-29,Shipped,United States
+ORD2008,Carlos Ruiz,example@outlook.com,Laptop,Electronics,246.06,4,2026-01-29,delivered,United States
+ORD2009,Unknown,noemail@gmail.com,Tablet,Electronics,119.6,3,2025-07-19,Canceled,Mexico
+ORD2010,John Doe,example@outlook.com,Monitor,Electronics,624.12,5,2024-10-21,delivered,unknown
+ORD2011,Carlos Ruiz,example@outlook.com,Phone,Unknown,1037.28,3,2023-12-14,delivered,unknown
+ORD2012,Maria Lopez,example@outlook.com,Keyboard,Electronics,1104.38,4,2024-12-04,Shipped,unknown
+,John Doe,noemail@gmail.com,Monitor,Unknown,266.89,4,2024-05-03,Canceled,Mexico
+ORD2014,Carlos Ruiz,example@outlook.com,Monitor,Electronics,1095.58,4,2026-02-16,delivered,United States
+ORD2015,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,970.69,1,2024-02-14,Canceled,Mexico
+ORD2016,Maria Lopez,noemail@gmail.com,Monitor,Unknown,658.38,4,2024-05-05,Pending,Mexico
+ORD2017,Jane Smith,noemail@gmail.com,Tablet,Electronics,383.93,2,,Pending,United States
+ORD2018,Jane Smith,example@outlook.com,Tablet,Electronics,808.92,2,2023-11-12,Pending,United States
+ORD2019,Unknown,noemail@gmail.com,Keyboard,Electronics,209.34,3,2023-05-29,Shipped,unknown
+ORD2020,Unknown,test@gmail.com,Keyboard,Electronics,103.28,1,2023-03-06,Delivered,United States
+ORD2021,Jane Smith,test@gmail.com,Phone,Electronics,1428.78,3,2025-07-18,Shipped,United States
+ORD2022,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1243.17,5,2024-01-06,Shipped,United States
+ORD2023,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,1400.28,1,2023-06-04,Delivered,United States
+ORD2024,John Doe,noemail@gmail.com,Phone,Unknown,513.03,2,2024-10-13,Delivered,United States
+ORD2025,Unknown,user@yahoo.com,Keyboard,Electronics,491.62,5,2023-09-19,Shipped,United States
+ORD2026,John Doe,test@gmail.com,Phone,Electronics,175.92,4,2026-02-10,delivered,United States
+ORD2027,Unknown,example@outlook.com,Laptop,Electronics,198.48,5,2025-02-22,delivered,United States
+ORD2028,Jane Smith,noemail@gmail.com,Tablet,Unknown,764.425,1,2025-09-02,Canceled,United States
+ORD2029,Unknown,example@outlook.com,Tablet,Unknown,1386.57,4,2023-02-11,Canceled,United States
+,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1119.02,1,2023-05-08,delivered,United States
+ORD2031,John Doe,noemail@gmail.com,Phone,Electronics,1465.96,2,2023-02-09,Shipped,unknown
+ORD2032,Carlos Ruiz,test@gmail.com,Laptop,Unknown,764.425,4,2023-08-21,Delivered,United States
+ORD2033,Carlos Ruiz,example@outlook.com,Phone,Electronics,1143.78,4,2024-02-08,Shipped,Mexico
+ORD2034,Maria Lopez,test@gmail.com,Tablet,Electronics,872.57,4,,Pending,Mexico
+ORD2035,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,1030.82,4,2025-10-29,delivered,United States
+ORD2036,Maria Lopez,example@outlook.com,Tablet,Unknown,597.79,5,2023-11-15,Pending,Mexico
+ORD2037,Unknown,test@gmail.com,Monitor,Electronics,1044.46,5,2025-09-06,delivered,United States
+ORD2038,John Doe,example@outlook.com,Keyboard,Unknown,226.2,3,2025-10-05,delivered,Mexico
+ORD2039,John Doe,user@yahoo.com,Phone,Unknown,949.15,4,2024-11-22,Delivered,unknown
+ORD2040,John Doe,user@yahoo.com,Tablet,Electronics,1191.77,1,2023-05-08,Delivered,United States
+ORD2041,Jane Smith,noemail@gmail.com,Phone,Unknown,1167.77,3,2023-04-26,Delivered,United States
+ORD2042,Carlos Ruiz,example@outlook.com,Monitor,Unknown,1256.39,4,2024-03-30,Delivered,unknown
+ORD2043,Maria Lopez,noemail@gmail.com,Monitor,Electronics,1137.15,4,,delivered,Mexico
+ORD2044,Unknown,test@gmail.com,Tablet,Electronics,1333.43,5,2025-04-13,Pending,United States
+ORD2045,Unknown,user@yahoo.com,Keyboard,Electronics,1204.76,1,2025-05-10,Shipped,unknown
+ORD2046,John Doe,test@gmail.com,Tablet,Electronics,524.72,5,2023-02-01,Pending,unknown
+ORD2047,Unknown,user@yahoo.com,Tablet,Electronics,304.95,5,2025-05-01,Shipped,United States
+ORD2048,John Doe,example@outlook.com,Monitor,Electronics,70.08,5,2023-12-01,Delivered,unknown
+ORD2049,Jane Smith,test@gmail.com,Monitor,Unknown,1225.99,1,2024-08-03,Shipped,United States
+ORD2050,Jane Smith,test@gmail.com,Keyboard,Electronics,1258.49,3,2026-01-16,Shipped,United States
+ORD2051,Jane Smith,test@gmail.com,Phone,Unknown,1469.23,2,2025-01-23,Pending,Mexico
+ORD2052,Maria Lopez,test@gmail.com,Monitor,Electronics,767.56,5,2025-07-11,Canceled,unknown
+ORD2053,Maria Lopez,example@outlook.com,Tablet,Unknown,1472.16,1,2026-02-15,Pending,unknown
+ORD2054,John Doe,noemail@gmail.com,Laptop,Unknown,673.19,3,2023-02-14,Canceled,unknown
+ORD2055,John Doe,test@gmail.com,Keyboard,Electronics,1130.94,1,2023-04-02,Delivered,unknown
+ORD2056,Jane Smith,example@outlook.com,Phone,Electronics,587.19,3,2023-03-26,Delivered,United States
+ORD2057,Jane Smith,test@gmail.com,Laptop,Electronics,1322.98,4,2024-05-20,delivered,United States
+ORD2058,John Doe,test@gmail.com,Laptop,Electronics,1369.19,5,2023-03-13,Delivered,Mexico
+ORD2059,Unknown,noemail@gmail.com,Keyboard,Electronics,1328.86,2,2023-11-12,Shipped,United States
+ORD2060,Carlos Ruiz,example@outlook.com,Phone,Electronics,412.99,3,2024-04-30,Canceled,United States
+ORD2061,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,622.42,2,2026-02-08,delivered,United States
+ORD2062,Jane Smith,user@yahoo.com,Keyboard,Electronics,145.07,5,2025-10-21,Shipped,unknown
+ORD2063,Unknown,test@gmail.com,Monitor,Unknown,1412.01,4,2024-05-02,Shipped,United States
+ORD2064,John Doe,noemail@gmail.com,Laptop,Electronics,494.68,4,2024-12-14,delivered,Mexico
+ORD2065,John Doe,user@yahoo.com,Tablet,Electronics,1486.01,4,2023-04-16,Shipped,United States
+ORD2066,Maria Lopez,user@yahoo.com,Laptop,Electronics,1480.3,5,2024-06-12,Canceled,United States
+ORD2067,Unknown,user@yahoo.com,Laptop,Electronics,64.1,3,2025-04-15,Delivered,unknown
+ORD2068,Unknown,test@gmail.com,Keyboard,Unknown,887.55,4,2025-02-09,Shipped,United States
+ORD2069,Unknown,test@gmail.com,Keyboard,Electronics,293.33,3,2023-02-06,Pending,United States
+ORD2070,John Doe,noemail@gmail.com,Keyboard,Electronics,376.04,5,2025-09-02,Delivered,Mexico
+ORD2071,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,376.39,1,2024-02-15,Canceled,United States
+ORD2072,Unknown,noemail@gmail.com,Tablet,Unknown,1294.59,1,2023-06-26,Shipped,United States
+ORD2073,Unknown,example@outlook.com,Monitor,Electronics,1346.59,4,2024-12-28,Shipped,United States
+ORD2074,John Doe,test@gmail.com,Monitor,Electronics,941.19,3,2025-01-24,Canceled,unknown
+ORD2075,Unknown,example@outlook.com,Keyboard,Electronics,738.92,2,2024-04-03,Pending,Mexico
+ORD2076,Jane Smith,user@yahoo.com,Tablet,Unknown,459.71,4,2025-05-20,Delivered,United States
+ORD2077,Unknown,user@yahoo.com,Tablet,Electronics,1194.86,4,2023-07-01,delivered,United States
+ORD2078,Maria Lopez,test@gmail.com,Keyboard,Unknown,1409.59,5,2023-10-30,Shipped,United States
+ORD2079,John Doe,example@outlook.com,Laptop,Unknown,549.24,3,2024-03-18,Canceled,unknown
+ORD2080,Maria Lopez,example@outlook.com,Laptop,Electronics,521.55,5,2023-11-22,Shipped,United States
+ORD2081,Unknown,test@gmail.com,Laptop,Electronics,131.38,1,2025-11-13,Canceled,United States
+ORD2082,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,542.23,4,2024-03-12,Pending,unknown
+ORD2083,Jane Smith,noemail@gmail.com,Phone,Electronics,1428.75,1,2024-06-26,Canceled,United States
+ORD2084,Maria Lopez,user@yahoo.com,Phone,Electronics,160.31,5,2023-04-02,Delivered,Mexico
+ORD2085,Maria Lopez,noemail@gmail.com,Monitor,Electronics,650.98,5,2025-06-09,Shipped,United States
+ORD2086,Maria Lopez,test@gmail.com,Keyboard,Electronics,57.33,3,2025-03-12,Canceled,unknown
+ORD2087,Carlos Ruiz,test@gmail.com,Phone,Electronics,528.09,4,2023-02-17,Canceled,United States
+ORD2088,Carlos Ruiz,test@gmail.com,Phone,Electronics,658.61,3,,delivered,United States
+ORD2089,Carlos Ruiz,example@outlook.com,Tablet,Electronics,191.77,2,2024-10-25,Delivered,United States
+ORD2090,Jane Smith,test@gmail.com,Monitor,Electronics,541.69,2,2025-06-02,Canceled,United States
+ORD2091,Unknown,test@gmail.com,Tablet,Electronics,1142.08,3,2025-01-18,Delivered,United States
+ORD2092,Unknown,user@yahoo.com,Keyboard,Electronics,1067.22,4,2024-11-24,Shipped,Mexico
+ORD2093,Unknown,test@gmail.com,Phone,Electronics,710.72,3,2023-05-20,Delivered,United States
+,Unknown,test@gmail.com,Tablet,Electronics,440.71,2,2023-09-26,Shipped,Mexico
+,Jane Smith,noemail@gmail.com,Monitor,Electronics,517.65,5,2024-05-11,delivered,United States
+ORD2096,Carlos Ruiz,test@gmail.com,Monitor,Electronics,303.44,1,2024-02-10,Pending,unknown
+ORD2097,Carlos Ruiz,example@outlook.com,Laptop,Electronics,258.91,3,2023-02-02,Pending,unknown
+ORD2098,Jane Smith,noemail@gmail.com,Keyboard,Electronics,608.88,5,2024-06-06,Pending,Mexico
+ORD2099,Maria Lopez,user@yahoo.com,Tablet,Electronics,146.59,4,2025-12-01,Pending,United States
+ORD2100,John Doe,test@gmail.com,Laptop,Electronics,270.93,3,2023-12-25,Shipped,United States
+ORD2101,Jane Smith,test@gmail.com,Tablet,Electronics,367.1,1,2023-03-17,delivered,Mexico
+ORD2102,John Doe,user@yahoo.com,Tablet,Unknown,415.31,5,2024-07-08,Pending,United States
+ORD2103,Maria Lopez,test@gmail.com,Phone,Electronics,599.32,5,2023-03-23,Shipped,unknown
+ORD2104,Jane Smith,user@yahoo.com,Tablet,Electronics,918.23,1,2025-05-28,Delivered,United States
+ORD2105,John Doe,noemail@gmail.com,Laptop,Electronics,57.72,4,2023-08-09,Delivered,United States
+ORD2106,Unknown,noemail@gmail.com,Keyboard,Electronics,949.86,2,2025-11-01,Canceled,Mexico
+ORD2107,Unknown,test@gmail.com,Phone,Electronics,757.04,4,2024-07-26,delivered,United States
+ORD2108,Unknown,noemail@gmail.com,Phone,Electronics,150.77,5,2023-05-02,Delivered,United States
+ORD2109,Carlos Ruiz,example@outlook.com,Phone,Electronics,1238.46,5,2024-12-31,Canceled,United States
+ORD2110,Unknown,noemail@gmail.com,Keyboard,Electronics,764.425,3,2024-06-06,delivered,United States
+ORD2111,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,143.01,3,2023-03-05,Pending,United States
+ORD2112,Unknown,user@yahoo.com,Phone,Electronics,687.08,1,2023-05-18,Delivered,United States
+ORD2113,Jane Smith,example@outlook.com,Laptop,Electronics,1250.52,3,2025-11-20,Shipped,United States
+ORD2114,Unknown,test@gmail.com,Laptop,Electronics,867.62,2,2025-11-12,Shipped,United States
+ORD2115,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1436.8,2,2023-12-04,Delivered,United States
+ORD2116,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,1396.72,4,2023-01-16,Pending,United States
+ORD2117,Unknown,noemail@gmail.com,Keyboard,Electronics,961.32,5,2023-11-17,Delivered,United States
+ORD2118,Maria Lopez,example@outlook.com,Tablet,Electronics,486.69,5,2023-04-26,Canceled,United States
+,Jane Smith,test@gmail.com,Monitor,Electronics,312.5,4,,Canceled,United States
+ORD2120,Maria Lopez,test@gmail.com,Tablet,Electronics,928.78,3,2025-03-12,Pending,United States
+ORD2121,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,238.89,4,2024-10-25,delivered,United States
+,Maria Lopez,user@yahoo.com,Keyboard,Electronics,785.58,3,2025-10-13,Pending,United States
+ORD2123,Maria Lopez,noemail@gmail.com,Phone,Electronics,1055.05,5,2025-07-25,Canceled,United States
+ORD2124,Jane Smith,user@yahoo.com,Laptop,Electronics,1458.95,5,2023-06-06,delivered,unknown
+ORD2125,Unknown,user@yahoo.com,Tablet,Electronics,504.63,1,2024-04-27,Shipped,unknown
+ORD2126,Maria Lopez,noemail@gmail.com,Laptop,Unknown,1304.13,2,2023-10-11,Pending,United States
+ORD2127,John Doe,example@outlook.com,Keyboard,Electronics,664.74,3,2025-06-17,Shipped,United States
+ORD2128,Maria Lopez,noemail@gmail.com,Laptop,Unknown,103.17,2,2023-12-05,Delivered,United States
+ORD2129,Unknown,example@outlook.com,Monitor,Electronics,461.01,2,2023-02-28,Pending,unknown
+ORD2130,Jane Smith,test@gmail.com,Laptop,Electronics,741.83,1,2026-02-05,delivered,unknown
+,Jane Smith,example@outlook.com,Phone,Electronics,1170.01,1,2023-07-12,Canceled,unknown
+ORD2132,Jane Smith,noemail@gmail.com,Keyboard,Electronics,353.7,5,2024-01-24,Shipped,unknown
+ORD2133,Maria Lopez,user@yahoo.com,Monitor,Electronics,484.54,3,2025-04-28,Pending,United States
+ORD2134,Carlos Ruiz,test@gmail.com,Monitor,Electronics,188.75,1,2023-09-04,Delivered,Mexico
+ORD2135,Maria Lopez,noemail@gmail.com,Monitor,Unknown,967.88,3,,Delivered,United States
+ORD2136,Carlos Ruiz,user@yahoo.com,Phone,Electronics,823.85,5,2023-07-24,Canceled,United States
+ORD2137,Unknown,example@outlook.com,Tablet,Unknown,808.02,5,2025-05-30,Canceled,United States
+ORD2138,John Doe,noemail@gmail.com,Phone,Unknown,474.53,4,2023-08-03,Delivered,United States
+ORD2139,Carlos Ruiz,user@yahoo.com,Tablet,Unknown,833.52,1,2024-04-09,delivered,unknown
+ORD2140,Maria Lopez,example@outlook.com,Keyboard,Electronics,1212.01,5,2025-09-30,Delivered,United States
+ORD2141,Jane Smith,user@yahoo.com,Laptop,Electronics,378.33,3,2023-09-01,Shipped,United States
+ORD2142,Jane Smith,user@yahoo.com,Monitor,Electronics,1449.43,4,2024-12-25,Shipped,unknown
+ORD2143,Maria Lopez,test@gmail.com,Laptop,Unknown,764.425,3,2024-08-04,Delivered,unknown
+ORD2144,Jane Smith,example@outlook.com,Phone,Electronics,539.37,3,2026-02-09,Shipped,United States
+ORD2145,John Doe,example@outlook.com,Monitor,Electronics,764.425,5,2025-02-05,Shipped,United States
+ORD2146,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,546.77,1,2025-08-12,delivered,United States
+ORD2147,Maria Lopez,noemail@gmail.com,Monitor,Electronics,204.43,3,2023-12-12,Delivered,United States
+ORD2148,Maria Lopez,example@outlook.com,Phone,Unknown,1077.09,1,2024-01-22,Pending,Mexico
+ORD2149,Jane Smith,noemail@gmail.com,Phone,Electronics,1480.94,3,2023-12-20,Canceled,Mexico
+ORD2150,Jane Smith,user@yahoo.com,Keyboard,Unknown,1387.35,1,2024-06-09,Delivered,United States
+ORD2151,John Doe,test@gmail.com,Phone,Electronics,338.71,2,2025-03-14,Pending,Mexico
+ORD2152,Jane Smith,test@gmail.com,Laptop,Electronics,1092.58,3,2024-06-01,Shipped,United States
+ORD2153,Jane Smith,noemail@gmail.com,Monitor,Unknown,391.39,3,2025-05-20,Pending,unknown
+ORD2154,Jane Smith,test@gmail.com,Phone,Electronics,1457.15,4,2024-12-10,delivered,United States
+ORD2155,Unknown,noemail@gmail.com,Tablet,Electronics,525.94,5,2025-07-18,Shipped,Mexico
+ORD2156,Maria Lopez,example@outlook.com,Laptop,Electronics,927.71,4,2024-04-03,Canceled,unknown
+ORD2157,John Doe,noemail@gmail.com,Keyboard,Unknown,985.14,5,2023-04-16,Canceled,Mexico
+ORD2158,Unknown,user@yahoo.com,Monitor,Electronics,1143.83,4,2025-04-05,delivered,United States
+ORD2159,Carlos Ruiz,example@outlook.com,Monitor,Electronics,285.1,5,2024-12-28,Canceled,United States
+ORD2160,Jane Smith,test@gmail.com,Tablet,Electronics,1292.69,1,2024-01-16,Canceled,United States
+ORD2161,John Doe,user@yahoo.com,Keyboard,Electronics,230.87,5,2024-01-12,Shipped,Mexico
+ORD2162,Unknown,example@outlook.com,Keyboard,Electronics,537.61,4,2023-03-20,Canceled,United States
+ORD2163,Jane Smith,user@yahoo.com,Tablet,Electronics,902.27,2,2025-09-17,Delivered,United States
+ORD2164,Jane Smith,user@yahoo.com,Monitor,Electronics,500.71,1,2024-12-08,Delivered,United States
+ORD2165,Carlos Ruiz,example@outlook.com,Monitor,Electronics,856.21,1,2023-11-10,delivered,Mexico
+ORD2166,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,545.66,3,2024-11-25,Delivered,United States
+ORD2167,Maria Lopez,example@outlook.com,Keyboard,Unknown,1429.0,2,2024-09-05,Shipped,United States
+ORD2168,Jane Smith,test@gmail.com,Laptop,Electronics,1421.07,2,,Delivered,United States
+ORD2169,John Doe,noemail@gmail.com,Tablet,Unknown,281.4,3,2024-12-22,Canceled,United States
+ORD2170,Maria Lopez,test@gmail.com,Monitor,Electronics,1047.11,5,2025-08-28,delivered,unknown
+ORD2171,John Doe,test@gmail.com,Keyboard,Electronics,306.02,2,2024-10-07,Delivered,unknown
+ORD2172,Jane Smith,user@yahoo.com,Keyboard,Electronics,1275.35,5,2023-04-27,Shipped,unknown
+ORD2173,Jane Smith,user@yahoo.com,Keyboard,Electronics,1385.35,1,2025-04-29,Shipped,United States
+ORD2174,Carlos Ruiz,example@outlook.com,Monitor,Electronics,908.27,1,2024-11-25,delivered,United States
+ORD2175,Maria Lopez,user@yahoo.com,Monitor,Electronics,802.18,5,2026-02-22,Canceled,United States
+ORD2176,Jane Smith,test@gmail.com,Laptop,Electronics,954.96,3,2023-12-09,Shipped,Mexico
+,Jane Smith,user@yahoo.com,Phone,Unknown,1123.8,4,2023-07-25,Shipped,United States
+ORD2178,Unknown,example@outlook.com,Phone,Electronics,1195.05,1,2024-01-07,Delivered,United States
+ORD2179,Maria Lopez,user@yahoo.com,Tablet,Unknown,764.425,4,2025-02-02,Pending,United States
+ORD2180,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,1230.77,4,2024-01-19,Canceled,United States
+ORD2181,Unknown,noemail@gmail.com,Laptop,Electronics,870.36,2,2024-07-01,Delivered,United States
+ORD2182,Jane Smith,noemail@gmail.com,Monitor,Electronics,1367.94,5,2025-04-21,Canceled,Mexico
+ORD2183,Maria Lopez,noemail@gmail.com,Laptop,Unknown,639.07,5,2023-12-06,delivered,United States
+ORD2184,Jane Smith,example@outlook.com,Phone,Electronics,433.82,5,2026-02-21,Pending,unknown
+ORD2185,Carlos Ruiz,example@outlook.com,Keyboard,Unknown,1143.56,2,2025-05-06,Canceled,United States
+ORD2186,Jane Smith,example@outlook.com,Tablet,Unknown,1397.61,5,2024-11-19,Canceled,United States
+ORD2187,Unknown,example@outlook.com,Laptop,Electronics,1141.12,2,2025-08-31,Pending,United States
+ORD2188,John Doe,example@outlook.com,Tablet,Unknown,367.0,1,2025-07-03,Shipped,United States
+ORD2189,Maria Lopez,noemail@gmail.com,Phone,Unknown,271.53,5,2023-11-10,Shipped,United States
+ORD2190,Carlos Ruiz,test@gmail.com,Laptop,Electronics,596.64,1,2023-09-09,delivered,United States
+ORD2191,Jane Smith,example@outlook.com,Monitor,Electronics,765.26,5,2023-09-20,Canceled,United States
+ORD2192,Unknown,test@gmail.com,Tablet,Electronics,1112.29,5,2024-12-02,delivered,unknown
+ORD2193,Unknown,example@outlook.com,Tablet,Electronics,241.53,2,2023-12-29,Shipped,unknown
+ORD2194,Jane Smith,user@yahoo.com,Laptop,Electronics,1021.45,1,2025-02-09,Pending,Mexico
+ORD2195,Carlos Ruiz,test@gmail.com,Monitor,Electronics,1395.82,1,2026-01-27,Shipped,United States
+ORD2196,Carlos Ruiz,test@gmail.com,Laptop,Electronics,144.02,5,2025-10-23,Pending,United States
+ORD2197,Unknown,user@yahoo.com,Keyboard,Electronics,671.18,4,2024-07-29,Shipped,United States
+ORD2198,Unknown,test@gmail.com,Keyboard,Electronics,741.33,4,2025-02-11,Delivered,United States
+ORD2199,Unknown,test@gmail.com,Keyboard,Unknown,125.56,4,2025-11-19,Shipped,Mexico
+ORD2200,Carlos Ruiz,test@gmail.com,Monitor,Electronics,612.11,5,2024-06-04,Pending,United States
+ORD2201,John Doe,example@outlook.com,Keyboard,Electronics,286.38,1,2023-04-16,delivered,Mexico
+ORD2202,Jane Smith,user@yahoo.com,Laptop,Unknown,290.24,2,2024-07-31,Delivered,Mexico
+ORD2203,John Doe,user@yahoo.com,Laptop,Electronics,945.77,2,2024-02-07,delivered,United States
+ORD2204,Maria Lopez,user@yahoo.com,Phone,Electronics,764.425,4,2023-03-07,Shipped,Mexico
+ORD2205,John Doe,noemail@gmail.com,Phone,Electronics,102.84,1,2024-01-20,Pending,unknown
+ORD2206,Maria Lopez,example@outlook.com,Phone,Electronics,65.05,2,2024-05-12,Canceled,Mexico
+ORD2207,Maria Lopez,user@yahoo.com,Phone,Electronics,257.72,2,2024-06-29,Shipped,unknown
+ORD2208,Unknown,example@outlook.com,Tablet,Electronics,1302.78,5,2024-04-20,Pending,unknown
+ORD2209,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,65.11,4,2023-06-12,Pending,United States
+ORD2210,Maria Lopez,test@gmail.com,Phone,Unknown,1467.19,1,2025-10-08,delivered,United States
+ORD2211,Unknown,test@gmail.com,Laptop,Electronics,1093.56,5,2025-09-06,Pending,unknown
+ORD2212,Maria Lopez,noemail@gmail.com,Phone,Unknown,1216.37,3,2023-01-03,Canceled,unknown
+ORD2213,Maria Lopez,example@outlook.com,Keyboard,Unknown,1042.45,1,2024-04-02,Pending,United States
+ORD2214,Carlos Ruiz,test@gmail.com,Phone,Unknown,652.74,1,2023-06-18,Canceled,Mexico
+ORD2215,Unknown,test@gmail.com,Monitor,Electronics,728.36,1,2023-05-14,Shipped,United States
+ORD2216,Unknown,example@outlook.com,Phone,Electronics,240.14,1,2023-09-18,Canceled,Mexico
+ORD2217,John Doe,user@yahoo.com,Phone,Unknown,877.29,1,2024-04-19,Delivered,United States
+ORD2218,Unknown,test@gmail.com,Keyboard,Electronics,1153.36,1,2023-04-30,Delivered,United States
+ORD2219,John Doe,user@yahoo.com,Monitor,Electronics,878.08,1,2025-04-13,Canceled,Mexico
+ORD2220,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,1150.61,3,2025-02-16,Canceled,Mexico
+ORD2221,Unknown,noemail@gmail.com,Tablet,Electronics,583.93,4,2023-09-16,Shipped,unknown
+ORD2222,Unknown,example@outlook.com,Laptop,Electronics,1231.92,5,2025-12-21,Canceled,United States
+ORD2223,John Doe,user@yahoo.com,Keyboard,Electronics,64.98,3,2023-12-20,Shipped,United States
+ORD2224,Carlos Ruiz,test@gmail.com,Laptop,Electronics,439.9,1,2023-04-02,Shipped,United States
+ORD2225,Unknown,test@gmail.com,Monitor,Electronics,247.06,2,2025-10-23,delivered,unknown
+ORD2226,Jane Smith,test@gmail.com,Monitor,Electronics,1008.44,4,2024-08-05,Pending,Mexico
+ORD2227,John Doe,noemail@gmail.com,Monitor,Electronics,1237.99,2,2025-02-27,Shipped,unknown
+ORD2228,Unknown,noemail@gmail.com,Keyboard,Electronics,980.75,4,2025-07-16,Delivered,United States
+ORD2229,John Doe,noemail@gmail.com,Laptop,Unknown,249.22,5,2023-05-26,Canceled,unknown
+ORD2230,Jane Smith,user@yahoo.com,Laptop,Electronics,226.17,1,2025-03-27,Shipped,United States
+ORD2231,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1419.57,1,2025-01-07,Delivered,United States
+ORD2232,Maria Lopez,test@gmail.com,Phone,Electronics,690.28,2,2023-09-04,Canceled,Mexico
+ORD2233,Carlos Ruiz,example@outlook.com,Tablet,Electronics,912.4,1,2024-10-11,Pending,unknown
+ORD2234,Carlos Ruiz,test@gmail.com,Tablet,Electronics,515.96,1,2024-05-25,Shipped,United States
+ORD2235,Unknown,noemail@gmail.com,Tablet,Unknown,930.52,5,2025-08-17,delivered,unknown
+ORD2236,Unknown,test@gmail.com,Laptop,Electronics,764.425,3,2025-02-15,delivered,United States
+ORD2237,Unknown,test@gmail.com,Keyboard,Unknown,119.75,1,2024-04-09,Delivered,unknown
+ORD2238,Carlos Ruiz,example@outlook.com,Monitor,Electronics,431.99,1,2024-12-21,Pending,United States
+ORD2239,John Doe,example@outlook.com,Tablet,Unknown,1446.65,2,2025-08-21,Canceled,Mexico
+ORD2240,Maria Lopez,noemail@gmail.com,Phone,Unknown,904.28,5,2024-05-10,Canceled,United States
+ORD2241,Jane Smith,example@outlook.com,Keyboard,Electronics,419.03,3,2025-05-09,Shipped,United States
+ORD2242,Jane Smith,test@gmail.com,Laptop,Electronics,617.18,5,2024-05-15,Delivered,Mexico
+ORD2243,Jane Smith,example@outlook.com,Keyboard,Electronics,733.62,2,2024-09-16,delivered,Mexico
+ORD2244,Maria Lopez,user@yahoo.com,Tablet,Electronics,1288.14,1,2024-10-31,Delivered,United States
+ORD2245,Unknown,noemail@gmail.com,Tablet,Unknown,979.76,2,2025-05-17,Delivered,unknown
+,Jane Smith,user@yahoo.com,Laptop,Unknown,1027.21,2,2025-01-07,delivered,United States
+ORD2247,John Doe,user@yahoo.com,Phone,Electronics,1128.76,1,2023-04-20,Pending,United States
+ORD2248,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,121.85,4,2024-09-14,Delivered,unknown
+ORD2249,Maria Lopez,test@gmail.com,Keyboard,Electronics,863.71,2,2024-12-05,Delivered,unknown
+ORD2250,John Doe,user@yahoo.com,Tablet,Unknown,244.75,1,2023-12-21,Pending,unknown
+ORD2251,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1404.35,4,2025-09-24,delivered,United States
+ORD2252,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,1253.9,3,2025-12-01,Canceled,United States
+ORD2253,Maria Lopez,example@outlook.com,Keyboard,Electronics,221.98,4,2023-04-22,Shipped,unknown
+ORD2254,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,80.6,2,2023-03-13,Pending,United States
+ORD2255,Jane Smith,test@gmail.com,Keyboard,Electronics,1062.03,2,2024-04-04,Delivered,Mexico
+,John Doe,user@yahoo.com,Tablet,Electronics,1362.23,4,2025-04-09,Shipped,United States
+ORD2257,Carlos Ruiz,test@gmail.com,Monitor,Unknown,1234.58,1,2023-11-21,Shipped,United States
+ORD2258,Unknown,noemail@gmail.com,Keyboard,Electronics,1002.59,3,2023-08-26,Shipped,United States
+ORD2259,Jane Smith,noemail@gmail.com,Phone,Electronics,524.51,1,2024-03-23,delivered,unknown
+ORD2260,Carlos Ruiz,user@yahoo.com,Phone,Electronics,889.36,4,2025-10-30,Pending,United States
+ORD2261,Jane Smith,example@outlook.com,Phone,Electronics,1145.43,2,2025-02-21,Canceled,United States
+ORD2262,Maria Lopez,noemail@gmail.com,Monitor,Electronics,496.06,4,2026-02-23,Delivered,Mexico
+ORD2263,Maria Lopez,test@gmail.com,Phone,Electronics,1241.66,1,2023-01-19,Canceled,unknown
+ORD2264,Maria Lopez,noemail@gmail.com,Monitor,Unknown,204.84,1,2024-10-08,Delivered,United States
+ORD2265,Carlos Ruiz,example@outlook.com,Phone,Electronics,203.04,4,2023-11-16,Pending,United States
+ORD2266,Carlos Ruiz,test@gmail.com,Tablet,Electronics,174.93,1,2025-04-17,Shipped,United States
+ORD2267,Jane Smith,user@yahoo.com,Keyboard,Electronics,204.41,2,2024-11-16,Pending,unknown
+ORD2268,Carlos Ruiz,user@yahoo.com,Phone,Electronics,419.14,5,2024-12-05,Shipped,United States
+ORD2269,Jane Smith,test@gmail.com,Laptop,Electronics,219.91,3,2024-06-10,Delivered,unknown
+ORD2270,Unknown,user@yahoo.com,Laptop,Unknown,679.59,2,2024-01-10,Delivered,Mexico
+ORD2271,Jane Smith,noemail@gmail.com,Laptop,Electronics,978.39,3,2025-05-18,Pending,United States
+ORD2272,Jane Smith,example@outlook.com,Laptop,Electronics,764.425,2,2024-05-06,Pending,United States
+ORD2273,Unknown,test@gmail.com,Phone,Electronics,971.55,5,2024-10-17,delivered,Mexico
+ORD2274,Unknown,noemail@gmail.com,Tablet,Unknown,404.36,5,2023-01-30,Canceled,United States
+ORD2275,Unknown,noemail@gmail.com,Keyboard,Electronics,171.59,1,2026-01-12,delivered,United States
+ORD2276,Maria Lopez,test@gmail.com,Keyboard,Electronics,1283.58,2,2025-04-20,Pending,unknown
+ORD2277,John Doe,example@outlook.com,Laptop,Unknown,1378.27,3,2025-12-29,Delivered,Mexico
+ORD2278,Maria Lopez,user@yahoo.com,Laptop,Unknown,264.22,2,2024-09-09,Delivered,unknown
+ORD2279,Maria Lopez,example@outlook.com,Tablet,Electronics,1346.46,3,2024-04-24,Canceled,United States
+ORD2280,Maria Lopez,user@yahoo.com,Phone,Unknown,764.425,5,2023-02-05,Canceled,unknown
+ORD2281,Unknown,example@outlook.com,Laptop,Electronics,638.95,2,2024-05-03,Delivered,unknown
+ORD2282,Unknown,noemail@gmail.com,Tablet,Electronics,814.02,4,2026-01-18,Delivered,Mexico
+ORD2283,Maria Lopez,example@outlook.com,Monitor,Electronics,818.46,1,2025-05-30,Delivered,United States
+ORD2284,Unknown,user@yahoo.com,Monitor,Electronics,546.92,2,2023-08-31,delivered,United States
+ORD2285,Maria Lopez,noemail@gmail.com,Phone,Electronics,1416.72,1,2025-12-22,Canceled,United States
+ORD2286,John Doe,user@yahoo.com,Tablet,Unknown,1214.88,1,2026-02-08,Delivered,United States
+ORD2287,Maria Lopez,test@gmail.com,Keyboard,Electronics,531.63,3,2023-10-18,Pending,Mexico
+ORD2288,John Doe,user@yahoo.com,Phone,Electronics,793.51,4,2024-12-02,Canceled,United States
+,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,545.77,2,2025-09-23,Pending,United States
+ORD2290,Unknown,example@outlook.com,Phone,Electronics,764.425,4,2023-06-20,Delivered,United States
+ORD2291,Maria Lopez,user@yahoo.com,Tablet,Electronics,936.23,2,2024-01-13,Shipped,United States
+ORD2292,Jane Smith,test@gmail.com,Laptop,Electronics,1489.22,4,2025-01-23,delivered,United States
+ORD2293,Jane Smith,user@yahoo.com,Tablet,Unknown,333.97,3,2023-08-22,Canceled,United States
+ORD2294,Carlos Ruiz,example@outlook.com,Tablet,Electronics,764.425,5,2024-11-08,Shipped,Mexico
+ORD2295,Carlos Ruiz,example@outlook.com,Laptop,Electronics,135.19,2,2025-06-28,Delivered,United States
+ORD2296,John Doe,test@gmail.com,Keyboard,Electronics,75.22,3,2025-02-15,delivered,United States
+ORD2297,John Doe,user@yahoo.com,Keyboard,Electronics,347.96,4,2026-01-31,delivered,United States
+ORD2298,Jane Smith,user@yahoo.com,Monitor,Electronics,371.08,1,2024-05-23,Delivered,Mexico
+ORD2299,Maria Lopez,test@gmail.com,Tablet,Electronics,499.58,3,2025-04-27,Delivered,Mexico
+ORD2300,John Doe,example@outlook.com,Tablet,Unknown,151.68,2,2023-03-17,Canceled,unknown
+ORD2301,Unknown,noemail@gmail.com,Tablet,Electronics,1390.31,2,2023-12-21,Canceled,United States
+ORD2302,Maria Lopez,example@outlook.com,Tablet,Electronics,711.8,1,2025-04-07,Delivered,Mexico
+ORD2303,Maria Lopez,noemail@gmail.com,Phone,Electronics,1329.81,4,2025-04-29,Shipped,unknown
+ORD2304,Jane Smith,example@outlook.com,Phone,Electronics,1126.19,4,2024-02-29,Pending,United States
+ORD2305,Maria Lopez,example@outlook.com,Phone,Unknown,1250.7,2,2025-11-08,Pending,United States
+ORD2306,Jane Smith,user@yahoo.com,Phone,Electronics,965.71,3,2024-08-25,Delivered,unknown
+ORD2307,John Doe,example@outlook.com,Laptop,Electronics,951.73,3,2025-11-11,Pending,United States
+ORD2308,Maria Lopez,user@yahoo.com,Phone,Unknown,1410.56,3,2025-01-08,Pending,Mexico
+ORD2309,Jane Smith,user@yahoo.com,Tablet,Electronics,1244.0,5,2023-01-01,Pending,United States
+ORD2310,John Doe,noemail@gmail.com,Keyboard,Electronics,1459.19,3,2025-01-08,delivered,unknown
+ORD2311,Jane Smith,test@gmail.com,Monitor,Electronics,1054.4,1,2025-09-07,Canceled,Mexico
+ORD2312,Unknown,user@yahoo.com,Phone,Electronics,926.92,1,,Canceled,United States
+ORD2313,John Doe,user@yahoo.com,Monitor,Electronics,176.18,3,2024-09-20,Pending,United States
+ORD2314,Jane Smith,example@outlook.com,Phone,Electronics,312.55,2,,Shipped,United States
+ORD2315,Maria Lopez,user@yahoo.com,Keyboard,Electronics,991.26,2,2024-11-28,Shipped,unknown
+ORD2316,Maria Lopez,noemail@gmail.com,Laptop,Electronics,1242.0,2,2025-05-10,Delivered,United States
+ORD2317,Unknown,example@outlook.com,Phone,Electronics,882.72,4,2023-07-16,Shipped,United States
+ORD2318,Jane Smith,user@yahoo.com,Tablet,Electronics,1429.91,1,2025-09-27,Shipped,Mexico
+ORD2319,Maria Lopez,test@gmail.com,Keyboard,Electronics,263.38,1,2024-04-28,Shipped,United States
+ORD2320,John Doe,noemail@gmail.com,Phone,Electronics,778.41,2,,Shipped,United States
+ORD2321,John Doe,user@yahoo.com,Tablet,Electronics,739.15,5,2024-04-17,Shipped,Mexico
+ORD2322,Carlos Ruiz,test@gmail.com,Tablet,Electronics,358.21,5,2026-01-06,Delivered,unknown
+ORD2323,Maria Lopez,user@yahoo.com,Laptop,Electronics,1071.49,2,2025-06-26,Canceled,unknown
+ORD2324,Carlos Ruiz,test@gmail.com,Laptop,Electronics,1304.45,1,2024-03-24,delivered,unknown
+ORD2325,Jane Smith,test@gmail.com,Laptop,Unknown,164.69,4,2023-11-22,Shipped,unknown
+ORD2326,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,423.83,2,2025-03-13,Delivered,unknown
+ORD2327,Jane Smith,test@gmail.com,Monitor,Unknown,761.59,3,2023-04-20,Pending,unknown
+ORD2328,Unknown,example@outlook.com,Keyboard,Electronics,1118.71,2,2025-11-27,Delivered,Mexico
+ORD2329,Jane Smith,user@yahoo.com,Laptop,Electronics,114.06,2,2023-09-02,Shipped,United States
+ORD2330,Maria Lopez,example@outlook.com,Tablet,Electronics,1226.21,4,2023-03-03,Delivered,Mexico
+ORD2331,John Doe,test@gmail.com,Tablet,Electronics,1058.52,1,2023-01-23,delivered,United States
+ORD2332,Maria Lopez,example@outlook.com,Laptop,Electronics,420.74,3,2026-02-17,Shipped,United States
+ORD2333,Maria Lopez,noemail@gmail.com,Phone,Electronics,133.85,4,2024-01-06,Shipped,United States
+ORD2334,Unknown,noemail@gmail.com,Tablet,Electronics,303.55,5,2023-04-02,delivered,United States
+ORD2335,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1230.78,5,2023-05-26,delivered,United States
+ORD2336,John Doe,test@gmail.com,Keyboard,Electronics,1455.1,5,2025-08-27,Delivered,United States
+ORD2337,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,1200.28,1,2026-02-03,Canceled,Mexico
+ORD2338,Carlos Ruiz,test@gmail.com,Tablet,Electronics,492.3,2,2025-10-05,Shipped,United States
+ORD2339,Maria Lopez,test@gmail.com,Laptop,Electronics,764.425,1,2026-02-09,delivered,Mexico
+ORD2340,Maria Lopez,example@outlook.com,Phone,Unknown,224.12,5,2024-03-16,Canceled,United States
+ORD2341,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,1226.03,4,2025-04-16,Shipped,United States
+ORD2342,Maria Lopez,noemail@gmail.com,Tablet,Electronics,1397.61,4,2025-08-15,Canceled,United States
+ORD2343,Jane Smith,example@outlook.com,Keyboard,Electronics,487.65,2,2025-04-17,Canceled,unknown
+ORD2344,Jane Smith,test@gmail.com,Tablet,Electronics,486.83,4,2025-04-17,Shipped,United States
+ORD2345,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,939.09,3,2025-04-11,delivered,Mexico
+ORD2346,John Doe,noemail@gmail.com,Phone,Electronics,1321.39,4,2024-08-31,Shipped,United States
+ORD2347,John Doe,example@outlook.com,Laptop,Electronics,1348.29,1,2024-09-24,Pending,United States
+ORD2348,Carlos Ruiz,test@gmail.com,Monitor,Electronics,574.32,3,2025-11-08,Delivered,unknown
+ORD2349,John Doe,example@outlook.com,Phone,Electronics,871.0,5,2023-07-27,Canceled,United States
+ORD2350,Unknown,user@yahoo.com,Tablet,Electronics,1431.5,4,2024-10-17,Canceled,United States
+ORD2351,John Doe,example@outlook.com,Laptop,Unknown,662.55,2,2025-05-10,Shipped,United States
+ORD2352,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,533.52,2,2025-05-20,delivered,United States
+ORD2353,Jane Smith,noemail@gmail.com,Monitor,Electronics,1238.72,2,,Pending,United States
+ORD2354,John Doe,noemail@gmail.com,Monitor,Electronics,1494.18,5,2025-12-31,Canceled,United States
+ORD2355,Maria Lopez,user@yahoo.com,Keyboard,Unknown,419.38,4,2025-04-07,Pending,United States
+ORD2356,John Doe,example@outlook.com,Tablet,Unknown,1109.32,4,2025-06-20,Pending,United States
+ORD2357,Jane Smith,test@gmail.com,Laptop,Unknown,610.88,5,2024-10-06,Pending,United States
+ORD2358,Jane Smith,example@outlook.com,Tablet,Electronics,1353.74,1,2025-04-18,delivered,Mexico
+ORD2359,Unknown,user@yahoo.com,Laptop,Electronics,683.34,3,2025-09-20,delivered,Mexico
+ORD2360,Carlos Ruiz,test@gmail.com,Tablet,Electronics,242.32,3,2025-12-10,Canceled,United States
+ORD2361,Jane Smith,user@yahoo.com,Phone,Electronics,450.64,2,2023-10-20,Pending,United States
+ORD2362,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,218.05,4,2023-03-05,Pending,United States
+ORD2363,John Doe,test@gmail.com,Laptop,Unknown,1406.91,3,2023-11-16,Canceled,United States
+ORD2364,Maria Lopez,user@yahoo.com,Tablet,Unknown,1373.74,5,,Canceled,unknown
+ORD2365,Jane Smith,user@yahoo.com,Monitor,Electronics,382.11,3,2025-12-28,Canceled,unknown
+ORD2366,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,672.87,2,2025-01-16,Pending,United States
+ORD2367,Maria Lopez,example@outlook.com,Monitor,Electronics,1085.29,4,2024-03-03,Canceled,Mexico
+ORD2368,Carlos Ruiz,user@yahoo.com,Phone,Electronics,1103.87,1,2024-06-02,Shipped,United States
+ORD2369,John Doe,noemail@gmail.com,Phone,Electronics,757.53,2,2023-04-05,delivered,Mexico
+ORD2370,Maria Lopez,example@outlook.com,Phone,Electronics,259.48,1,2024-02-27,Canceled,United States
+ORD2371,Jane Smith,user@yahoo.com,Laptop,Unknown,505.17,2,2024-11-18,Shipped,United States
+ORD2372,Jane Smith,test@gmail.com,Phone,Electronics,505.78,4,2025-04-29,Shipped,United States
+ORD2373,Carlos Ruiz,example@outlook.com,Phone,Electronics,1038.82,2,2024-09-08,delivered,United States
+ORD2374,Unknown,example@outlook.com,Keyboard,Unknown,715.08,2,2024-09-10,Shipped,unknown
+ORD2375,Jane Smith,noemail@gmail.com,Keyboard,Unknown,1400.21,5,2024-07-19,Delivered,United States
+ORD2376,Jane Smith,noemail@gmail.com,Tablet,Electronics,1365.22,1,2023-12-12,Shipped,United States
+ORD2377,John Doe,test@gmail.com,Keyboard,Unknown,819.92,2,2023-03-02,Shipped,United States
+ORD2378,John Doe,noemail@gmail.com,Tablet,Electronics,1017.09,1,2025-04-13,Canceled,United States
+ORD2379,Maria Lopez,test@gmail.com,Tablet,Electronics,1248.29,2,2025-07-22,Canceled,Mexico
+ORD2380,John Doe,noemail@gmail.com,Phone,Electronics,1262.63,5,2024-10-10,delivered,United States
+ORD2381,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,292.15,3,2025-02-22,Shipped,United States
+ORD2382,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,309.31,1,2023-07-04,Delivered,United States
+ORD2383,Maria Lopez,noemail@gmail.com,Phone,Electronics,1493.29,3,2025-02-10,Delivered,Mexico
+ORD2384,Unknown,test@gmail.com,Phone,Electronics,312.43,2,2023-02-26,delivered,United States
+ORD2385,Jane Smith,test@gmail.com,Phone,Electronics,856.79,2,2026-02-03,Delivered,United States
+ORD2386,Unknown,noemail@gmail.com,Tablet,Electronics,72.97,1,2026-01-11,Canceled,United States
+ORD2387,Maria Lopez,noemail@gmail.com,Monitor,Unknown,1460.54,1,2025-06-17,Shipped,United States
+ORD2388,Unknown,test@gmail.com,Phone,Electronics,594.19,2,2024-09-22,delivered,Mexico
+ORD2389,John Doe,example@outlook.com,Tablet,Unknown,592.73,4,2023-07-11,Pending,Mexico
+ORD2390,Unknown,noemail@gmail.com,Laptop,Unknown,298.63,4,2025-05-31,delivered,United States
+ORD2391,Carlos Ruiz,noemail@gmail.com,Keyboard,Unknown,764.425,5,2025-07-04,Canceled,United States
+ORD2392,Jane Smith,user@yahoo.com,Keyboard,Electronics,358.06,2,2024-05-23,Shipped,United States
+ORD2393,John Doe,example@outlook.com,Keyboard,Electronics,175.26,4,2023-04-05,delivered,United States
+ORD2394,Jane Smith,example@outlook.com,Laptop,Unknown,764.425,5,2024-04-30,delivered,Mexico
+ORD2395,John Doe,noemail@gmail.com,Tablet,Unknown,979.17,3,,Delivered,United States
+ORD2396,John Doe,example@outlook.com,Laptop,Unknown,275.81,4,2025-01-10,Pending,United States
+ORD2397,Jane Smith,test@gmail.com,Laptop,Electronics,1363.91,3,2024-10-19,Canceled,United States
+,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,1367.38,4,2025-10-12,Delivered,United States
+ORD2399,Maria Lopez,example@outlook.com,Phone,Electronics,565.88,1,2024-12-14,Shipped,United States
+ORD2400,Unknown,example@outlook.com,Keyboard,Electronics,687.8,1,2024-03-23,delivered,unknown
+ORD2401,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,793.94,1,2023-11-05,Pending,Mexico
+ORD2402,Carlos Ruiz,test@gmail.com,Monitor,Electronics,318.59,5,2023-08-22,Delivered,United States
+,Unknown,user@yahoo.com,Laptop,Unknown,887.95,3,2023-02-25,Canceled,United States
+ORD2404,Unknown,noemail@gmail.com,Phone,Electronics,1302.18,1,2023-02-07,Delivered,United States
+ORD2405,John Doe,noemail@gmail.com,Laptop,Unknown,1343.87,2,2025-01-04,Canceled,Mexico
+ORD2406,Maria Lopez,test@gmail.com,Keyboard,Electronics,298.93,4,2024-06-21,Shipped,United States
+ORD2407,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,862.57,1,2025-06-24,Delivered,United States
+ORD2408,John Doe,noemail@gmail.com,Keyboard,Electronics,542.49,5,2023-06-24,Shipped,United States
+ORD2409,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,1431.3,4,2023-05-21,Delivered,United States
+ORD2410,John Doe,test@gmail.com,Monitor,Unknown,1386.67,4,2023-04-18,Shipped,unknown
+ORD2411,John Doe,test@gmail.com,Monitor,Electronics,136.83,4,,delivered,United States
+ORD2412,John Doe,example@outlook.com,Phone,Electronics,1492.5,5,2023-06-10,Canceled,United States
+ORD2413,Carlos Ruiz,example@outlook.com,Tablet,Electronics,131.5,5,2024-10-05,Canceled,unknown
+ORD2414,Jane Smith,test@gmail.com,Tablet,Electronics,1266.32,2,2024-03-28,Pending,United States
+ORD2415,Jane Smith,noemail@gmail.com,Monitor,Unknown,662.41,4,2025-02-04,Delivered,United States
+ORD2416,John Doe,example@outlook.com,Laptop,Electronics,1107.64,2,2024-03-11,Delivered,United States
+ORD2417,Unknown,noemail@gmail.com,Monitor,Unknown,505.82,4,2024-08-21,Canceled,United States
+ORD2418,Maria Lopez,test@gmail.com,Phone,Electronics,171.17,1,2025-12-13,Pending,United States
+ORD2419,Maria Lopez,test@gmail.com,Keyboard,Electronics,663.12,2,2024-09-28,Delivered,Mexico
+ORD2420,Unknown,test@gmail.com,Laptop,Unknown,1273.28,4,2023-07-01,delivered,United States
+ORD2421,Carlos Ruiz,test@gmail.com,Monitor,Electronics,604.95,4,2026-01-21,Shipped,United States
+ORD2422,Carlos Ruiz,test@gmail.com,Phone,Electronics,974.95,4,2025-03-10,Canceled,Mexico
+ORD2423,Maria Lopez,test@gmail.com,Phone,Electronics,1261.32,4,2024-05-08,delivered,unknown
+ORD2424,Jane Smith,user@yahoo.com,Keyboard,Electronics,403.78,4,2024-02-19,Shipped,United States
+ORD2425,John Doe,user@yahoo.com,Monitor,Electronics,389.04,5,2024-06-25,Delivered,unknown
+ORD2426,Carlos Ruiz,example@outlook.com,Tablet,Unknown,758.97,1,2023-02-01,delivered,United States
+ORD2427,John Doe,noemail@gmail.com,Phone,Electronics,557.51,1,2023-11-14,Pending,United States
+ORD2428,Jane Smith,noemail@gmail.com,Laptop,Electronics,508.58,3,2023-06-18,Pending,United States
+ORD2429,Unknown,user@yahoo.com,Phone,Electronics,1221.55,4,2024-02-06,Shipped,unknown
+ORD2430,Jane Smith,test@gmail.com,Phone,Electronics,764.425,3,2023-06-09,Shipped,Mexico
+ORD2431,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1299.69,3,2023-02-06,Delivered,Mexico
+ORD2432,Maria Lopez,test@gmail.com,Laptop,Unknown,659.82,1,2023-04-21,Shipped,Mexico
+ORD2433,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,1380.36,2,2023-02-20,delivered,United States
+ORD2434,Maria Lopez,test@gmail.com,Laptop,Electronics,261.99,2,2023-04-17,Shipped,unknown
+ORD2435,Maria Lopez,example@outlook.com,Monitor,Electronics,930.67,2,2023-08-07,delivered,unknown
+ORD2436,John Doe,test@gmail.com,Tablet,Electronics,1362.32,2,2023-05-19,Delivered,United States
+ORD2437,John Doe,noemail@gmail.com,Keyboard,Unknown,220.34,5,2025-02-09,Pending,United States
+ORD2438,John Doe,example@outlook.com,Keyboard,Electronics,1031.06,2,2025-07-30,Delivered,unknown
+ORD2439,Carlos Ruiz,test@gmail.com,Monitor,Unknown,702.88,3,2023-01-28,Shipped,Mexico
+ORD2440,Jane Smith,test@gmail.com,Keyboard,Electronics,225.21,3,2025-03-24,delivered,United States
+ORD2441,Unknown,test@gmail.com,Keyboard,Electronics,85.54,3,2025-09-12,Shipped,unknown
+ORD2442,Maria Lopez,example@outlook.com,Phone,Electronics,581.26,5,2024-08-07,Delivered,Mexico
+ORD2443,Unknown,user@yahoo.com,Tablet,Electronics,61.58,5,2024-03-13,Canceled,Mexico
+ORD2444,Jane Smith,user@yahoo.com,Tablet,Electronics,458.42,2,2024-12-20,Canceled,Mexico
+ORD2445,Unknown,noemail@gmail.com,Laptop,Electronics,1354.43,5,2024-11-11,delivered,Mexico
+ORD2446,Carlos Ruiz,test@gmail.com,Laptop,Electronics,1499.79,2,2025-01-06,Canceled,United States
+ORD2447,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,165.32,3,2025-07-03,Pending,United States
+ORD2448,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,742.94,2,2023-09-02,Shipped,United States
+ORD2449,Unknown,noemail@gmail.com,Tablet,Unknown,1200.92,3,2023-04-18,Canceled,Mexico
+ORD2450,Jane Smith,test@gmail.com,Keyboard,Electronics,1205.58,4,2025-07-05,delivered,unknown
+ORD2451,Unknown,example@outlook.com,Phone,Electronics,1431.97,1,2023-12-07,Delivered,United States
+ORD2452,Carlos Ruiz,test@gmail.com,Laptop,Electronics,564.19,3,2025-12-30,Canceled,United States
+ORD2453,Carlos Ruiz,test@gmail.com,Monitor,Unknown,372.13,4,2024-10-01,Pending,United States
+ORD2454,Maria Lopez,example@outlook.com,Tablet,Electronics,1074.21,4,,delivered,unknown
+ORD2455,Carlos Ruiz,test@gmail.com,Tablet,Unknown,454.46,1,2023-02-20,Canceled,United States
+ORD2456,Carlos Ruiz,example@outlook.com,Phone,Electronics,947.37,3,2025-12-15,Shipped,United States
+ORD2457,Maria Lopez,test@gmail.com,Monitor,Electronics,549.29,4,2025-03-17,Canceled,unknown
+ORD2458,Jane Smith,example@outlook.com,Laptop,Unknown,92.37,3,2023-06-26,Pending,Mexico
+ORD2459,Maria Lopez,test@gmail.com,Phone,Electronics,151.95,1,,Shipped,United States
+ORD2460,John Doe,test@gmail.com,Keyboard,Unknown,227.04,3,2023-04-30,Delivered,United States
+ORD2461,John Doe,user@yahoo.com,Monitor,Electronics,852.39,1,2023-05-28,Pending,United States
+ORD2462,Carlos Ruiz,example@outlook.com,Monitor,Electronics,1392.64,1,2023-01-19,Shipped,Mexico
+ORD2463,Unknown,test@gmail.com,Tablet,Electronics,1042.59,5,2024-03-22,Delivered,United States
+ORD2464,Jane Smith,user@yahoo.com,Tablet,Electronics,764.425,1,2026-02-21,Shipped,Mexico
+ORD2465,Jane Smith,example@outlook.com,Laptop,Unknown,764.425,5,2023-09-12,Canceled,unknown
+ORD2466,John Doe,example@outlook.com,Keyboard,Unknown,616.97,4,2024-03-22,Delivered,United States
+ORD2467,John Doe,example@outlook.com,Keyboard,Electronics,901.27,2,,Shipped,United States
+ORD2468,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1213.12,4,2025-03-23,delivered,United States
+ORD2469,John Doe,example@outlook.com,Phone,Electronics,821.61,4,2023-04-07,Pending,United States
+ORD2470,John Doe,user@yahoo.com,Laptop,Unknown,590.93,5,2024-12-07,delivered,unknown
+ORD2471,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,274.68,5,2024-04-07,Shipped,United States
+ORD2472,John Doe,user@yahoo.com,Phone,Electronics,836.5,5,2023-03-12,delivered,United States
+ORD2473,Unknown,user@yahoo.com,Laptop,Unknown,221.21,3,2023-04-28,Delivered,United States
+ORD2474,Unknown,noemail@gmail.com,Monitor,Electronics,704.37,2,2023-11-29,Delivered,United States
+ORD2475,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,100.33,2,2023-01-19,delivered,Mexico
+ORD2476,Jane Smith,noemail@gmail.com,Monitor,Electronics,905.77,3,2024-03-10,delivered,unknown
+ORD2477,Maria Lopez,example@outlook.com,Keyboard,Unknown,1347.17,4,2025-05-03,Canceled,United States
+ORD2478,Maria Lopez,test@gmail.com,Tablet,Electronics,959.53,4,2025-08-21,Canceled,unknown
+ORD2479,Jane Smith,example@outlook.com,Keyboard,Electronics,1248.19,5,2023-05-13,Delivered,Mexico
+ORD2480,Unknown,example@outlook.com,Phone,Electronics,555.51,3,2024-08-04,Canceled,United States
+ORD2481,John Doe,example@outlook.com,Phone,Electronics,784.13,5,2023-10-28,delivered,United States
+ORD2482,John Doe,user@yahoo.com,Monitor,Electronics,1355.17,2,2023-09-12,Canceled,United States
+ORD2483,Jane Smith,test@gmail.com,Tablet,Electronics,1008.62,4,2023-03-04,Canceled,Mexico
+ORD2484,John Doe,example@outlook.com,Monitor,Unknown,1247.05,5,2025-11-13,delivered,Mexico
+ORD2485,Unknown,example@outlook.com,Tablet,Electronics,1024.67,1,2025-04-09,Pending,United States
+ORD2486,Unknown,example@outlook.com,Tablet,Electronics,625.03,3,2023-04-24,delivered,United States
+ORD2487,John Doe,noemail@gmail.com,Tablet,Electronics,1459.59,1,2023-05-17,Canceled,United States
+ORD2488,Jane Smith,user@yahoo.com,Phone,Electronics,386.97,1,2026-01-14,delivered,unknown
+ORD2489,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1448.78,4,2023-02-15,Canceled,Mexico
+ORD2490,Maria Lopez,example@outlook.com,Monitor,Electronics,1331.63,1,2024-02-12,delivered,United States
+ORD2491,Jane Smith,user@yahoo.com,Keyboard,Electronics,831.42,2,2024-08-26,delivered,United States
+ORD2492,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1305.95,1,2023-12-15,delivered,Mexico
+ORD2493,John Doe,test@gmail.com,Laptop,Electronics,966.95,4,2023-02-15,Shipped,United States
+ORD2494,John Doe,test@gmail.com,Phone,Unknown,1174.46,5,2025-08-07,Shipped,United States
+ORD2495,Carlos Ruiz,test@gmail.com,Laptop,Electronics,661.92,2,2023-03-14,Shipped,United States
+ORD2496,Jane Smith,user@yahoo.com,Monitor,Unknown,1469.6,3,2023-02-24,Delivered,unknown
+ORD2497,Jane Smith,user@yahoo.com,Monitor,Unknown,786.43,1,2024-07-24,Canceled,unknown
+ORD2498,Maria Lopez,test@gmail.com,Keyboard,Electronics,143.94,1,2025-05-23,Delivered,Mexico
+ORD2499,Maria Lopez,test@gmail.com,Keyboard,Unknown,720.15,5,2023-01-17,Pending,United States
+ORD2500,Maria Lopez,test@gmail.com,Phone,Electronics,826.12,2,2023-03-01,Pending,United States
+ORD2501,Jane Smith,noemail@gmail.com,Phone,Electronics,1476.33,5,2024-07-05,Pending,United States
+ORD2502,Maria Lopez,test@gmail.com,Monitor,Unknown,271.81,3,2023-07-04,Canceled,unknown
+ORD2503,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,115.22,2,2023-06-05,Pending,United States
+ORD2504,Unknown,test@gmail.com,Phone,Electronics,382.78,5,2024-05-04,Shipped,United States
+ORD2505,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,520.12,4,2024-06-13,Shipped,Mexico
+ORD2506,John Doe,example@outlook.com,Keyboard,Electronics,1488.37,2,2024-02-27,delivered,United States
+ORD2507,Unknown,test@gmail.com,Laptop,Unknown,223.81,4,2024-01-03,Canceled,Mexico
+ORD2508,Maria Lopez,test@gmail.com,Monitor,Electronics,1445.74,5,2024-12-06,delivered,United States
+ORD2509,Jane Smith,user@yahoo.com,Laptop,Unknown,985.99,2,2023-10-12,delivered,unknown
+ORD2510,Unknown,noemail@gmail.com,Tablet,Electronics,592.11,4,2025-12-14,Shipped,Mexico
+ORD2511,Carlos Ruiz,noemail@gmail.com,Tablet,Unknown,1189.92,3,2024-03-27,delivered,United States
+ORD2512,Maria Lopez,test@gmail.com,Tablet,Unknown,508.23,5,2024-05-21,delivered,Mexico
+ORD2513,Jane Smith,example@outlook.com,Keyboard,Electronics,365.88,1,2025-10-25,Canceled,United States
+ORD2514,Unknown,noemail@gmail.com,Phone,Unknown,711.33,5,2025-11-12,Canceled,Mexico
+ORD2515,Maria Lopez,user@yahoo.com,Phone,Electronics,1204.6,3,2024-06-14,Canceled,United States
+ORD2516,Unknown,example@outlook.com,Tablet,Unknown,1146.03,4,2025-03-23,Pending,United States
+,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,403.22,2,2025-10-16,Shipped,United States
+ORD2518,Maria Lopez,example@outlook.com,Keyboard,Electronics,1040.8,3,2025-10-23,Canceled,Mexico
+ORD2519,Maria Lopez,test@gmail.com,Tablet,Electronics,140.66,4,2024-05-02,delivered,unknown
+ORD2520,Carlos Ruiz,test@gmail.com,Phone,Unknown,1463.12,3,2025-12-25,Shipped,United States
+ORD2521,Carlos Ruiz,example@outlook.com,Tablet,Electronics,834.93,2,2024-04-18,delivered,Mexico
+ORD2522,Carlos Ruiz,example@outlook.com,Phone,Electronics,1441.37,5,2024-08-03,delivered,United States
+ORD2523,Unknown,test@gmail.com,Monitor,Electronics,305.73,1,2024-04-24,delivered,unknown
+ORD2524,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1335.08,5,2023-08-20,Delivered,United States
+ORD2525,Jane Smith,noemail@gmail.com,Monitor,Electronics,453.06,3,2023-09-20,Shipped,United States
+ORD2526,Unknown,user@yahoo.com,Laptop,Electronics,162.75,3,2026-02-27,Delivered,Mexico
+ORD2527,Jane Smith,noemail@gmail.com,Phone,Electronics,837.94,3,2023-07-09,Pending,Mexico
+ORD2528,Unknown,example@outlook.com,Keyboard,Electronics,162.14,2,2023-08-18,Pending,United States
+ORD2529,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,806.65,5,2023-01-12,Shipped,Mexico
+ORD2530,John Doe,test@gmail.com,Keyboard,Electronics,734.08,2,2025-06-22,Pending,United States
+ORD2531,John Doe,user@yahoo.com,Tablet,Electronics,603.51,3,2023-01-24,Canceled,United States
+ORD2532,John Doe,noemail@gmail.com,Monitor,Electronics,584.42,3,2023-01-06,Pending,United States
+ORD2533,Maria Lopez,example@outlook.com,Tablet,Unknown,1386.03,2,2023-11-05,Canceled,United States
+ORD2534,Jane Smith,user@yahoo.com,Tablet,Electronics,1246.74,4,2023-05-02,delivered,Mexico
+ORD2535,Maria Lopez,example@outlook.com,Laptop,Electronics,1210.46,5,2025-02-13,Shipped,United States
+ORD2536,John Doe,user@yahoo.com,Monitor,Electronics,505.14,3,2025-01-09,Canceled,United States
+ORD2537,Maria Lopez,noemail@gmail.com,Phone,Electronics,116.38,4,2025-03-13,Delivered,Mexico
+ORD2538,Unknown,example@outlook.com,Monitor,Electronics,1441.93,1,2023-03-31,Shipped,Mexico
+ORD2539,Maria Lopez,noemail@gmail.com,Phone,Electronics,887.83,3,2024-11-18,Delivered,United States
+ORD2540,Carlos Ruiz,example@outlook.com,Laptop,Electronics,666.37,5,2023-03-06,Shipped,United States
+ORD2541,Unknown,test@gmail.com,Keyboard,Electronics,798.36,1,2025-10-18,Pending,Mexico
+ORD2542,Unknown,user@yahoo.com,Keyboard,Electronics,687.9,3,2025-09-24,Canceled,unknown
+ORD2543,Carlos Ruiz,test@gmail.com,Monitor,Electronics,402.96,4,2024-11-17,Canceled,United States
+ORD2544,Maria Lopez,user@yahoo.com,Tablet,Unknown,672.07,5,2023-11-01,Delivered,United States
+ORD2545,John Doe,noemail@gmail.com,Keyboard,Unknown,1311.87,5,2023-10-26,Canceled,Mexico
+ORD2546,John Doe,example@outlook.com,Phone,Electronics,1449.49,4,2025-11-05,Shipped,United States
+ORD2547,Jane Smith,test@gmail.com,Tablet,Electronics,330.63,5,2023-08-20,Pending,United States
+ORD2548,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1476.17,5,2023-09-22,Shipped,United States
+ORD2549,Jane Smith,test@gmail.com,Laptop,Electronics,728.36,4,2025-05-24,Delivered,United States
+ORD2550,Unknown,user@yahoo.com,Keyboard,Electronics,1496.59,2,2024-07-28,delivered,United States
+ORD2551,Jane Smith,test@gmail.com,Keyboard,Unknown,429.31,1,2024-10-14,Canceled,Mexico
+ORD2552,Jane Smith,user@yahoo.com,Keyboard,Electronics,851.81,5,2023-12-14,Shipped,United States
+ORD2553,John Doe,user@yahoo.com,Laptop,Electronics,245.92,1,2024-02-15,delivered,unknown
+ORD2554,Maria Lopez,user@yahoo.com,Keyboard,Unknown,728.63,2,2025-04-21,Shipped,United States
+ORD2555,Maria Lopez,noemail@gmail.com,Monitor,Electronics,946.98,3,2025-06-05,Shipped,unknown
+ORD2556,Maria Lopez,example@outlook.com,Laptop,Unknown,543.73,1,2024-10-28,Delivered,United States
+ORD2557,Unknown,test@gmail.com,Tablet,Electronics,131.14,3,2025-05-25,Shipped,Mexico
+ORD2558,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,660.36,1,2024-06-27,Shipped,United States
+ORD2559,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1467.99,3,2024-11-11,Pending,Mexico
+ORD2560,Unknown,user@yahoo.com,Tablet,Unknown,82.2,5,2023-09-25,Shipped,United States
+ORD2561,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,764.425,4,2025-12-26,Canceled,unknown
+ORD2562,John Doe,noemail@gmail.com,Laptop,Electronics,619.96,1,2023-07-13,Canceled,United States
+ORD2563,Carlos Ruiz,test@gmail.com,Keyboard,Unknown,1399.76,1,2023-06-03,delivered,unknown
+ORD2564,John Doe,test@gmail.com,Monitor,Unknown,951.36,1,2024-09-25,delivered,United States
+ORD2565,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,764.425,1,2024-02-19,Pending,unknown
+ORD2566,Jane Smith,noemail@gmail.com,Monitor,Electronics,712.53,4,2025-05-11,delivered,United States
+ORD2567,John Doe,example@outlook.com,Monitor,Electronics,1202.38,3,2024-06-25,delivered,United States
+ORD2568,Unknown,example@outlook.com,Monitor,Electronics,1366.14,3,2024-10-15,delivered,Mexico
+ORD2569,Jane Smith,user@yahoo.com,Laptop,Electronics,1107.6,3,2025-09-23,Shipped,United States
+ORD2570,Maria Lopez,noemail@gmail.com,Laptop,Electronics,620.42,3,2023-04-24,Canceled,United States
+ORD2571,Carlos Ruiz,example@outlook.com,Phone,Electronics,205.93,4,2024-11-05,delivered,Mexico
+ORD2572,Jane Smith,user@yahoo.com,Tablet,Electronics,1390.84,1,2023-06-06,Pending,United States
+ORD2573,Unknown,example@outlook.com,Laptop,Electronics,1073.58,2,2025-11-15,Shipped,United States
+ORD2574,John Doe,example@outlook.com,Monitor,Electronics,728.14,2,2025-04-17,Canceled,Mexico
+ORD2575,Jane Smith,example@outlook.com,Monitor,Electronics,521.99,3,2023-11-10,Pending,United States
+ORD2576,Maria Lopez,test@gmail.com,Keyboard,Unknown,501.14,4,2024-07-02,Canceled,unknown
+ORD2577,John Doe,user@yahoo.com,Laptop,Electronics,1253.2,4,2025-10-16,Canceled,United States
+ORD2578,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,764.425,3,2023-01-12,Pending,unknown
+,John Doe,test@gmail.com,Phone,Electronics,1074.83,2,2024-02-21,delivered,United States
+ORD2580,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,361.25,5,2025-11-12,Delivered,United States
+ORD2581,Maria Lopez,test@gmail.com,Phone,Electronics,764.425,3,2025-08-30,Delivered,United States
+ORD2582,John Doe,test@gmail.com,Monitor,Electronics,1358.87,1,2023-11-27,Delivered,United States
+ORD2583,Unknown,user@yahoo.com,Phone,Electronics,1195.08,1,2023-09-06,Delivered,United States
+ORD2584,Unknown,example@outlook.com,Tablet,Electronics,679.04,4,2025-02-23,Shipped,United States
+ORD2585,John Doe,test@gmail.com,Monitor,Electronics,784.82,5,2024-10-26,delivered,United States
+ORD2586,Unknown,test@gmail.com,Laptop,Electronics,1492.37,5,2025-05-04,Shipped,United States
+ORD2587,Maria Lopez,test@gmail.com,Phone,Electronics,1115.68,1,2024-05-26,Delivered,United States
+ORD2588,John Doe,noemail@gmail.com,Tablet,Unknown,1240.09,3,2023-06-24,Pending,United States
+ORD2589,Maria Lopez,test@gmail.com,Keyboard,Electronics,1326.92,4,2024-07-12,delivered,United States
+ORD2590,Unknown,noemail@gmail.com,Tablet,Unknown,534.35,4,2024-09-02,Canceled,unknown
+ORD2591,Unknown,user@yahoo.com,Tablet,Unknown,504.65,3,2023-07-30,Pending,United States
+ORD2592,Unknown,example@outlook.com,Keyboard,Electronics,512.71,3,2025-03-14,Delivered,United States
+ORD2593,John Doe,noemail@gmail.com,Tablet,Electronics,664.81,5,2023-12-03,Shipped,unknown
+ORD2594,Jane Smith,noemail@gmail.com,Phone,Electronics,1055.29,5,2024-05-06,Shipped,unknown
+ORD2595,Jane Smith,noemail@gmail.com,Monitor,Electronics,410.18,5,2025-06-19,delivered,United States
+ORD2596,Jane Smith,example@outlook.com,Tablet,Electronics,307.23,5,2025-08-26,delivered,Mexico
+ORD2597,Jane Smith,test@gmail.com,Phone,Electronics,1185.07,4,2025-09-10,Shipped,United States
+ORD2598,Jane Smith,example@outlook.com,Keyboard,Unknown,922.29,3,2025-04-18,Canceled,unknown
+,Jane Smith,noemail@gmail.com,Phone,Unknown,631.4,3,2025-05-26,delivered,United States
+ORD2600,John Doe,noemail@gmail.com,Tablet,Unknown,192.69,1,2023-08-26,delivered,United States
+ORD2601,Jane Smith,user@yahoo.com,Tablet,Electronics,602.39,3,2023-07-28,delivered,unknown
+ORD2602,Jane Smith,test@gmail.com,Keyboard,Electronics,846.4,2,2024-03-26,Delivered,unknown
+ORD2603,Maria Lopez,example@outlook.com,Phone,Unknown,941.77,3,2024-12-13,Shipped,United States
+ORD2604,Unknown,example@outlook.com,Keyboard,Electronics,581.01,1,2025-09-09,Shipped,United States
+ORD2605,Maria Lopez,example@outlook.com,Keyboard,Electronics,327.03,4,2024-02-28,Canceled,United States
+ORD2606,Unknown,user@yahoo.com,Monitor,Unknown,400.61,3,2023-12-03,Shipped,unknown
+ORD2607,Unknown,noemail@gmail.com,Phone,Unknown,112.23,5,2024-04-11,delivered,United States
+ORD2608,Jane Smith,noemail@gmail.com,Phone,Electronics,1148.06,3,2025-03-17,delivered,United States
+ORD2609,Unknown,noemail@gmail.com,Laptop,Electronics,796.84,5,2023-06-01,Pending,unknown
+ORD2610,Maria Lopez,noemail@gmail.com,Tablet,Electronics,1494.2,3,2024-03-01,Delivered,United States
+ORD2611,Unknown,noemail@gmail.com,Monitor,Unknown,942.46,5,2025-10-27,Canceled,unknown
+ORD2612,Maria Lopez,noemail@gmail.com,Phone,Electronics,698.89,3,2023-06-10,Shipped,unknown
+ORD2613,John Doe,example@outlook.com,Tablet,Electronics,131.42,1,2023-05-31,Shipped,United States
+ORD2614,Maria Lopez,user@yahoo.com,Keyboard,Electronics,942.61,1,2024-07-01,Canceled,unknown
+ORD2615,Jane Smith,user@yahoo.com,Keyboard,Unknown,209.84,3,2023-11-23,Delivered,United States
+ORD2616,Maria Lopez,user@yahoo.com,Monitor,Electronics,1424.96,1,2024-08-26,delivered,United States
+ORD2617,Jane Smith,user@yahoo.com,Monitor,Unknown,1461.94,1,2023-03-07,Shipped,United States
+ORD2618,Maria Lopez,user@yahoo.com,Phone,Unknown,764.425,3,2024-08-07,Delivered,United States
+ORD2619,John Doe,user@yahoo.com,Phone,Electronics,869.19,4,2023-07-06,delivered,United States
+ORD2620,Unknown,example@outlook.com,Keyboard,Electronics,1301.72,5,2025-03-17,Delivered,United States
+ORD2621,Carlos Ruiz,example@outlook.com,Tablet,Electronics,908.88,2,2023-02-24,Delivered,United States
+ORD2622,John Doe,example@outlook.com,Tablet,Unknown,1092.83,3,2024-04-17,Canceled,Mexico
+ORD2623,Unknown,test@gmail.com,Laptop,Electronics,126.38,2,2023-12-01,Canceled,United States
+ORD2624,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,254.04,2,,delivered,unknown
+ORD2625,Carlos Ruiz,noemail@gmail.com,Keyboard,Electronics,1107.21,1,2023-06-30,Canceled,United States
+ORD2626,Carlos Ruiz,test@gmail.com,Monitor,Unknown,1297.99,1,2023-04-06,Canceled,United States
+ORD2627,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,1121.11,2,2023-10-15,Shipped,United States
+ORD2628,Jane Smith,test@gmail.com,Phone,Unknown,1013.19,2,2026-02-24,Pending,United States
+ORD2629,John Doe,example@outlook.com,Monitor,Unknown,575.83,5,2025-07-13,Pending,Mexico
+ORD2630,John Doe,noemail@gmail.com,Monitor,Electronics,1024.63,1,2024-05-22,Delivered,Mexico
+ORD2631,John Doe,noemail@gmail.com,Phone,Electronics,879.6,3,2023-10-06,Canceled,United States
+ORD2632,Maria Lopez,user@yahoo.com,Phone,Electronics,642.2,5,2024-02-23,Canceled,Mexico
+ORD2633,Maria Lopez,user@yahoo.com,Phone,Unknown,248.4,1,2025-10-26,Pending,United States
+ORD2634,Jane Smith,user@yahoo.com,Monitor,Unknown,785.56,1,2026-03-01,Shipped,Mexico
+ORD2635,Jane Smith,user@yahoo.com,Laptop,Electronics,226.62,2,2025-08-06,Canceled,United States
+ORD2636,John Doe,example@outlook.com,Phone,Electronics,1100.87,4,2024-02-16,Delivered,United States
+ORD2637,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1366.68,4,2023-12-13,Shipped,United States
+ORD2638,John Doe,user@yahoo.com,Monitor,Unknown,1107.86,2,2025-05-25,Delivered,United States
+ORD2639,John Doe,user@yahoo.com,Monitor,Unknown,179.17,4,2024-01-09,Pending,Mexico
+ORD2640,Jane Smith,test@gmail.com,Monitor,Electronics,166.1,4,2024-09-24,Delivered,United States
+ORD2641,Carlos Ruiz,example@outlook.com,Laptop,Unknown,123.43,5,2024-12-12,Pending,United States
+ORD2642,Maria Lopez,test@gmail.com,Phone,Electronics,123.39,2,2026-02-27,delivered,unknown
+ORD2643,Jane Smith,noemail@gmail.com,Monitor,Electronics,433.2,1,2025-12-28,Delivered,United States
+ORD2644,Jane Smith,test@gmail.com,Keyboard,Electronics,1184.29,4,2023-03-02,Shipped,United States
+ORD2645,John Doe,noemail@gmail.com,Keyboard,Electronics,648.12,5,2023-02-21,Delivered,United States
+ORD2646,John Doe,noemail@gmail.com,Tablet,Unknown,514.15,4,2023-09-02,Shipped,United States
+ORD2647,Jane Smith,user@yahoo.com,Phone,Electronics,86.71,1,2025-01-04,Pending,United States
+ORD2648,John Doe,user@yahoo.com,Tablet,Electronics,513.5,4,2023-08-06,Shipped,United States
+ORD2649,Maria Lopez,noemail@gmail.com,Phone,Electronics,1314.77,3,2023-07-13,Pending,Mexico
+ORD2650,Jane Smith,example@outlook.com,Phone,Electronics,594.59,3,2025-11-13,Pending,unknown
+ORD2651,Unknown,noemail@gmail.com,Phone,Electronics,450.29,4,2023-03-01,Delivered,United States
+ORD2652,Maria Lopez,example@outlook.com,Tablet,Electronics,866.92,1,2024-04-29,Shipped,United States
+ORD2653,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1334.96,5,2023-02-21,delivered,United States
+ORD2654,Carlos Ruiz,user@yahoo.com,Laptop,Unknown,338.7,1,2025-07-07,Canceled,United States
+ORD2655,John Doe,noemail@gmail.com,Phone,Electronics,632.15,4,2023-07-14,Pending,unknown
+ORD2656,Unknown,test@gmail.com,Phone,Unknown,892.47,4,2024-11-22,delivered,United States
+ORD2657,Jane Smith,test@gmail.com,Tablet,Electronics,1037.63,4,2024-09-04,Shipped,Mexico
+ORD2658,John Doe,noemail@gmail.com,Laptop,Unknown,243.96,2,2025-08-04,delivered,United States
+ORD2659,John Doe,noemail@gmail.com,Keyboard,Unknown,758.74,3,2023-09-12,delivered,United States
+ORD2660,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,807.45,3,,Canceled,unknown
+ORD2661,Maria Lopez,example@outlook.com,Monitor,Unknown,527.8,1,2024-08-10,Shipped,Mexico
+ORD2662,Maria Lopez,test@gmail.com,Keyboard,Unknown,419.13,2,2025-09-13,Shipped,United States
+ORD2663,Unknown,test@gmail.com,Phone,Unknown,931.08,5,2025-02-13,delivered,unknown
+ORD2664,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,1381.9,4,2024-04-15,Canceled,unknown
+ORD2665,John Doe,example@outlook.com,Monitor,Electronics,1381.73,5,2024-12-08,Delivered,United States
+ORD2666,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,432.89,1,2024-11-29,Canceled,United States
+ORD2667,Jane Smith,user@yahoo.com,Phone,Electronics,301.85,3,2025-11-10,delivered,United States
+ORD2668,John Doe,noemail@gmail.com,Laptop,Unknown,321.78,5,,delivered,United States
+ORD2669,John Doe,user@yahoo.com,Keyboard,Unknown,1263.4,3,2023-08-13,Pending,United States
+ORD2670,Maria Lopez,example@outlook.com,Tablet,Unknown,272.86,5,2023-01-15,Delivered,United States
+ORD2671,Jane Smith,noemail@gmail.com,Phone,Unknown,764.425,3,2024-09-11,Delivered,United States
+ORD2672,Jane Smith,noemail@gmail.com,Phone,Electronics,514.93,2,2024-09-25,delivered,United States
+ORD2673,Jane Smith,user@yahoo.com,Laptop,Electronics,580.92,5,2025-01-19,Shipped,unknown
+ORD2674,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,1356.92,1,2023-12-27,delivered,United States
+ORD2675,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1490.69,5,2024-06-17,delivered,United States
+ORD2676,Unknown,test@gmail.com,Monitor,Electronics,262.0,2,2023-07-17,Pending,United States
+ORD2677,Jane Smith,noemail@gmail.com,Monitor,Electronics,967.57,3,2024-03-30,Delivered,Mexico
+ORD2678,Unknown,noemail@gmail.com,Keyboard,Electronics,949.8,2,2023-07-17,Delivered,United States
+ORD2679,Jane Smith,example@outlook.com,Phone,Electronics,911.12,5,2024-08-21,delivered,unknown
+ORD2680,Jane Smith,noemail@gmail.com,Keyboard,Electronics,303.12,2,2024-08-14,Canceled,United States
+ORD2681,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,764.425,4,2023-08-30,Canceled,United States
+ORD2682,Maria Lopez,test@gmail.com,Phone,Unknown,1130.83,1,2025-06-12,delivered,United States
+ORD2683,John Doe,noemail@gmail.com,Tablet,Electronics,199.07,2,2024-02-01,Delivered,United States
+ORD2684,Jane Smith,example@outlook.com,Phone,Electronics,830.35,2,2026-01-15,delivered,unknown
+ORD2685,John Doe,noemail@gmail.com,Monitor,Electronics,938.19,4,2023-08-06,delivered,United States
+ORD2686,Carlos Ruiz,test@gmail.com,Tablet,Electronics,268.14,4,2025-07-02,Shipped,United States
+ORD2687,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,1409.56,1,2025-01-03,Delivered,United States
+ORD2688,Carlos Ruiz,example@outlook.com,Laptop,Electronics,1331.5,4,2025-07-16,Delivered,United States
+ORD2689,John Doe,test@gmail.com,Keyboard,Electronics,74.36,4,2024-08-13,Canceled,unknown
+ORD2690,Jane Smith,example@outlook.com,Tablet,Electronics,927.89,5,2023-08-26,Canceled,unknown
+ORD2691,Maria Lopez,test@gmail.com,Tablet,Electronics,1177.01,4,2025-02-20,delivered,United States
+ORD2692,Jane Smith,user@yahoo.com,Laptop,Unknown,1355.86,3,2025-12-05,Shipped,United States
+ORD2693,John Doe,example@outlook.com,Phone,Electronics,1494.77,5,2023-12-17,Canceled,United States
+ORD2694,Maria Lopez,test@gmail.com,Monitor,Unknown,1466.84,3,2025-09-30,Pending,United States
+ORD2695,John Doe,user@yahoo.com,Tablet,Electronics,1018.38,2,2024-08-17,Pending,unknown
+ORD2696,Unknown,example@outlook.com,Phone,Electronics,906.27,2,2024-06-15,Canceled,Mexico
+ORD2697,Maria Lopez,example@outlook.com,Laptop,Electronics,663.69,5,2024-09-12,Pending,Mexico
+ORD2698,Maria Lopez,example@outlook.com,Monitor,Electronics,536.04,4,2024-01-23,Delivered,unknown
+ORD2699,Maria Lopez,test@gmail.com,Keyboard,Electronics,612.4,1,2024-09-11,Delivered,United States
+ORD2700,Unknown,user@yahoo.com,Keyboard,Electronics,1424.77,5,2023-11-27,Delivered,Mexico
+ORD2701,Carlos Ruiz,example@outlook.com,Tablet,Electronics,955.62,2,2024-09-15,delivered,Mexico
+ORD2702,Carlos Ruiz,user@yahoo.com,Phone,Unknown,866.28,4,2024-01-23,Pending,United States
+ORD2703,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,164.77,3,2023-03-02,Shipped,unknown
+ORD2704,John Doe,noemail@gmail.com,Monitor,Unknown,52.41,1,2023-10-28,Shipped,United States
+ORD2705,Unknown,test@gmail.com,Tablet,Electronics,1454.99,4,2023-09-28,Delivered,unknown
+ORD2706,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,844.12,1,2023-06-04,Pending,Mexico
+ORD2707,Maria Lopez,example@outlook.com,Phone,Electronics,308.58,2,,Delivered,United States
+ORD2708,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,984.94,5,,Canceled,United States
+ORD2709,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,500.11,5,2024-09-15,Shipped,United States
+ORD2710,John Doe,example@outlook.com,Phone,Electronics,575.82,5,2026-02-10,Canceled,unknown
+ORD2711,Maria Lopez,user@yahoo.com,Laptop,Electronics,1252.32,3,2026-01-28,Pending,United States
+ORD2712,Carlos Ruiz,user@yahoo.com,Laptop,Unknown,182.99,2,2024-10-20,Shipped,Mexico
+ORD2713,Jane Smith,example@outlook.com,Tablet,Unknown,729.07,2,2023-05-22,delivered,United States
+ORD2714,Carlos Ruiz,example@outlook.com,Laptop,Electronics,1037.3,4,2025-09-13,Canceled,United States
+ORD2715,Carlos Ruiz,user@yahoo.com,Phone,Unknown,1497.37,4,2024-11-25,Pending,United States
+ORD2716,Maria Lopez,user@yahoo.com,Tablet,Electronics,1364.45,5,2023-10-02,Delivered,unknown
+ORD2717,John Doe,test@gmail.com,Phone,Electronics,191.3,2,2023-03-23,Delivered,unknown
+ORD2718,Maria Lopez,example@outlook.com,Laptop,Electronics,294.21,3,2024-07-24,Delivered,United States
+ORD2719,Unknown,noemail@gmail.com,Keyboard,Electronics,1129.42,5,2023-01-08,Canceled,unknown
+ORD2720,John Doe,noemail@gmail.com,Phone,Electronics,313.45,4,2025-03-25,Delivered,United States
+ORD2721,Carlos Ruiz,example@outlook.com,Keyboard,Unknown,998.26,3,2023-01-31,Delivered,United States
+ORD2722,John Doe,user@yahoo.com,Tablet,Electronics,394.8,5,2023-11-03,Delivered,United States
+ORD2723,Carlos Ruiz,example@outlook.com,Laptop,Electronics,1401.86,4,2023-06-23,delivered,United States
+ORD2724,John Doe,noemail@gmail.com,Laptop,Unknown,549.37,2,2023-04-03,Pending,United States
+ORD2725,John Doe,noemail@gmail.com,Phone,Electronics,322.6,1,2025-07-20,Delivered,United States
+ORD2726,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,496.83,1,2025-09-01,delivered,United States
+ORD2727,Unknown,noemail@gmail.com,Phone,Electronics,1473.33,3,2026-02-11,Delivered,unknown
+ORD2728,Unknown,noemail@gmail.com,Keyboard,Unknown,174.98,3,2023-10-31,Canceled,unknown
+ORD2729,Unknown,test@gmail.com,Tablet,Electronics,390.3,4,2024-01-28,Shipped,unknown
+ORD2730,John Doe,noemail@gmail.com,Keyboard,Electronics,1241.3,1,2025-06-16,Shipped,United States
+ORD2731,Maria Lopez,user@yahoo.com,Monitor,Electronics,1399.69,3,2025-12-23,Pending,United States
+ORD2732,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,764.425,4,2026-02-15,Pending,United States
+ORD2733,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,946.02,1,2023-06-22,Shipped,unknown
+ORD2734,Unknown,noemail@gmail.com,Tablet,Electronics,1243.01,3,2024-03-19,Canceled,United States
+ORD2735,Maria Lopez,user@yahoo.com,Tablet,Unknown,1406.32,1,,Pending,Mexico
+ORD2736,Carlos Ruiz,example@outlook.com,Laptop,Electronics,239.74,4,2024-10-14,Pending,Mexico
+ORD2737,John Doe,noemail@gmail.com,Laptop,Unknown,1227.41,4,2026-02-03,Canceled,Mexico
+ORD2738,John Doe,example@outlook.com,Monitor,Electronics,816.66,2,2024-07-18,delivered,United States
+ORD2739,Maria Lopez,user@yahoo.com,Phone,Unknown,1473.94,5,2025-02-04,Shipped,unknown
+ORD2740,Jane Smith,noemail@gmail.com,Laptop,Unknown,462.41,1,2024-05-24,Delivered,unknown
+ORD2741,Unknown,user@yahoo.com,Phone,Unknown,1015.74,4,2026-02-26,Shipped,unknown
+ORD2742,Unknown,noemail@gmail.com,Phone,Electronics,1110.66,2,2026-01-26,Shipped,United States
+ORD2743,Unknown,example@outlook.com,Phone,Electronics,819.14,5,2023-08-01,Shipped,United States
+ORD2744,John Doe,noemail@gmail.com,Monitor,Electronics,1056.87,3,2023-01-20,delivered,Mexico
+ORD2745,Jane Smith,example@outlook.com,Monitor,Electronics,395.93,4,2025-04-06,Canceled,Mexico
+ORD2746,John Doe,example@outlook.com,Phone,Electronics,655.59,1,2023-04-08,Shipped,United States
+ORD2747,Maria Lopez,test@gmail.com,Monitor,Unknown,1153.01,5,2023-09-02,Pending,unknown
+ORD2748,Maria Lopez,user@yahoo.com,Tablet,Electronics,314.94,5,2024-04-30,Pending,United States
+ORD2749,Unknown,example@outlook.com,Monitor,Unknown,913.81,2,2024-08-29,delivered,United States
+ORD2750,Jane Smith,example@outlook.com,Phone,Unknown,231.08,5,2023-05-06,Delivered,unknown
+ORD2751,Unknown,test@gmail.com,Monitor,Unknown,195.69,3,2023-07-08,Pending,Mexico
+ORD2752,Unknown,noemail@gmail.com,Monitor,Electronics,1327.18,5,2024-05-19,Pending,United States
+ORD2753,Jane Smith,noemail@gmail.com,Keyboard,Electronics,1197.27,3,2024-02-21,Pending,United States
+ORD2754,Unknown,noemail@gmail.com,Phone,Electronics,145.56,4,2024-06-07,Canceled,United States
+ORD2755,Jane Smith,user@yahoo.com,Keyboard,Electronics,152.28,5,,Canceled,Mexico
+ORD2756,Jane Smith,user@yahoo.com,Tablet,Electronics,764.425,3,2024-08-07,Canceled,United States
+ORD2757,Maria Lopez,noemail@gmail.com,Laptop,Electronics,764.425,2,2025-09-26,Delivered,United States
+ORD2758,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1193.24,5,2024-08-11,Shipped,United States
+ORD2759,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,757.08,2,2024-05-07,delivered,United States
+ORD2760,Maria Lopez,test@gmail.com,Laptop,Unknown,1116.3,4,2023-08-28,Delivered,United States
+ORD2761,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,731.84,1,2025-09-26,Canceled,unknown
+ORD2762,John Doe,noemail@gmail.com,Tablet,Unknown,630.53,2,,Delivered,unknown
+ORD2763,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1171.27,3,2024-04-30,Canceled,United States
+ORD2764,Carlos Ruiz,example@outlook.com,Phone,Electronics,1466.37,5,2025-02-08,Canceled,United States
+ORD2765,Carlos Ruiz,noemail@gmail.com,Monitor,Unknown,514.27,5,2023-02-07,delivered,United States
+ORD2766,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1474.83,1,2024-11-19,delivered,United States
+ORD2767,John Doe,noemail@gmail.com,Phone,Electronics,326.07,1,2025-03-06,Shipped,United States
+ORD2768,Unknown,test@gmail.com,Keyboard,Electronics,1091.85,4,2023-12-05,delivered,United States
+ORD2769,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1034.95,3,2023-08-11,Pending,United States
+ORD2770,John Doe,user@yahoo.com,Tablet,Electronics,1096.7,3,2023-06-01,delivered,unknown
+ORD2771,John Doe,example@outlook.com,Laptop,Electronics,764.425,4,2026-02-13,Delivered,United States
+ORD2772,John Doe,test@gmail.com,Phone,Electronics,85.6,1,2025-05-15,Shipped,unknown
+ORD2773,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,1007.99,1,2023-08-10,delivered,United States
+ORD2774,John Doe,user@yahoo.com,Keyboard,Electronics,81.82,4,2023-07-07,Delivered,unknown
+ORD2775,Jane Smith,example@outlook.com,Phone,Unknown,844.37,5,2025-11-26,delivered,unknown
+ORD2776,Carlos Ruiz,test@gmail.com,Keyboard,Electronics,766.52,1,2023-12-02,Pending,United States
+ORD2777,Carlos Ruiz,example@outlook.com,Phone,Electronics,1227.84,3,2025-07-17,Delivered,United States
+ORD2778,Carlos Ruiz,user@yahoo.com,Phone,Electronics,90.07,2,2024-01-14,Pending,United States
+,Carlos Ruiz,example@outlook.com,Monitor,Electronics,90.77,2,2024-05-16,Pending,unknown
+ORD2780,Maria Lopez,noemail@gmail.com,Phone,Electronics,680.88,4,2023-09-21,Shipped,United States
+ORD2781,Jane Smith,test@gmail.com,Phone,Electronics,672.36,3,2025-06-26,Pending,United States
+ORD2782,Jane Smith,noemail@gmail.com,Tablet,Electronics,967.19,4,2025-03-17,Delivered,United States
+ORD2783,Unknown,example@outlook.com,Monitor,Electronics,1019.57,3,2025-10-01,Pending,Mexico
+ORD2784,Jane Smith,test@gmail.com,Keyboard,Electronics,218.86,3,2025-06-14,Shipped,United States
+ORD2785,Unknown,example@outlook.com,Phone,Electronics,764.425,1,2024-12-20,delivered,Mexico
+ORD2786,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,444.45,4,2024-08-13,delivered,United States
+ORD2787,Maria Lopez,example@outlook.com,Laptop,Electronics,262.96,5,,Shipped,Mexico
+ORD2788,Jane Smith,user@yahoo.com,Phone,Unknown,1418.89,1,2023-01-24,Canceled,unknown
+,John Doe,test@gmail.com,Keyboard,Electronics,1083.87,3,2023-10-28,Delivered,United States
+ORD2790,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,828.7,4,2024-05-21,Shipped,United States
+ORD2791,Unknown,test@gmail.com,Keyboard,Electronics,1223.79,2,2023-11-28,Shipped,Mexico
+ORD2792,Jane Smith,test@gmail.com,Laptop,Electronics,233.57,2,2023-08-06,Shipped,United States
+ORD2793,Maria Lopez,example@outlook.com,Monitor,Electronics,57.1,4,2025-07-09,delivered,United States
+ORD2794,John Doe,example@outlook.com,Tablet,Electronics,1456.26,5,2024-07-29,Delivered,United States
+ORD2795,John Doe,noemail@gmail.com,Keyboard,Unknown,439.68,5,2023-12-08,Shipped,unknown
+ORD2796,Unknown,noemail@gmail.com,Keyboard,Electronics,1462.36,3,2025-09-30,Canceled,United States
+ORD2797,Maria Lopez,user@yahoo.com,Tablet,Electronics,829.36,5,2023-05-21,delivered,United States
+ORD2798,Carlos Ruiz,test@gmail.com,Tablet,Electronics,770.76,3,2024-11-21,Pending,Mexico
+ORD2799,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,327.22,5,2025-12-04,delivered,Mexico
+ORD2800,John Doe,user@yahoo.com,Tablet,Unknown,396.69,2,2024-08-24,Shipped,United States
+ORD2801,Maria Lopez,example@outlook.com,Keyboard,Electronics,78.98,5,2025-05-16,Shipped,unknown
+ORD2802,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,1115.78,4,2025-09-24,Canceled,United States
+ORD2803,John Doe,noemail@gmail.com,Laptop,Electronics,809.73,3,2024-11-15,Canceled,Mexico
+ORD2804,Unknown,test@gmail.com,Laptop,Unknown,73.96,3,2025-07-09,Pending,United States
+ORD2805,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,1421.64,4,2025-03-06,Canceled,United States
+ORD2806,John Doe,example@outlook.com,Tablet,Unknown,794.39,4,2023-12-10,Pending,United States
+ORD2807,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,266.53,3,2023-04-03,Pending,United States
+ORD2808,Maria Lopez,user@yahoo.com,Keyboard,Electronics,778.67,3,2025-12-22,Shipped,United States
+ORD2809,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,1351.83,2,2024-04-09,Pending,unknown
+,Jane Smith,user@yahoo.com,Laptop,Electronics,226.98,4,2023-12-17,Delivered,United States
+ORD2811,John Doe,user@yahoo.com,Laptop,Electronics,1199.63,4,2025-02-23,Shipped,United States
+ORD2812,Carlos Ruiz,test@gmail.com,Phone,Electronics,451.24,2,,delivered,United States
+ORD2813,Carlos Ruiz,test@gmail.com,Phone,Electronics,1387.06,1,2025-05-11,Shipped,United States
+ORD2814,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,377.9,2,2024-02-17,delivered,United States
+ORD2815,Unknown,test@gmail.com,Keyboard,Electronics,876.29,5,2023-05-09,delivered,United States
+ORD2816,John Doe,example@outlook.com,Laptop,Electronics,1307.04,4,2023-04-28,Canceled,United States
+ORD2817,Jane Smith,example@outlook.com,Keyboard,Electronics,1407.95,3,2024-05-09,Pending,United States
+ORD2818,Unknown,user@yahoo.com,Keyboard,Electronics,649.8,3,2023-02-11,Delivered,United States
+ORD2819,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,76.51,3,2023-04-19,delivered,Mexico
+ORD2820,Carlos Ruiz,noemail@gmail.com,Phone,Unknown,182.51,5,2024-08-28,delivered,United States
+ORD2821,Unknown,noemail@gmail.com,Tablet,Electronics,1470.4,3,2024-12-14,Pending,United States
+ORD2822,Jane Smith,user@yahoo.com,Monitor,Electronics,493.89,3,2024-05-13,Delivered,unknown
+ORD2823,Unknown,noemail@gmail.com,Keyboard,Electronics,917.56,3,2023-09-20,Delivered,unknown
+ORD2824,Jane Smith,noemail@gmail.com,Monitor,Electronics,764.425,2,2023-06-04,Shipped,United States
+ORD2825,Maria Lopez,example@outlook.com,Tablet,Electronics,1392.21,4,2025-01-01,Shipped,United States
+ORD2826,Carlos Ruiz,example@outlook.com,Monitor,Electronics,225.15,3,2025-02-23,Delivered,Mexico
+ORD2827,Unknown,example@outlook.com,Keyboard,Electronics,352.83,5,2023-10-04,Shipped,United States
+ORD2828,John Doe,user@yahoo.com,Laptop,Electronics,218.09,3,2026-01-31,Delivered,United States
+ORD2829,John Doe,noemail@gmail.com,Monitor,Unknown,1154.29,4,2026-02-11,Delivered,unknown
+ORD2830,Carlos Ruiz,example@outlook.com,Laptop,Unknown,819.01,4,2024-08-16,Pending,United States
+ORD2831,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1434.13,5,2026-01-10,Shipped,United States
+ORD2832,John Doe,user@yahoo.com,Keyboard,Electronics,1080.62,1,2024-11-05,Delivered,Mexico
+ORD2833,Unknown,test@gmail.com,Keyboard,Electronics,587.59,1,2025-04-03,delivered,United States
+ORD2834,John Doe,example@outlook.com,Laptop,Electronics,890.89,3,2025-11-15,delivered,United States
+ORD2835,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,383.38,5,2025-07-16,Delivered,United States
+ORD2836,Carlos Ruiz,noemail@gmail.com,Laptop,Electronics,849.96,5,2024-10-10,delivered,unknown
+ORD2837,Maria Lopez,test@gmail.com,Keyboard,Electronics,857.03,3,2024-04-12,Canceled,Mexico
+ORD2838,Unknown,test@gmail.com,Monitor,Unknown,422.59,3,2025-08-21,Delivered,unknown
+ORD2839,Maria Lopez,test@gmail.com,Tablet,Electronics,764.425,2,2025-05-02,delivered,United States
+ORD2840,Carlos Ruiz,example@outlook.com,Tablet,Electronics,418.16,2,2023-06-13,Canceled,United States
+ORD2841,John Doe,test@gmail.com,Phone,Electronics,177.34,5,2024-04-06,delivered,United States
+ORD2842,Carlos Ruiz,example@outlook.com,Tablet,Electronics,1229.71,2,2024-10-14,Shipped,United States
+ORD2843,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,686.0,2,2025-05-04,delivered,Mexico
+ORD2844,Maria Lopez,example@outlook.com,Keyboard,Unknown,70.22,3,2024-07-14,Delivered,Mexico
+ORD2845,John Doe,noemail@gmail.com,Tablet,Electronics,993.48,4,2025-08-30,delivered,Mexico
+ORD2846,John Doe,noemail@gmail.com,Phone,Unknown,497.71,5,2024-12-01,Delivered,United States
+ORD2847,Jane Smith,user@yahoo.com,Phone,Electronics,137.88,2,2024-09-04,Canceled,United States
+ORD2848,Carlos Ruiz,test@gmail.com,Tablet,Unknown,792.2,2,2025-12-21,Shipped,United States
+,Unknown,user@yahoo.com,Keyboard,Unknown,622.48,2,2023-07-31,Pending,unknown
+ORD2850,John Doe,example@outlook.com,Phone,Unknown,1276.9,2,2024-03-01,delivered,United States
+ORD2851,Unknown,example@outlook.com,Monitor,Unknown,65.8,3,2024-09-14,Shipped,United States
+,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,124.8,1,2023-02-23,Pending,United States
+ORD2853,Carlos Ruiz,example@outlook.com,Tablet,Electronics,1003.55,5,2023-03-20,Delivered,Mexico
+ORD2854,Maria Lopez,test@gmail.com,Keyboard,Electronics,1468.89,2,2025-05-16,Pending,unknown
+ORD2855,Carlos Ruiz,test@gmail.com,Laptop,Unknown,986.79,3,2025-07-08,Canceled,Mexico
+ORD2856,Unknown,noemail@gmail.com,Monitor,Unknown,1455.25,2,2023-03-04,Pending,United States
+ORD2857,John Doe,user@yahoo.com,Tablet,Unknown,868.61,1,2025-11-06,Delivered,Mexico
+ORD2858,Carlos Ruiz,example@outlook.com,Tablet,Electronics,306.59,2,2023-06-18,Delivered,United States
+ORD2859,John Doe,test@gmail.com,Phone,Electronics,1381.98,3,2025-03-01,Canceled,United States
+ORD2860,John Doe,noemail@gmail.com,Phone,Electronics,1418.01,1,2023-10-08,Canceled,unknown
+ORD2861,Unknown,test@gmail.com,Monitor,Electronics,1142.46,2,,Pending,Mexico
+ORD2862,Jane Smith,test@gmail.com,Keyboard,Electronics,632.57,3,2024-12-21,Delivered,United States
+ORD2863,John Doe,noemail@gmail.com,Monitor,Electronics,948.99,1,2024-07-07,Canceled,United States
+ORD2864,John Doe,noemail@gmail.com,Phone,Unknown,874.73,5,2025-05-09,Pending,United States
+ORD2865,Maria Lopez,noemail@gmail.com,Monitor,Electronics,765.65,2,2024-05-11,Delivered,United States
+ORD2866,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,355.87,3,2024-10-06,Pending,United States
+ORD2867,Jane Smith,test@gmail.com,Keyboard,Electronics,128.81,1,2025-06-29,Shipped,unknown
+ORD2868,Maria Lopez,test@gmail.com,Keyboard,Electronics,764.425,1,2023-06-13,Canceled,United States
+ORD2869,Unknown,user@yahoo.com,Monitor,Electronics,1063.18,5,2025-02-09,delivered,Mexico
+,Unknown,noemail@gmail.com,Tablet,Electronics,764.425,4,2023-10-25,Delivered,Mexico
+ORD2871,Carlos Ruiz,noemail@gmail.com,Phone,Electronics,1390.27,5,2023-07-23,Delivered,United States
+ORD2872,John Doe,noemail@gmail.com,Laptop,Electronics,524.48,1,2025-01-08,Delivered,unknown
+ORD2873,Unknown,example@outlook.com,Keyboard,Electronics,279.17,4,2025-02-22,Canceled,unknown
+ORD2874,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,682.51,2,2023-10-04,Shipped,United States
+ORD2875,John Doe,user@yahoo.com,Keyboard,Electronics,860.69,2,2023-04-21,Canceled,unknown
+ORD2876,Maria Lopez,user@yahoo.com,Tablet,Electronics,1223.71,5,2025-03-14,Delivered,United States
+ORD2877,Jane Smith,test@gmail.com,Tablet,Electronics,1264.85,3,2023-05-04,Delivered,United States
+ORD2878,Unknown,test@gmail.com,Phone,Electronics,1143.07,4,2025-06-10,Delivered,United States
+ORD2879,Carlos Ruiz,test@gmail.com,Laptop,Electronics,1239.99,1,2023-08-23,Canceled,United States
+ORD2880,Unknown,user@yahoo.com,Laptop,Electronics,466.32,1,2024-09-11,delivered,unknown
+ORD2881,Maria Lopez,example@outlook.com,Keyboard,Electronics,700.64,2,2025-03-21,Pending,Mexico
+ORD2882,Maria Lopez,user@yahoo.com,Tablet,Electronics,523.14,4,2025-08-03,Canceled,United States
+ORD2883,John Doe,example@outlook.com,Keyboard,Electronics,464.54,2,2025-09-27,delivered,United States
+ORD2884,Unknown,noemail@gmail.com,Laptop,Electronics,1382.58,4,2024-11-03,Delivered,unknown
+ORD2885,Jane Smith,example@outlook.com,Keyboard,Unknown,118.33,4,2024-12-23,Delivered,unknown
+ORD2886,John Doe,example@outlook.com,Laptop,Electronics,90.91,2,2024-11-07,delivered,United States
+ORD2887,Carlos Ruiz,user@yahoo.com,Laptop,Electronics,940.39,4,2025-04-20,Pending,United States
+ORD2888,John Doe,noemail@gmail.com,Tablet,Electronics,111.39,4,2024-01-08,Shipped,Mexico
+ORD2889,Carlos Ruiz,test@gmail.com,Phone,Electronics,168.75,2,2025-04-13,Pending,United States
+ORD2890,Jane Smith,noemail@gmail.com,Monitor,Electronics,998.53,1,2025-04-21,Pending,United States
+ORD2891,Jane Smith,test@gmail.com,Laptop,Electronics,71.63,3,2024-11-26,Canceled,United States
+ORD2892,Unknown,example@outlook.com,Phone,Electronics,900.9,5,2024-10-16,Delivered,Mexico
+ORD2893,Carlos Ruiz,example@outlook.com,Laptop,Electronics,806.08,4,2025-06-12,Canceled,United States
+ORD2894,Maria Lopez,noemail@gmail.com,Laptop,Electronics,1341.72,4,2024-07-18,delivered,United States
+ORD2895,Maria Lopez,noemail@gmail.com,Laptop,Electronics,796.88,2,2025-11-25,delivered,United States
+ORD2896,Unknown,noemail@gmail.com,Monitor,Unknown,616.81,1,2024-05-08,Pending,United States
+ORD2897,Maria Lopez,test@gmail.com,Tablet,Electronics,127.14,1,2023-10-05,delivered,Mexico
+ORD2898,Maria Lopez,test@gmail.com,Phone,Electronics,1274.37,2,2026-01-08,delivered,unknown
+ORD2899,Jane Smith,test@gmail.com,Monitor,Electronics,115.76,1,2023-05-16,Delivered,unknown
+ORD2900,Carlos Ruiz,test@gmail.com,Monitor,Electronics,321.32,1,2026-02-17,Canceled,United States
+ORD2901,Unknown,test@gmail.com,Phone,Electronics,834.24,5,2024-12-26,Shipped,United States
+ORD2902,Unknown,user@yahoo.com,Keyboard,Electronics,449.92,2,2025-05-27,delivered,United States
+ORD2903,Maria Lopez,user@yahoo.com,Laptop,Electronics,874.72,5,2023-04-06,Pending,unknown
+ORD2904,Maria Lopez,noemail@gmail.com,Laptop,Electronics,764.425,3,2025-02-22,Shipped,unknown
+ORD2905,Maria Lopez,test@gmail.com,Laptop,Electronics,764.425,1,2023-09-19,delivered,United States
+ORD2906,Jane Smith,example@outlook.com,Monitor,Electronics,569.92,4,2023-08-04,Delivered,unknown
+ORD2907,Jane Smith,user@yahoo.com,Keyboard,Unknown,866.26,5,2025-04-18,delivered,Mexico
+ORD2908,John Doe,user@yahoo.com,Monitor,Electronics,282.28,1,2025-05-26,Canceled,United States
+ORD2909,Unknown,noemail@gmail.com,Phone,Electronics,246.44,1,2023-01-22,Pending,United States
+ORD2910,Jane Smith,noemail@gmail.com,Monitor,Unknown,917.53,1,2024-06-19,Canceled,Mexico
+ORD2911,Maria Lopez,user@yahoo.com,Laptop,Electronics,323.38,3,2025-11-07,Shipped,United States
+ORD2912,Unknown,noemail@gmail.com,Laptop,Electronics,1271.43,4,2025-09-09,Pending,United States
+ORD2913,Carlos Ruiz,example@outlook.com,Keyboard,Unknown,1308.34,5,,delivered,United States
+ORD2914,Unknown,example@outlook.com,Phone,Unknown,764.425,2,2026-01-09,Canceled,Mexico
+ORD2915,Maria Lopez,example@outlook.com,Keyboard,Electronics,329.84,1,2024-12-01,delivered,United States
+ORD2916,Jane Smith,noemail@gmail.com,Keyboard,Electronics,1201.23,3,2023-11-12,Shipped,unknown
+ORD2917,Maria Lopez,user@yahoo.com,Monitor,Unknown,1000.47,2,2023-08-27,Pending,United States
+ORD2918,Jane Smith,noemail@gmail.com,Monitor,Electronics,1093.35,1,2024-05-20,Shipped,United States
+ORD2919,Unknown,noemail@gmail.com,Phone,Electronics,255.68,4,2026-01-15,Canceled,United States
+ORD2920,Maria Lopez,test@gmail.com,Tablet,Electronics,1284.16,4,,Pending,United States
+ORD2921,Maria Lopez,example@outlook.com,Laptop,Unknown,201.85,1,2024-06-19,Pending,United States
+ORD2922,John Doe,noemail@gmail.com,Keyboard,Unknown,1310.06,4,2025-03-05,Delivered,Mexico
+ORD2923,Maria Lopez,noemail@gmail.com,Tablet,Electronics,768.99,2,,delivered,unknown
+ORD2924,Unknown,noemail@gmail.com,Phone,Electronics,966.23,4,2023-03-05,Delivered,United States
+ORD2925,Unknown,user@yahoo.com,Tablet,Electronics,696.96,3,2025-12-07,Canceled,United States
+ORD2926,Unknown,example@outlook.com,Keyboard,Unknown,999.82,2,2025-06-21,delivered,Mexico
+ORD2927,Unknown,example@outlook.com,Tablet,Electronics,1029.16,1,2023-10-26,Canceled,United States
+ORD2928,Maria Lopez,example@outlook.com,Monitor,Unknown,677.08,5,2025-10-29,delivered,United States
+ORD2929,Unknown,test@gmail.com,Keyboard,Unknown,135.58,4,2023-09-16,Canceled,Mexico
+ORD2930,Unknown,test@gmail.com,Laptop,Unknown,846.08,3,2025-04-14,Shipped,United States
+ORD2931,Carlos Ruiz,noemail@gmail.com,Monitor,Electronics,391.0,4,2023-10-24,Pending,Mexico
+ORD2932,Carlos Ruiz,test@gmail.com,Tablet,Electronics,1005.79,2,2025-05-25,Canceled,United States
+ORD2933,John Doe,test@gmail.com,Monitor,Electronics,1057.33,3,2024-09-27,delivered,unknown
+ORD2934,Unknown,test@gmail.com,Tablet,Unknown,424.58,1,2023-08-13,Canceled,Mexico
+ORD2935,Maria Lopez,noemail@gmail.com,Keyboard,Unknown,561.75,2,2023-07-27,delivered,United States
+ORD2936,Maria Lopez,user@yahoo.com,Monitor,Electronics,1459.15,2,2023-02-18,Delivered,unknown
+ORD2937,Maria Lopez,example@outlook.com,Laptop,Electronics,814.99,4,2024-04-30,Shipped,unknown
+ORD2938,Jane Smith,noemail@gmail.com,Tablet,Electronics,1379.98,1,2024-06-17,Canceled,United States
+ORD2939,Jane Smith,noemail@gmail.com,Phone,Electronics,667.69,2,2023-04-13,Canceled,Mexico
+ORD2940,John Doe,test@gmail.com,Keyboard,Unknown,532.09,5,2025-10-22,Pending,United States
+ORD2941,Jane Smith,user@yahoo.com,Keyboard,Electronics,1047.16,3,2024-08-18,Delivered,United States
+ORD2942,Maria Lopez,test@gmail.com,Phone,Electronics,139.77,4,2024-08-26,Pending,Mexico
+,Unknown,example@outlook.com,Tablet,Unknown,1209.0,1,2025-09-15,Delivered,United States
+ORD2944,Unknown,example@outlook.com,Tablet,Unknown,424.25,3,,Canceled,United States
+ORD2945,Maria Lopez,test@gmail.com,Keyboard,Electronics,89.65,3,2024-07-05,Pending,United States
+ORD2946,Maria Lopez,test@gmail.com,Phone,Unknown,1198.06,5,2025-01-17,Pending,United States
+ORD2947,John Doe,test@gmail.com,Laptop,Electronics,1313.83,5,2023-09-19,Canceled,United States
+ORD2948,Unknown,test@gmail.com,Laptop,Electronics,1113.28,2,2024-04-20,delivered,United States
+ORD2949,Jane Smith,example@outlook.com,Phone,Unknown,581.52,3,2025-11-18,Pending,unknown
+ORD2950,Unknown,example@outlook.com,Tablet,Electronics,283.7,3,2024-06-09,Canceled,Mexico
+ORD2951,Unknown,example@outlook.com,Monitor,Unknown,120.37,2,2025-09-10,Delivered,United States
+ORD2952,Maria Lopez,noemail@gmail.com,Tablet,Electronics,854.13,4,2024-03-20,Canceled,United States
+ORD2953,Maria Lopez,test@gmail.com,Tablet,Electronics,1052.41,5,2025-12-19,Delivered,United States
+ORD2954,John Doe,noemail@gmail.com,Keyboard,Unknown,243.94,2,2023-09-20,Shipped,unknown
+ORD2955,Unknown,test@gmail.com,Phone,Electronics,74.75,1,2025-04-12,Shipped,United States
+ORD2956,John Doe,test@gmail.com,Monitor,Unknown,706.23,3,2025-08-13,Pending,unknown
+ORD2957,Maria Lopez,example@outlook.com,Laptop,Electronics,887.63,5,2023-03-15,Canceled,United States
+ORD2958,Jane Smith,example@outlook.com,Keyboard,Electronics,874.37,1,2024-05-21,Canceled,United States
+ORD2959,Carlos Ruiz,example@outlook.com,Monitor,Electronics,1351.81,2,2026-02-04,delivered,United States
+ORD2960,Carlos Ruiz,user@yahoo.com,Tablet,Electronics,1198.09,2,2026-01-08,Shipped,unknown
+ORD2961,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,214.63,1,2023-05-10,Shipped,unknown
+ORD2962,Maria Lopez,example@outlook.com,Laptop,Unknown,911.14,3,2024-07-01,Shipped,unknown
+ORD2963,Maria Lopez,example@outlook.com,Keyboard,Electronics,434.81,2,2025-02-01,Canceled,Mexico
+ORD2964,Maria Lopez,user@yahoo.com,Laptop,Electronics,617.63,3,2024-10-10,delivered,United States
+ORD2965,Jane Smith,user@yahoo.com,Keyboard,Electronics,533.66,1,2026-02-20,Pending,United States
+ORD2966,John Doe,test@gmail.com,Keyboard,Unknown,764.425,1,2025-03-08,Canceled,Mexico
+ORD2967,Carlos Ruiz,example@outlook.com,Laptop,Electronics,665.15,1,2025-02-13,Canceled,unknown
+ORD2968,John Doe,example@outlook.com,Tablet,Electronics,551.5,2,2024-10-07,delivered,Mexico
+ORD2969,Maria Lopez,test@gmail.com,Keyboard,Electronics,1270.63,5,2023-12-21,Pending,unknown
+ORD2970,Unknown,test@gmail.com,Tablet,Electronics,1389.98,5,2023-03-03,Delivered,Mexico
+ORD2971,Carlos Ruiz,example@outlook.com,Keyboard,Electronics,373.0,3,2024-11-24,Shipped,United States
+ORD2972,Unknown,user@yahoo.com,Laptop,Electronics,1435.05,3,2024-03-10,Shipped,Mexico
+,Maria Lopez,user@yahoo.com,Monitor,Electronics,747.42,2,2024-06-25,Delivered,unknown
+ORD2974,Maria Lopez,noemail@gmail.com,Tablet,Unknown,611.02,3,2023-05-10,Pending,United States
+ORD2975,Unknown,example@outlook.com,Monitor,Electronics,772.61,4,2023-07-30,Canceled,unknown
+ORD2976,Carlos Ruiz,user@yahoo.com,Keyboard,Electronics,297.28,4,2023-06-22,delivered,United States
+ORD2977,John Doe,example@outlook.com,Tablet,Electronics,1176.0,1,2024-06-11,Pending,unknown
+ORD2978,Maria Lopez,test@gmail.com,Laptop,Electronics,890.47,1,2024-12-13,Pending,Mexico
+ORD2979,Unknown,test@gmail.com,Laptop,Electronics,1005.62,1,2023-08-09,Delivered,United States
+ORD2980,Maria Lopez,example@outlook.com,Keyboard,Electronics,1117.14,1,2024-06-04,Pending,United States
+ORD2981,Carlos Ruiz,test@gmail.com,Monitor,Electronics,690.27,3,2025-10-17,Delivered,United States
+ORD2982,Unknown,user@yahoo.com,Phone,Electronics,87.55,1,2024-06-14,Canceled,United States
+ORD2983,Maria Lopez,noemail@gmail.com,Keyboard,Electronics,1484.78,1,2024-02-14,Canceled,United States
+ORD2984,Maria Lopez,example@outlook.com,Monitor,Electronics,1234.56,2,2023-04-21,Canceled,unknown
+ORD2985,Maria Lopez,noemail@gmail.com,Laptop,Electronics,981.9,2,2025-10-23,Pending,United States
+ORD2986,Maria Lopez,example@outlook.com,Monitor,Electronics,954.81,4,2024-09-19,Delivered,United States
+ORD2987,Jane Smith,test@gmail.com,Laptop,Electronics,969.16,1,2023-12-03,Canceled,Mexico
+ORD2988,Unknown,test@gmail.com,Laptop,Unknown,1412.13,5,2023-07-10,delivered,United States
+ORD2989,Maria Lopez,user@yahoo.com,Tablet,Unknown,469.26,1,2024-05-14,Delivered,United States
+ORD2990,Unknown,user@yahoo.com,Laptop,Electronics,1030.21,5,2025-09-29,Shipped,United States
+ORD2991,John Doe,noemail@gmail.com,Keyboard,Electronics,1282.77,3,2024-06-16,Shipped,United States
+ORD2992,Carlos Ruiz,example@outlook.com,Laptop,Electronics,1241.08,5,2023-07-17,Pending,unknown
+ORD2993,Unknown,test@gmail.com,Keyboard,Unknown,1378.63,4,2025-01-17,Shipped,United States
+ORD2994,Jane Smith,user@yahoo.com,Keyboard,Electronics,884.87,2,2024-07-03,Delivered,United States
+ORD2995,Maria Lopez,test@gmail.com,Phone,Electronics,836.95,3,2024-06-02,Shipped,United States
+ORD2996,Carlos Ruiz,example@outlook.com,Laptop,Unknown,1334.72,3,2025-05-27,Shipped,United States
+ORD2997,Carlos Ruiz,example@outlook.com,Tablet,Electronics,1020.97,4,2023-08-04,delivered,United States
+ORD2998,Maria Lopez,example@outlook.com,Monitor,Electronics,764.425,1,2025-09-05,Canceled,Mexico
+ORD2999,Jane Smith,test@gmail.com,Laptop,Electronics,764.425,2,2025-09-07,Canceled,United States
+ORD1065,Carlos Ruiz,noemail@gmail.com,Laptop,Unknown,728.51,3,2025-06-04,Canceled,United States
+ORD1128,Maria Lopez,user@yahoo.com,Tablet,Electronics,1327.36,3,2024-06-08,Pending,United States
+ORD1099,Carlos Ruiz,noemail@gmail.com,Tablet,Electronics,899.1,2,2024-09-17,Shipped,United States
+ORD1029,John Doe,test@gmail.com,Tablet,Unknown,264.62,4,2025-08-10,Delivered,unknown
+ORD1124,Carlos Ruiz,user@yahoo.com,Monitor,Electronics,479.91,2,2025-08-27,Canceled,unknown
+ORD1070,Maria Lopez,user@yahoo.com,Laptop,Electronics,600.15,2,2025-11-16,Pending,United States
+ORD1111,Maria Lopez,example@outlook.com,Laptop,Electronics,924.46,2,2024-10-02,Canceled,United States
+,Carlos Ruiz,example@outlook.com,Monitor,Unknown,876.81,4,2024-07-24,Delivered,Mexico
+ORD1478,Maria Lopez,example@outlook.com,Tablet,Electronics,1136.12,5,2023-11-02,Pending,unknown
